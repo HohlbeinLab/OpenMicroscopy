@@ -1,4 +1,4 @@
-## Open-source software 
+## Open--microscopy software 
 * <a href="https://doi.org/10.1063/1.5005899"> <strong> Phasor-based single-molecule localization microscopy </strong> <a> <br>
 Very fast and accurate single-molecule localization algorithm implemented in a open-source <a href="https://github.com/kjamartens/thunderstorm/tree/phasor-intensity-1"> ThunderSTORM ImageJ plugin</a> . 
 
