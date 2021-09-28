@@ -1,6 +1,6 @@
 Welcome to the open-microscopy page! This is a non-comprehensive list of open-source and open-hardware projects that are related to microscopy. If you want to have your project added, edited or removed, please issue a merge request or contact us.
 
-## Open-source hardware
+## Open-source hardware <a href="/src/OpenHardware"> <strong> open-source hardware </strong> <a> <br>
 * <a href="https://doi.org/10.5334%2Fjoh.8"> <strong> µCube </strong> <a> <br>
 A framework for 3D printable optomechanics. Haseloff lab 2018.  <a href="https://mdelmans.github.io/uCube/"> <strong> Github</a> </strong> . 
 
