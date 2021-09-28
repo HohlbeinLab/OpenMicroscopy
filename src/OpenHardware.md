@@ -1,20 +1,20 @@
 ## Open-source hardware 
 * <a href="https://doi.org/10.5334%2Fjoh.8"> <strong> µCube </strong> <a> <br>
-A framework for 3D printable optomechanics. Haseloff lab 2018.  <a href="https://mdelmans.github.io/uCube/"> <strong> Github</a> </strong> . 
+A framework for 3D printable optomechanics. Haseloff lab 2018.  <a href="https://mdelmans.github.io/uCube/"> Github page</a>. 
 
 * <a href="https://doi.org/10.1038/s41467-019-09231-9"> <strong> NanoJ-fluidics </strong> <a> <br>
-Open-source fluid exchange in microscopy. Henriques lab 2018. <a href="https://github.com/HenriquesLab/NanoJ-Fluidics"> <strong> Github </strong> </a>. 
+Open-source fluid exchange in microscopy. Henriques lab 2018. <a href="https://github.com/HenriquesLab/NanoJ-Fluidics"> Github page </a>. 
 
 * <a href="https://wosmic.org/"> <strong> WOSM </strong> </a> <br>
 The Warwick Open Source Microscope.
 
 * <a href="https://doi.org/10.1002%2Fcphc.201800630"> <strong> liteTIRF </strong> </a> <br>
-Super-resolution for 20k Euros. See also <a href="http://www.alexauer.me/litetirf/">here</a> for a detailed description. Jungmann lab 2018. 
+Super-resolution for 20k Euros. Jungmann lab 2018. See also <a href="http://www.alexauer.me/litetirf/">here</a> for a detailed description. 
 
 * <a href="https://doi.org/10.1371%2Fjournal.pone.0173879"> <strong> NicoLase </strong> </a> <br>
 An open-source diode laser combiner, fiber launch, and sequencing controller for fluorescence microscopy. Gaus lab 2017. <a href="https://github.com/PRNicovich/NicoLase"> <strong> Github </strong> </a>. 
 
-* <a href="https://github.com/rwb27/openflexure_microscope"> <strong>OpenFlexure microscope </strong> </a> <br>
+* <a href="https://github.com/rwb27/openflexure_microscope"> <strong> OpenFlexure microscope </strong> </a> <br>
 A one-piece 3D printed flexure translation stage for open-source microscopy. Bowman lab 2016. 
 
 * <a href="http://openspim.org/Welcome_to_the_OpenSPIM_Wiki"> <strong> openSPIM </strong> </a> <br>
