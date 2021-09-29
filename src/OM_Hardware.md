@@ -35,8 +35,8 @@ easySTORM: a robust, lower-cost approach to localisation and TIRF microscopy. Fr
 * <a href="https://doi.org/10.1002%2Fcphc.201300739"> <strong> STORM </strong> </a> <br>
 A blueprint for cost-efficient localization microscopy. Sauer lab 2014. 
 
-* <a href="https://doi.org/10.1101/121061"> <strong> Omnipresent Localisation Microscope (OLM) </strong> </a> <br>
-High-density superresolution microscopy with an incoherent light source and a conventional epifluorescence microscope setup. Prakash 2018. 
+* <a href="https://doi.org/10.1098/rsta.2020.0144"> <strong> Laser-free super-resolution microscopy (LFSM) </strong> </a> <br>
+High-density superresolution microscopy with an incoherent light source and a conventional epifluorescence microscope setup by Kirti Prakash. Philosophical Transactions of the Royal Society A 379.2199 (2021): 20200144. 
 
 * <a href="http://big.umassmed.edu/wiki/index.php/PgFocus"> <strong> pgFocus </strong> </a> <br>
 pgFocus is an open source and open hardware, for noncommercial use, focus stabilization device developed by Karl Bellvé.
