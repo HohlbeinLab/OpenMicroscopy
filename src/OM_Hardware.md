@@ -1,20 +1,19 @@
-## Open-microscopy hardware 
-* <a href="https://doi.org/10.5334%2Fjoh.8"> <strong> µCube </strong> <a> <br>
-A framework for 3D printable optomechanics. Haseloff lab 2018.  <a href="https://mdelmans.github.io/uCube/"> Github page</a>. 
+|Project Name | Description | Resources  
+|---|---|---
+|<img width=100/>|<img width=450/>|<img width=100/>
+| **µCube**| A framework for 3D printable optomechanics. Haseloff lab 2018. A framework for 3D printable optomechanics. Haseloff lab 2018.| <a href="https://doi.org/10.5334%2Fjoh.8"> Paper, <a> <a href="https://mdelmans.github.io/uCube/"> Github</a>
+| **NanoJ-Fluidics** | Open-source fluid exchange in microscopy. Henriques lab 2018. | <a href="https://doi.org/10.1038/s41467-019-09231-9"> Paper, <a> <a href="https://github.com/HenriquesLab/NanoJ-Fluidics"> Github </a> 
 
-* <a href="https://doi.org/10.1038/s41467-019-09231-9"> <strong> NanoJ-fluidics </strong> <a> <br>
-Open-source fluid exchange in microscopy. Henriques lab 2018. <a href="https://github.com/HenriquesLab/NanoJ-Fluidics"> Github page </a>. 
-
-* <a href="https://wosmic.org/"> <strong> WOSM </strong> </a> <br>
+* <a href="https://wosmic.org/"> <strong> WOSM. </strong> </a> 
 The Warwick Open Source Microscope.
 
-* <a href="https://doi.org/10.1002%2Fcphc.201800630"> <strong> liteTIRF </strong> </a> <br>
+* <a href="https://doi.org/10.1002%2Fcphc.201800630"> <strong> liteTIRF. </strong> </a> 
 Super-resolution for 20k Euros. Jungmann lab 2018. See also <a href="http://www.alexauer.me/litetirf/">here</a> for a detailed description. 
 
-* <a href="https://doi.org/10.1371%2Fjournal.pone.0173879"> <strong> NicoLase </strong> </a> <br>
+* <a href="https://doi.org/10.1371%2Fjournal.pone.0173879"> <strong> NicoLase. </strong> </a> 
 An open-source diode laser combiner, fiber launch, and sequencing controller for fluorescence microscopy. Gaus lab 2017. <a href="https://github.com/PRNicovich/NicoLase"> <strong> Github </strong> </a>. 
 
-* <a href="https://github.com/rwb27/openflexure_microscope"> <strong> OpenFlexure microscope </strong> </a> <br>
+* <a href="https://github.com/rwb27/openflexure_microscope"> <strong> OpenFlexure microscope. </strong> </a> 
 A one-piece 3D printed flexure translation stage for open-source microscopy. Bowman lab 2016. 
 
 * <a href="http://openspim.org/Welcome_to_the_OpenSPIM_Wiki"> <strong> openSPIM </strong> </a> <br>
@@ -28,6 +27,11 @@ A smartphone spectrophotometry for readout of fluorescence-based biological assa
 
 * <a href="https://doi.org/10.1371/journal.pone.0110475"> <strong> Open-Source Two-Photon Microscopy </strong> </a> <br>
 A high performance, cost-effective, open-source microscope for scanning two-photon microscopy that is modular and readily adaptable.
+
+* <a href="https://doi.org/10.1371/journal.pone.0110475"> <strong> Open-Source Two-Photon Microscopy </strong> </a> 
+  A high performance, cost-effective, open-source microscope for scanning two-photon microscopy that is modular and readily adaptable.
+  
+* <a href="https://doi.org/10.1371/journal.pone.0110475"> <strong> Open-Source Two-Photon Microscopy </strong> </a> A high performance, cost-effective, open-source microscope for scanning two-photon microscopy that is modular and readily adaptable.
 
 * <a href="https://doi.org/10.1002%2Fjbio.201500324"> <strong> easySTORM </strong> </a> <br>
 easySTORM: a robust, lower-cost approach to localisation and TIRF microscopy. French lab 2016. 
