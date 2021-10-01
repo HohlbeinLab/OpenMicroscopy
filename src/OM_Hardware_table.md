@@ -6,7 +6,7 @@
 |**LSFM**|Laser-free super-resolution microscopy (LFSM). High-density superresolution microscopy with an incoherent light source and a conventional epifluorescence microscope setup by Kirti Prakash.|[Prakash2021](https://doi.org/10.1098/rsta.2020.0144)
 |**liteTIRF** |Super-resolution microscopy for 20k Euros. Jungmann lab. |[Auer2018](https://doi.org/10.1002%2Fcphc.201800630) |[Weblink](http://litetirf.jungmannlab.org/)|
 |**Incubation box** |Microscope incubation box for home built single molecule microscope. Holden lab. |[Github](https://github.com/HoldenLab/microscope-incubation-box)
-|**NanoJ-fluidics** |Open-source fluid exchange in microscopy. Henriques lab.  | [Almada2019](https://doi.org/10.1038/s41467-019-09231-9), [Github](https://github.com/HenriquesLab/NanoJ-Fluidics)
+|**NanoJ-fluidics** |Open-source fluid exchange in microscopy. Henriques lab.  |[Almada2019](https://doi.org/10.1038/s41467-019-09231-9), [Github](https://github.com/HenriquesLab/NanoJ-Fluidics)
 
 
 | [Nicovich et al. ](https://doi.org/10.1371%2Fjournal.pone.0173879) |  NicoLase  |  An open-source diode laser combiner, fiber launch, and sequencing controller for fluorescence microscopy. Gaus lab 2017. |  https://github.com/PRNicovich/NicoLase  |
