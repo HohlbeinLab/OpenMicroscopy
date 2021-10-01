@@ -1,12 +1,14 @@
-| <div style="width:190px">Publication</div>  | Project Name  | Description | Weblink |
-| ---| --- | --- | --- |
-| [Kwakwa eta al., 2015](https://doi.org/10.1002%2Fjbio.201500324) |  easySTORM |  easySTORM: a robust, lower-cost approach to localisation and TIRF microscopy. French lab 2016.  |
-| [Jahr et al., 2016](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0161402) |  eduSPIM |  An educational light sheet microscope. Huisken lab 2016.  |
-| [Prakash 2021](https://doi.org/10.1098/rsta.2020.0144)   |  Laser-free super-resolution microscopy (LFSM) |  High-density superresolution microscopy with an incoherent light source and a conventional epifluorescence microscope setup by Kirti Prakash. Philosophical Transactions of the Royal Society A 379.2199 (2021): 20200144. |
-|  [Schröder et al.](https://www.osapublishing.org/boe/fulltext.cfm?uri=boe-11-2-609&id=425622) |  Laser Engine  |  Blueprints for a low-cost laser engine for wide-field and localization microscopy. Information on their |  https://github.com/ries-lab/LaserEngine |
-| [Auer et al.](https://doi.org/10.1002%2Fcphc.201800630) |  liteTIR |  Super-resolution for 20k Euros. Jungmann lab 2018. See also    |  http://www.alexauer.me/litetirf |
-|  |  Microscope incubation box |  Microscope incubation box for home built single molecule microscope. Holden lab.   | https://github.com/HoldenLab/microscope-incubation-box
-| [Almada et al. ](https://www.nature.com/articles/s41467-019-09231-9) |  NanoJ-fluidics    |  Open-source fluid exchange in microscopy. Henriques lab 2018.  |  https://github.com/HenriquesLab/NanoJ-Fluidics |
+| <div style="width:100px">Project</div>  | <div style="width:400px">Description</div> | <div style="width:100px">Resources</div> |
+| :---| :--- | :--- 
+|**easySTORM** |easySTORM: a robust, lower-cost approach to localisation and TIRF microscopy. French lab. |[Kwakwa2015](https://doi.org/10.1002%2Fjbio.201500324)
+|**eduSPIM** |An educational light sheet microscope. Huisken lab. |[Jahr2016](https://doi.org/10.1371/journal.pone.0161402) 
+|**Laser Engine**  |Blueprints for a low-cost laser engine for wide-field and localization microscopy. Ries lab. |[Schröder2020](https://www.osapublishing.org/boe/fulltext.cfm?uri=boe-11-2-609&id=425622), [Github](https://github.com/ries-lab/LaserEngine)|
+|**LSFM**|Laser-free super-resolution microscopy (LFSM). High-density superresolution microscopy with an incoherent light source and a conventional epifluorescence microscope setup by Kirti Prakash.|[Prakash2021](https://doi.org/10.1098/rsta.2020.0144)
+|**liteTIRF** |Super-resolution microscopy for 20k Euros. Jungmann lab. |[Auer2018](https://doi.org/10.1002%2Fcphc.201800630) |[Weblink](http://litetirf.jungmannlab.org/)|
+|**Incubation box** |Microscope incubation box for home built single molecule microscope. Holden lab. |[Github](https://github.com/HoldenLab/microscope-incubation-box)
+|**NanoJ-fluidics** |Open-source fluid exchange in microscopy. Henriques lab.  | [Almada2019](https://doi.org/10.1038/s41467-019-09231-9), [Github](https://github.com/HenriquesLab/NanoJ-Fluidics)
+
+
 | [Nicovich et al. ](https://doi.org/10.1371%2Fjournal.pone.0173879) |  NicoLase  |  An open-source diode laser combiner, fiber launch, and sequencing controller for fluorescence microscopy. Gaus lab 2017. |  https://github.com/PRNicovich/NicoLase  |
 | [Li et al. ](https://www.biorxiv.org/content/10.1101/684423v1)  |  Octopi  |  Open configurable high-throughput imaging platform for infectious disease diagnosis in the field. Prakash lab, 2019. |
 | [Rosenberger et al. ](https://doi.org/10.1371/journal.pone.0110475) |  Open-Source Two-Photon Microscopy |  A high performance, cost-effective, open-source microscope for scanning two-photon microscopy that is modular and readily adaptable.   |
