@@ -39,9 +39,9 @@
 | **openSpin** | Various optical setups for large scale projection/tomography-based imaging | [Website](https://sites.google.com/site/openspinmicroscopy/)  |
 | **OpenT** | Optical micro tomography | [Felix et al.](https://www.sciencedirect.com/science/article/pii/S0925477316300089) |
 | **OptiJ** | Optical Projection Tomography with Fiji | [Ramirez](https://www.nature.com/articles/s41598-019-52065-0) |
-| [https://doi.org/10.1371/journal.pone.0180309](https://doi.org/10.1371/journal.pone.0180309) | OPTiM (?)  | stage inset plus control for OPT on commercial base |
-|    | OS 3-D Microscope  | Hacking a 3D printer    | [https://www.appropedia.org/Free\_and\_open-source\_automated\_3-D\_microscope](https://www.appropedia.org/Free_and_open-source_automated_3-D_microscope) |
-|    | PlanktoScope  | For citizen science, sea, plankton    | [https://www.planktoscope.org/](https://www.planktoscope.org/) |
+| **OPTiM**  | Optical projection tomography integrated microscope using open-source hardware and software | [Watson et al.](https://doi.org/10.1371/journal.pone.0180309)|
+| **-** | Free and open-source automated 3-D microscope  | [Wiki](https://www.appropedia.org/Free_and_open-source_automated_3-D_microscope) |
+|  **PlanktonScope** | Sea and plankton imaging for citizen science | [Pollina et al.](https://www.biorxiv.org/content/10.1101/2020.04.23.056978v1), [Website](https://www.planktoscope.org/) |
 | [https://doi.org/10.1111/jmi.13043](https://doi.org/10.1111/jmi.13043)   | PUMA | modular, option to add SLM, heads up display etc   | [https://github.com/TadPath/PUMA/tree/v0.1](https://github.com/TadPath/PUMA/tree/v0.1)  |
 |    | smartphone mircoscope | "10 dollar". outreach / education | [https://www.instructables.com/10-Smartphone-to-digital-microscope-conversion/](https://www.instructables.com/10-Smartphone-to-digital-microscope-conversion/) |
 | [https://www.nature.com/articles/s41467-020-19468-4](https://www.nature.com/articles/s41467-020-19468-4)  | smfBox   | single molecule FRET    | [https://craggslab.github.io/smfBox/](https://craggslab.github.io/smfBox/) |
