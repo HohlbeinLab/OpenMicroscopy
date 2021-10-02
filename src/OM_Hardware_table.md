@@ -42,14 +42,15 @@
 | **OPTiM**  | Optical projection tomography integrated microscope using open-source hardware and software | [Watson et al.](https://doi.org/10.1371/journal.pone.0180309)|
 | **-** | Free and open-source automated 3-D microscope  | [Wiki](https://www.appropedia.org/Free_and_open-source_automated_3-D_microscope) |
 |  **PlanktonScope** | Sea and plankton imaging for citizen science | [Pollina et al.](https://www.biorxiv.org/content/10.1101/2020.04.23.056978v1), [Website](https://www.planktoscope.org/) |
-| [https://doi.org/10.1111/jmi.13043](https://doi.org/10.1111/jmi.13043)   | PUMA | modular, option to add SLM, heads up display etc   | [https://github.com/TadPath/PUMA/tree/v0.1](https://github.com/TadPath/PUMA/tree/v0.1)  |
-|    | smartphone mircoscope | "10 dollar". outreach / education | [https://www.instructables.com/10-Smartphone-to-digital-microscope-conversion/](https://www.instructables.com/10-Smartphone-to-digital-microscope-conversion/) |
-| [https://www.nature.com/articles/s41467-020-19468-4](https://www.nature.com/articles/s41467-020-19468-4)  | smfBox   | single molecule FRET    | [https://craggslab.github.io/smfBox/](https://craggslab.github.io/smfBox/) |
-|    | Squid    | High optical quality, Metal assemblies, full software stack | [https://squid-imaging.org/](https://squid-imaging.org/) |
-|    | UC2 | Modular Optical Toolbox for sophisticated Microscopy in Research and Education | [www.youseetoo.org](http://www.youseetoo.org/)  |
-| [https://openhardware.metajnl.com/articles/10.5334/joh.8/](https://openhardware.metajnl.com/articles/10.5334/joh.8/)   | μCube    | Cube-based modular optical set   | [https://mdelmans.github.io/uCube/](https://mdelmans.github.io/uCube/) |
-
-| [https://doi.org/10.1364/BOE.423492](https://doi.org/10.1364/BOE.423492) | HIT SIM  | addon module, triggering/timing control via u-controller   |
-
-flypi
-picrocope
+| **PUMA** | modular, option to add SLM, heads up display etc   | [https://github.com/TadPath/PUMA/tree/v0.1](https://github.com/TadPath/PUMA/tree/v0.1)  |
+| **smfBox** | Single molecule FRET | [Ambrose et al. 2020](https://www.nature.com/articles/s41467-020-19468-4), [GitHub](https://craggslab.github.io/smfBox/) |
+|   **Squid**    | High optical quality, Metal assemblies, full software stack | [https://squid-imaging.org/](https://squid-imaging.org/) |
+|  **UC2-Hi2**  | High-throughput microscopy inside an incubator robot  | [Ouyang 2021 et al.](https://www.biorxiv.org/content/10.1101/2021.06.24.449732v1), [GitHub](https://github.com/openUC2/UC2-Hi2)  |
+| **HIT SIM**  | Self-contained and modular structured illumination microscope | [Van den Eynde 2021 et al.](https://doi.org/10.1364/BOE.423492)
+| **FlyPi** | A 3D-printable open-source platform for fluorescence microscopy, optogenetics, and accurate temperature control during behaviour of zebrafish, Drosophila, and Caenorhabditis elegans | [Chagas 2017 et al.](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2002702) |
+| **Pi-based FPM** | Low-cost, sub-micron resolution, wide-field computational microscopy using opensource hardware | [Aidukas 2019 et al.](https://www.nature.com/articles/s41598-019-43845-9)|
+| **Microscopi** | Democratising “Microscopi”: a 3D printed automated XYZT fluorescence imaging system for teaching, outreach and fieldwork | [Website](https://micronoxford.com/microscopi-3d-printed-1), [Wincott et al. 2020 ](https://www.biorxiv.org/content/10.1101/2020.05.21.108894v1.full.pdf) |
+| **Open Ocular** | Open-Source 3D printable Eyepiece Adapter for the cellphone | [Website](https://www.openocular.com/), [Thingiverse](https://www.openocular.com/) |
+| **Beamerscope** | Using machine-learning to optimize phase contrast in a low-cost cellphone microscope | [Diederich 2018 et al.](https://journals.plos.org/plosone/article/authors?id=10.1371/journal.pone.0192937), [GitHHub](https://github.com/bionanoimaging/Beamerscope_CAD)|
+| **Raspi-based Fluorescence Microscope** | Facile assembly of an affordable miniature multicolor fluorescence microscope made of 3D-printed parts enables detection of single cells | [Tristan-Landin et al. 2019](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0215114)|
+| Miniscope | Circuit Investigations With Open-Source Miniaturized Microscopes: Past, Present and Future | [Aharoni et al. 2019](https://www.frontiersin.org/articles/10.3389/fncel.2019.00141/full), [GitHub](https://github.com/Aharoni-Lab/Miniscope-v4), [Wiki](http://miniscope.org/index.php/Main_Page) |
