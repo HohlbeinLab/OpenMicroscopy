@@ -1,4 +1,6 @@
-Welcome to the open microscopy page! This is a non-comprehensive list of projects and resources related to open microscopy. If you want to have a project added, edited or removed, please issue a merge request or contact us.
+## Welcome to the open microscopy page!
+This is a non-comprehensive list of projects and resources related to open microscopy. 
+
 * [**Hardware for open microscopy**](/src/OM_Hardware.md) 
 * [**Software for open microscopy**](/src/OM_Software.md)
 * [**Forums for open microscopy**](/src/OM_Forums.md)	
