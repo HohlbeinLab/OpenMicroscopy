@@ -1,6 +1,6 @@
 | <div style="width:150px">Project</div>  | <div style="width:400px">Description</div> | <div style="width:150px">Resources</div> |
 | :---| :--- | :---
-|**-** |Free and open-source automated 3-D microscope.  |[Wiki](https://www.appropedia.org/Free_and_open-source_automated_3-D_microscope)
+|**-** |Free and open-source automated 3-D microscope. |[Wiki](https://www.appropedia.org/Free_and_open-source_automated_3-D_microscope)
 |**AttoBright** |Single-molecule detection on a portable 3D-printed microscope. Gambin lab. |[Brown2019](https://doi.org/10.1038/s41467-019-13617-0), [GitHub](https://github.com/GambinSiereckiLab/AttoBright)
 |**Beamerscope** |Using machine-learning to optimize phase contrast in a low-cost cellphone microscope. |[Diederich2018](https://journals.plos.org/plosone/article/authors?id=10.1371/journal.pone.0192937), [GitHub](https://github.com/bionanoimaging/Beamerscope_CAD)|
 |**cellSTORM** |dSTORM using cellphone cameras and on-device neural network reconstruction. |[Diederich2019](https://doi.org/10.1371/journal.pone.0209827), [GitHub](https://github.com/bionanoimaging/cellSTORM-Android)
@@ -19,7 +19,7 @@
 |**LEGOLish** |LEGO(R)-based Light sheet microscopy  |[Website](http://legolish.org/)  
 |**LEMOLish** |LEGO(R)-based Light sheet microscopy of cleared samples |[Website](https://lemolish.mystrikingly.com/)
 |**LifeHack** |An open-source, modular microscope for live & fixed cell single-molecule imaging. Holden lab. |[GitHub](https://holdenlab.github.io/LifeHackWebsite/)
-|**liteTIRF** |Super-resolution microscopy for 20k Euros. Jungmann lab. |[Auer2018](https://doi.org/10.1002%2Fcphc.201800630) |[Weblink](http://litetirf.jungmannlab.org/)|
+|**liteTIRF** |Super-resolution microscopy for 20k Euros. Jungmann lab. |[Auer2018](https://doi.org/10.1002%2Fcphc.201800630), [Weblink](http://litetirf.jungmannlab.org/)
 |**LSFM**|Laser-free super-resolution microscopy (LFSM). High-density superresolution microscopy with an incoherent light source and a conventional epifluorescence microscope setup by Kirti Prakash.|[Prakash2021](https://doi.org/10.1098/rsta.2020.0144)
 |**MesoSPIM** |Advanced large-scale light sheet system |[Voigt2019](https://doi.org/10.1038/s41592-019-0554-0), [Website](https://mesospim.org/)|
 |**Microscopi**| Democratising “Microscopi”: a 3D printed automated XYZT fluorescence imaging system for teaching, outreach and fieldwork |[Wincott2020](https://www.biorxiv.org/content/10.1101/2020.05.21.108894v1) |[Website](https://micronoxford.com/microscopi-3d-printed-1), 
@@ -42,12 +42,12 @@
 |**pgFocus** |pgFocus is an open source and open hardware, for noncommercial use, focus stabilization device developed by Karl Bellvé.  |[Wiki](http://big.umassmed.edu/wiki/index.php/PgFocus)
 |**PlanktonScope** | Sea and plankton imaging for citizen science. Prakah lab. |[Pollina2020](https://www.biorxiv.org/content/10.1101/2020.04.23.056978v1), [Website](https://www.planktoscope.org/) |
 |**Pi-based FPM** |Low-cost, sub-micron resolution, wide-field computational microscopy using opensource hardware. Waller lab and Konda lab. |[Aidukas2019](https://www.nature.com/articles/s41598-019-43845-9)|
-|**PUMA** |Modular, option to add SLM, heads up display etc.  |[GitHub](https://github.com/TadPath/PUMA/tree/v0.1)  |
+|**PUMA** |Modular, option to add SLM, heads up display etc.  |[GitHub](https://github.com/TadPath/PUMA/tree/v0.1) 
 |**Raspi-based Fluorescence Microscope** |Facile assembly of an affordable miniature multicolor fluorescence microscope made of 3D-printed parts enables detection of single cells. | [Tristan-Landin2019](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0215114)|
 |**Smartphone Fluorescence Spectroscopy** |A smartphone spectrophotometry for readout of fluorescence-based biological assays. |[Yu2014](https://doi.org/10.1021/ac502080t)
 |**STORM** |A blueprint for cost-efficient localization microscopy. Sauer lab. |[Holm2014](https://doi.org/10.1002%2Fcphc.201300739)
-|**smfBox** |Microscpe for single-molecule FRET. | [Ambrose2020](https://doi.org/10.1038/s41467-020-19468-4), [GitHub.io](https://craggslab.github.io/smfBox/) |
-|**Squid**  |Squid: Simplifying quantitative imaging platform development and deployment. Prakash lab |[Li2020](https://doi.org/10.1101/2020.12.28.424613), [Website](https://squid-imaging.org/) |
+|**smfBox** |Microscpe for single-molecule FRET. | [Ambrose2020](https://doi.org/10.1038/s41467-020-19468-4), [GitHub.io](https://craggslab.github.io/smfBox/)
+|**Squid**  |Squid: Simplifying quantitative imaging platform development and deployment. Prakash lab |[Li2020](https://doi.org/10.1101/2020.12.28.424613), [Website](https://squid-imaging.org/)
 |**Two-Photon** |Open-source two-photon microscopy. Gordon lab |[Rosenberger2014](https://doi.org/10.1371/journal.pone.0110475)
 |**UC2 [You.See.Too.]** |UC2 is a general-purpose modular framework for making interactive (electro)-optical projects. Heintzmann lab. |[Diederich2020](https://doi.org/10.1038/s41467-020-19447-9), [GitHub](github.com/openUC2)
 |**UC2-Hi2**  |High-throughput microscopy inside an incubator robot. |[Ouyang2021](https://www.biorxiv.org/content/10.1101/2021.06.24.449732v1), [GitHub](https://github.com/openUC2/UC2-Hi2) 
