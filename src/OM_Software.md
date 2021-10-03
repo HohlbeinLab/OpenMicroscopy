@@ -26,7 +26,6 @@
 | **ZeroCostDL4Mic**  | Deep Learning accessible to microscopists by means of Google Colab Notebooks | [GitHub](https://github.com/HenriquesLab/ZeroCostDL4Mic) | [XX et al.](https://www.nature.com/articles/s41467-021-22518-0) |
 | **Multi-view deconvolution** | Real-time multi-view deconvolution | [Schmid et al. 2015](https://academic.oup.com/bioinformatics/article/31/20/3398/196164) |
 | **Deconvolution and multiview** | Rapid image deconvolution and multiview fusion for optical microscopy | [Guo et al. 2020](https://www.nature.com/articles/s41587-020-0560-x), [GitHub](https://github.com/eguomin/regDeconProject)
- |
 | **Labthings** | Internet-of-Things-based Hardware control (e.g. Microcontrolers) | [GitHub](https://github.com/labthings/python-labthings)|
 | **ImSwitch**  | Python-based microscopy control software; Plug-and-Play| [GitHub](https://github.com/kasasxav/ImSwitch)| [XX et al.](https://joss.theoj.org/papers/10.21105/joss.03394)|
 | **Imoy** | Browser- and Plugin-based Image Processing  and Machine Learning | [Website](http://imjjoy.io/) |
