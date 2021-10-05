@@ -26,7 +26,7 @@
 | **OpenFlexure Server** | Internet-of-things based microscopy control (Raspberry Pi) | [Website](http://openflexure.org/) |
 | **Phasor-based SMLM** |Phasor based single-molecule localization microscopy in 3D (pSMLM-3D): An algorithm for MHz localization rates using standard CPUs |[Martens2017](https://doi.org/10.1063/1.5005899), [GitHub](https://github.com/kjamartens/thunderstorm)
 | **pycro-manager** |Python-based Microscope-Control for micromanager. |[Pinkard2021](https://doi.org/10.1038/s41592-021-01087-6), [GitHub](https://github.com/micro-manager/pycro-manager)
-| **PYME** |Python-based open-source tool for super-resolution data. |[Marin2021](https://doi.org/10.1038/s41592-021-01165-9), [GitHub](https://github.com/python-microscopy/python-microscopy)
+| **PYME** |Python-based open-source tool for super-resolution microscopy and data. |[Marin2021](https://doi.org/10.1038/s41592-021-01165-9), [GitHub](https://github.com/python-microscopy/python-microscopy)
 | **Microscope-Cockpit**  |An open-source approach for user friendly fully programmable bespoke microscopy (Micron, Oxford).| [Website](https://micronoxford.com/python-microscope-cockpit), [GitHub](https://github.com/MicronOxford)
 | **Quantitative Phase Imaging Tools** | Various Tools to reconstruct brightfield images under varying illumination using inverse modeling and neural networks. Datasets. Lei Tian Lab. |[Website](https://sites.bu.edu/tianlab/open-source/), [GitHub](https://github.com/bu-cisl )
 | **QuPath** | Open software platform especially for histopathology. |[Bankhead2017](https://doi.org/10.1038/s41598-017-17204-5), [GitHub](https://qupath.github.io/),  
