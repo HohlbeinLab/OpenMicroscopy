@@ -3,7 +3,7 @@ This is a non-comprehensive list of projects and resources related to open micro
 
 * [**Data and protocol repositories for open microscopy**](/src/OM_Repos.md)	
 * [**Forums and learning for open microscopy**](/src/OM_Forums.md)	
-* [**Labs and groups active in open microscopy**](/src/OM_Labs.md)	
+* [**Labs and people active in open microscopy**](/src/OM_Labs.md)	
 * [**Hardware for open microscopy**](/src/OM_Hardware.md) 
 * [**Software for open microscopy**](/src/OM_Software.md)
 
