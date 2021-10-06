@@ -13,6 +13,7 @@
 |**Foldscope** |Origami-based paper microscope. Prakash-lab. |[Cybulski2014](https://doi.org/10.1371/journal.pone.0098781), [Website](https://www.foldscope.com/)
 |**Hackteria Microscopy** |Very cheap microscopy for teaching |[Wiki](http://hackteria.org/wiki/index.php/Laser-cut_microscopy_stages)
 |**HIT SIM**  |Self-contained and modular structured illumination microscope. |[Van_denEynde2021](https://doi.org/10.1364/BOE.423492)
+|**High-throughput cell biology**  |Open-source framework for automated high-throughput cell biology experiments. |[Katunin2021](https://doi.org/10.3389/fcell.2021.697584), [GitHub](https://github.com/frescolabs/FrescoM)
 |**Incubation box** |Microscope incubation box for home built single molecule microscope. Holden lab. |[GitHub](https://github.com/HoldenLab/microscope-incubation-box)
 |**Incubot** |A 3D printer-based microscope for long-term live cell imaging within a tissue culture incubator. Pickering lab. |[Merces2021](https://doi.org/10.1016/j.ohx.2021.e00189)
 |**Janelia Research Farms Open-Source Instrumentation** | Collection of various setups that can be replicated under an open-source license | [Website](https://www.janelia.org/open-science/search?sort_by=field_date&items_per_page=10&redirect=1&f[0]=field_tool_term_reference%3A5523) |
