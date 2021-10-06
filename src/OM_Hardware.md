@@ -15,6 +15,9 @@
 |**HIT SIM**  |Self-contained and modular structured illumination microscope. |[Van_denEynde2021](https://doi.org/10.1364/BOE.423492)
 |**Incubation box** |Microscope incubation box for home built single molecule microscope. Holden lab. |[GitHub](https://github.com/HoldenLab/microscope-incubation-box)
 |**Incubot** |A 3D printer-based microscope for long-term live cell imaging within a tissue culture incubator. Pickering lab. |[Merces2021](https://doi.org/10.1016/j.ohx.2021.e00189)
+|**Janelia Research Farms Open-Source Instrumentation** | Collection of various setups that can be replicated under an open-source license | [Website](https://www.janelia.org/open-science/search?sort_by=field_date&items_per_page=10&redirect=1&f[0]=field_tool_term_reference%3A5523) |
+|**Janelia Research Farms Open-Source Labtools** | Collection of helpful tools that can be creted in the lab | [Website](https://www.janelia.org/open-science/search?sort_by=field_date&items_per_page=10&redirect=1&f[0]=field_tool_term_reference%3A5524) |
+| **K2TIRF** | LED-based autofocusing system for super-resolution TIRF-based microscopes |  [GitHub](https://ganzingerlab.github.io/K2TIRF/K2TIRF/component_table.html)
 |**Laser Engine**  |Blueprints for a low-cost laser engine for wide-field and localization microscopy. Ries lab. |[Schröder2020](https://www.osapublishing.org/boe/fulltext.cfm?uri=boe-11-2-609&id=425622), [GitHub](https://github.com/ries-lab/LaserEngine)|
 |**LEGOLish** |LEGO(R)-based Light sheet microscopy  |[Website](http://legolish.org/)  
 |**LEMOLish** |LEGO(R)-based Light sheet microscopy of cleared samples |[Website](https://lemolish.mystrikingly.com/)
