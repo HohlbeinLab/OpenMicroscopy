@@ -9,11 +9,11 @@
 | **Cluster analysis for SMLM data**  | Software packages for cluster identification and anlasyis by Owen lab | [Rubin-Delanchy2015](https://doi.org/10.1038/nmeth.3612)
 | **CSBdeep** | Deep Learning platform for ImageJ/Fiji| [Website](https://csbdeep.bioimagecomputing.com/) 
 | **Deconvolution and multiview** | Rapid image deconvolution and multiview fusion for optical microscopy. Shroff lab.| [Guo2020](https://doi.org/10.1038/s41587-020-0560-x), [GitHub](https://github.com/eguomin/regDeconProject)
-| **fairSIM** | Open source SIM reconstruction | [Website](https://www.fairsim.org/),  [Müller2016](https://doi.org/10.1038/ncomms10980), [GitHub](https://github.com/fairSIM/fairSIM)
+| **fairSIM** | Open source SIM reconstruction. | [Website](https://www.fairsim.org/), [Müller2016](https://doi.org/10.1038/ncomms10980), [GitHub](https://github.com/fairSIM/fairSIM)
 | **Fiji** | General-purpose image processing. Fiji is just ImageJ. |[Schindelin2012](https://doi.org/10.1038/nmeth.2019), [Website](https://fiji.sc/) 
 | **ilastik** | Pixel and object classification using machine learning.  |[Berg2019](https://doi.org/10.1038/s41592-019-0582-9), [Website](https://www.ilastik.org/), [GitHub](https://github.com/ilastik/ilastik) 
 | **ImJoy** | Browser- and plugin-based image processing and machine learning. Lundberg lab and Zimmer lab. | [Ouyang2019](https://doi.org/10.1038/s41592-019-0627-0), [Website](http://imjjoy.io/)
-| **ImSwitch**  | Python-based microscopy control software; Plug-and-Play| [GitHub](https://github.com/kasasxav/ImSwitch)| [XX et al.](https://joss.theoj.org/papers/10.21105/joss.03394)|
+| **ImSwitch**  | Python-based microscopy control software, Plug-and-Play. Testa lab.| [CasasMoreno2021](https://doi.org/10.21105/joss.03394), [GitHub](https://github.com/kasasxav/ImSwitch) 
 | **Inverse Modelling** | All kinds of software projects that perform inverse modelling, deconvolution, lightfield microscopy, optical wave simulation, etc.; Code in Python, Matlab. Waller lab. |[GitHub](https://github.com/Waller-Lab)
 | **Labthings** | Internet-of-Things-based Hardware control (e.g. Microcontrolers) | [GitHub](https://github.com/labthings/python-labthings)|
 | **LIVECell** | A large-scale dataset for label-free live cell segmentation. | [Edlund2021](https://doi.org/10.1038/s41592-021-01249-6) 
