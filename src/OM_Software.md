@@ -2,6 +2,8 @@
 
 | <div style="width:150px">Project</div>  | <div style="width:400px">Description</div> | <div style="width:150px">Resources</div> |
 | :---| :--- | :---
+| **Biobeam** | Biobeam—Multiplexed wave-optical simulations of light-sheet microscopy (Python)| [Weigert2018](https://doi.org/10.1371/journal.pcbi.1006079). [GitHub](https://maweigert.github.io/biobeam)
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006079
 | **CARE** |Denoising that enables low-photon dose imaging using neural networks. | [Weigert2018](https://doi.org/10.1038/s41592-018-0216-7). [GitHub](https://github.com/CSBDeep/CSBDeep)
 | **Clij**| GPU-accelerated image processing.|[Haase2020](https://www.nature.com/articles/s41592-019-0650-1) [GitHub](https://clij.github.io/)
 | **Cellpose**  | Cell segmentation.  |[Stringer2021](https://doi.org/10.1038/s41592-020-01018-x), [GitHub](https://github.com/MouseLand/cellpose)

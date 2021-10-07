@@ -12,6 +12,6 @@
 | **Gitlab** | Repository for code, development platform |[Website](https://about.gitlab.com/) |
 | **Open Microscopy Environment** | Open Microscopy Environment, OME) is a consortium of universities, research labs, industry and developers producing open-source software and format standards for microscopy data | [Website](https://www.openmicroscopy.org/) |
 | **OpenOrganelle**  | Janelia's cells and tissues archive | [Website](https://openorganelle.janelia.org/) |
+| **Open Source Hardware Channel (PLoS One)**  | Currated List for Open Hardware projects in science (Tom Baden et al.) | [PLoS One](https://journals.plos.org/plosone/browse/open_source_hardware) |
 | **Protocols.io** | A secure platform for developing and sharing reproducible methods.  |[Website](https://www.protocols.io/)|
 | **Zenodo** | Most popular data sharing platform, integration with Github  | [Website](https://zenodo.org/)  |
-
