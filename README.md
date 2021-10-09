@@ -1,4 +1,7 @@
 ## Welcome to the open microscopy page!
+
+[![CC BY 4.0][cc-by-shield]][cc-by]
+
 This is a non-comprehensive list of projects and resources related to open microscopy.
 
 * [**Forums, learning resources, and other databases**](/src/OM_Forums.md)
@@ -10,12 +13,11 @@ This is a non-comprehensive list of projects and resources related to open micro
 ## Contributing
 The list of resources here is open for contributions. [Pull-requests](https://github.com/HohlbeinLab/OpenMicroscopy/pulls) with links to more open-microscopy resources and [issues suggesting further improvement](https://github.com/HohlbeinLab/OpenMicroscopy/issues) are welcome!
 
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+
+## License
 
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
-
-[![CC BY 4.0][cc-by-image]][cc-by]
 
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
