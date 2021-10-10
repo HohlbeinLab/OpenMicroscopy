@@ -9,12 +9,3 @@
 | **Ries lab** |Jonas Ries. EMBL Heidelberg. SMLM. | [Homepage](https://rieslab.de), [Software](https://rieslab.de#software), [Resources](https://rieslab.de/#resources), [GitHub](https://github.com/ries-lab)
 | **Royer lab** |Loic A. Royer. CZ Biohub. Advanced Microscopy, Bioimage Informatics. | [Homepage](https://www.royerlab.org/)
 | **York lab** |Andrew G. York. Calico. Microscopy Techniques. | [Homepage](https://andrewgyork.github.io/) [GitHub](https://github.com/AndrewGYork)
-
-
-People to add:
-- Jim Haseloff
-- Manu Prakash
-- UC2-Lab
-- Tom Baden
-- Tobias Wentzel
-- Richard Bowman

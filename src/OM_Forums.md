@@ -2,9 +2,12 @@
 | :---| :--- | :---
 | **Confocal-microscopy-list**  | Email-based communication on all things microscopy.| [Subscribe](https://lists.umn.edu/cgi-bin/wa?A0=confocalmicroscopy)
 | **Coursera**  | Microscopy courses with paid certification. | [Website](https://www.ebi.ac.uk/empiar/) 
-| **FPbase**  | Resource for fluorescent proteins and spectra/ | [Website](https://www.fpbase.org/), [FPspectra](https://www.fpbase.org/spectra/)
+| **EMBO**  | Conferences, lectures and trainings. | [Website](https://www.embo.org/conferences-training/) 
+| **FPbase**  | Resource for fluorescent proteins and spectra. | [Website](https://www.fpbase.org/), [FPspectra](https://www.fpbase.org/spectra/)
+| **France-Bioimaging**  | The French national research infrastructure for biological imaging. | [Website](https://france-bioimaging.org/about/)
 | **ImagingONEWORLD**  | Weekly microscopy talks.| [Website](https://www.rms.org.uk/network-collaborate/imaging-oneworld-series.html)
 | **image.sc** | Forum dedicated to imaging in the broadest sense. | [Website](https://forum.image.sc/)
+| **Marine Biological Laboratory (MBL)** | Advanced Research Training Courses. | [Website](https://www.mbl.edu/education/courses/)
 | **Microlist** | A searchable database of resources for light microscopists. | [Website](https://www.microlist.org/)
 | **MyScope	training** | MyScope	training by Microscopy Australia. | [Website](https://www.ebi.ac.uk/bioimage-archive/submit/)
 | **Nikon MicroscopyU** | Nikon microscopy centre, information on microscopy and imaging.  |[Website](https://www.microscopyu.com/)

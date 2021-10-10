@@ -5,7 +5,9 @@
 |**Beamerscope** |Using machine-learning to optimize phase contrast in a low-cost cellphone microscope. |[Diederich2018](https://journals.plos.org/plosone/article/authors?id=10.1371/journal.pone.0192937), [GitHub](https://github.com/bionanoimaging/Beamerscope_CAD)|
 |**cellSTORM** |dSTORM using cellphone cameras and on-device neural network reconstruction. |[Diederich2019](https://doi.org/10.1371/journal.pone.0209827), [GitHub](https://github.com/bionanoimaging/cellSTORM-Android)
 |**cellSTORM II** | Single-molecule localization microscopy using waveguide-based cellphone microscopy and 3D printing |[Diederich2020](https://www.biorxiv.org/content/10.1101/2020.09.04.283085v1), [GitHub](https://beniroquai.github.io/stormocheap/)
+|**Crossbill** | open access single objective light-sheet microscopy platform |[Kumar2021](https://doi.org/10.1101/2021.04.30.442190), [Zenodo/GitHub](https://doi.org/10.5281/zenodo.3554784)
 |**DVD Laser Scanner Microscope** |Recycling and upgrading parts to form high-resolution fluorescence microscopy |[Website](http://www.gaudi.ch/GaudiLabs/?page_id=652)
+|**DIY SDCM** |Versatile, do-it-yourself, low-cost spinning disk confocal microscope |[Halpern2021](https://doi.org/10.1101/2021.09.04.458950)
 |**easySTORM** |easySTORM: a robust, lower-cost approach to localisation and TIRF microscopy. French lab. |[Kwakwa2015](https://doi.org/10.1002%2Fjbio.201500324)
 |**eduSPIM** |An educational light sheet microscope. Huisken lab. |[Jahr2016](https://doi.org/10.1371/journal.pone.0161402)
 |**fairSIM** |Open-source structured illumination microscopy. Huser & Müller lab. |[Markwirth2019](https://www.nature.com/articles/s41467-019-12165-x), [GitHub](https://github.com/fairSIM)
@@ -43,8 +45,8 @@
 |**open OPT** |Design and implementation of a custom built optical projection tomography system. |[Wong2013](https://doi.org/10.1371/journal.pone.0073491)
 |**OpenSPIM** |An Open Access platform for applying and enhancing selective plane illumination microscopy. |[Pietron2013](https://doi.org/10.1038/nmeth.2507), [Website/Wiki](https://openspim.org/)
 |**openSpin** |Various optical setups for large scale projection/tomography-based imaging. |[Website](https://sites.google.com/site/openspinmicroscopy/)
-|**OPTiM**  | ptical projection tomography integrated microscope using open-source hardware and software. |[Watson2017](https://doi.org/10.1371/journal.pone.0180309)|
-|**OptiJ** |Optical projection tomography with Fiji. |[Ramirez](https://www.nature.com/articles/s41598-019-52065-0)
+|**OPTiM**  |Optical projection tomography integrated microscope using open-source hardware and software. |[Watson2017](https://doi.org/10.1371/journal.pone.0180309)|
+|**OptiJ** |Optical projection tomography with Fiji. |[Ramirez2019](https://www.nature.com/articles/s41598-019-52065-0)
 |**OPenT** |Optical micro tomography. Martins lab. | [Felix2016](https://doi.org/10.1016/j.mod.2016.03.001)
 |**pgFocus** |pgFocus is an open source and open hardware, for noncommercial use, focus stabilization device developed by Karl Bellvé.  |[Wiki](http://big.umassmed.edu/wiki/index.php/PgFocus)
 |**Picroscope** | Development of a Low-Cost System for Simultaneous Longitudinal Biological Imaging |[Virctoria2021](https://doi.org/10.1101/2021.05.17.443454) |
