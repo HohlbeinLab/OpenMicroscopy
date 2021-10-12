@@ -36,4 +36,5 @@
 | **Ray-optics web app** | An open-source web application to simulate reflection and refraction of light. | [GitHub/Website](https://ricktu288.github.io/ray-optics/)
 | **StarDist**  | Nuclei segmentation. | [Weigert2019](http://arxiv.org/abs/1908.03636), [GitHub](https://github.com/stardist/stardist)
 | **ThunderSTORM** |An open-source, interactive, and modular plug-in for ImageJ designed for automated processing, analysis, and visualization of data acquired by single molecule localization microscopy methods. |[Ovesný2014](https://doi.org/10.1093/bioinformatics/btu202), [GitHub](http://zitmen.github.io/thunderstorm/)
+| **Wave Blocks** |An open-source tool for inverse modelling modular optical system. Written in Tensorflow and supports deconvolution and arbitrarily complicated optical setups. Done with automatic differentiation | [GitHub](https://github.com/pvjosue/WaveBlocks)
 | **ZeroCostDL4Mic**  | Deep Learning accessible to microscopists by means of Google Colab Notebooks |[Chamier2021](https://doi.org/10.1038/s41467-021-22518-0),  [GitHub](https://github.com/HenriquesLab/ZeroCostDL4Mic)
