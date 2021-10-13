@@ -18,6 +18,7 @@
 | **Inverse Modelling** | All kinds of software projects that perform inverse modelling, deconvolution, lightfield microscopy, optical wave simulation, etc.; Code in Python, Matlab. Waller lab. |[GitHub](https://github.com/Waller-Lab)
 | **Labthings** | Internet-of-Things-based Hardware control (e.g. Microcontrolers) | [GitHub](https://github.com/labthings/python-labthings)|
 | **LIVECell** | A large-scale dataset for label-free live cell segmentation. | [Edlund2021](https://doi.org/10.1038/s41592-021-01249-6)
+| **MDEmic** | A metadata annotation tool to facilitate management of FAIR image data in the bioimaging community. |[Kunis2021](https://doi.org/10.1038/s41592-021-01288-z), [GitHub]((https:// github.com/ome/omero-insight)|
 | **micromanager** | Microscope-Control Software with a large user and hardware plugin community |[Edelstein2010]( https://doi.org/10.1002/0471142727.mb1420s92), [Website](https://micro-manager.org/)
 | **Multi-view deconvolution** | Real-time multi-view deconvolution for lightsheet microscopy. Huisken lab. | [Schmid2015](https://doi.org/10.1093/bioinformatics/btv387) |
 | **NanoImagingPack** | Various functions to simulate optical imaging in microscopy; 3D, Polarization, Wave propagation, etc. Python|[GitLab](https://gitlab.com/bionanoimaging/nanoimagingpack)
