@@ -30,6 +30,7 @@
 |**liteTIRF** |Super-resolution microscopy for 20k Euros. Jungmann lab. |[Auer2018](https://doi.org/10.1002%2Fcphc.201800630), [Weblink](http://litetirf.jungmannlab.org/)
 |**LSFM**|Laser-free super-resolution microscopy (LFSM). High-density superresolution microscopy with an incoherent light source and a conventional epifluorescence microscope setup by Kirti Prakash.|[Prakash2021](https://doi.org/10.1098/rsta.2020.0144)
 |**Luduscope**| Accessible Interactive Smartphone Microscopy for Life-Science Education |[Kim2016](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0162602)
+| **mcSIM** | Code for designing, analyzing, and carrying out multicolor structured illumination microscopy experiments. Additional tools for digital micromirror device SIM (DMD-SIM), including DMD simulation code, DMD pattern generation, SIM reconstruction and instrument control. (Python and Java) |[Brown2021](https://doi.org/10.1364/BOE.422703), [GitHub](https://github.com/QI2lab/mcSIM)
 |**MesoSPIM** |Advanced large-scale light sheet system |[Voigt2019](https://doi.org/10.1038/s41592-019-0554-0), [Website](https://mesospim.org/)|
 |**Microscopi**| Democratising “Microscopi”: a 3D printed automated XYZT fluorescence imaging system for teaching, outreach and fieldwork |[Wincott2020](https://www.biorxiv.org/content/10.1101/2020.05.21.108894v1) |[Website](https://micronoxford.com/microscopi-3d-printed-1),
 |**MicroscoPY** |Lego and 3D printed Raspberry Pi-based microscope |[GitHub](https://github.com/IBM/MicroscoPy) |
