@@ -3,6 +3,7 @@
 |**-** |Free and open-source automated 3-D microscope. |[Wiki](https://www.appropedia.org/Free_and_open-source_automated_3-D_microscope)
 |**AttoBright** |Single-molecule detection on a portable 3D-printed microscope. Gambin lab. |[Brown2019](https://doi.org/10.1038/s41467-019-13617-0), [GitHub](https://github.com/GambinSiereckiLab/AttoBright)
 |**Beamerscope** |Using machine-learning to optimize phase contrast in a low-cost cellphone microscope. |[Diederich2018](https://journals.plos.org/plosone/article/authors?id=10.1371/journal.pone.0192937), [GitHub](https://github.com/bionanoimaging/Beamerscope_CAD)|
+|**Bright-Eyes TTM** |Open-Source Time-Tagging Module for Single-Photon Microscopy. |[Rosetta2021](https://doi.org/10.1101/2021.10.11.463950 ), [GitHub](https://github.com/VicidominiLab/BrightEyes-TTM)|
 |**cellSTORM** |dSTORM using cellphone cameras and on-device neural network reconstruction. |[Diederich2019](https://doi.org/10.1371/journal.pone.0209827), [GitHub](https://github.com/bionanoimaging/cellSTORM-Android)
 |**cellSTORM II** | Single-molecule localization microscopy using waveguide-based cellphone microscopy and 3D printing |[Diederich2020](https://www.biorxiv.org/content/10.1101/2020.09.04.283085v1), [GitHub](https://beniroquai.github.io/stormocheap/)
 |**Crossbill** | open access single objective light-sheet microscopy platform |[Kumar2021](https://doi.org/10.1101/2021.04.30.442190), [Zenodo/GitHub](https://doi.org/10.5281/zenodo.3554784)
