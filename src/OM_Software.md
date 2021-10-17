@@ -31,6 +31,7 @@
 | **Phasor-based SMLM** |Phasor based single-molecule localization microscopy in 3D (pSMLM-3D): An algorithm for MHz localization rates using standard CPUs |[Martens2017](https://doi.org/10.1063/1.5005899), [GitHub](https://github.com/kjamartens/thunderstorm)
 | **pycro-manager** |Python-based Microscope-Control for micromanager. |[Pinkard2021](https://doi.org/10.1038/s41592-021-01087-6), [GitHub](https://github.com/micro-manager/pycro-manager)
 | **PyFocus** |Python package for vectorial calculations of focused optical fields. |[Caprile2021](https://arxiv.org/abs/2110.00160), [GitHub](https://github.com/fcaprile/PyFocus)
+| **PyLabLib** |PyLabLib cam-control: Software for universal camera control and frames acquisition. Sandoghdar lab.| [GitHub](https://github.com/SandoghdarLab/pyLabLib-cam-control)
 | **PYME** |Python-based open-source tool for super-resolution microscopy and data. |[Marin2021](https://doi.org/10.1038/s41592-021-01165-9), [GitHub](https://github.com/python-microscopy/python-microscopy)
 | **Microscope-Cockpit**  |An open-source approach for user friendly fully programmable bespoke microscopy (Micron, Oxford).| [Website](https://micronoxford.com/python-microscope-cockpit), [GitHub](https://github.com/MicronOxford)
 | **Quantitative Phase Imaging Tools** | Various Tools to reconstruct brightfield images under varying illumination using inverse modeling and neural networks. Datasets. Lei Tian Lab. |[Website](https://sites.bu.edu/tianlab/open-source/), [GitHub](https://github.com/bu-cisl )
