@@ -31,6 +31,7 @@
 |**liteTIRF** |Super-resolution microscopy for 20k Euros. Jungmann lab. |[Auer2018](https://doi.org/10.1002%2Fcphc.201800630), [Weblink](http://litetirf.jungmannlab.org/)
 |**LSFM**|Laser-free super-resolution microscopy (LFSM). High-density superresolution microscopy with an incoherent light source and a conventional epifluorescence microscope setup by Kirti Prakash.|[Prakash2021](https://doi.org/10.1098/rsta.2020.0144)
 |**Luduscope**| Accessible Interactive Smartphone Microscopy for Life-Science Education |[Kim2016](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0162602)
+|**mcSIM** | Code for designing, analyzing, and carrying out multicolor structured illumination microscopy experiments. Additional tools for digital micromirror device SIM (DMD-SIM), including DMD simulation code, DMD pattern generation, SIM reconstruction and instrument control. (Python and Java) |[Brown2021](https://doi.org/10.1364/BOE.422703), [GitHub](https://github.com/QI2lab/mcSIM)
 |**M4All** | Modular, Monolithic, 3D printed High-end Microscopy with multicolour detection and Raspberry Pi camera-based readout.  |[GitHub](https://github.com/NanoBioPhotonics-Strathclyde/M4All)|
 |**MesoSPIM** |Advanced large-scale light sheet system |[Voigt2019](https://doi.org/10.1038/s41592-019-0554-0), [Website](https://mesospim.org/)|
 |**Microbrew**| Small microscope to visualize yeast cell growth for beer brewing purposes | |[GitHub](https://gitlab.com/nanocastro/microbrew/-/blob/master/Early_prototypes/Prototipos.md)
