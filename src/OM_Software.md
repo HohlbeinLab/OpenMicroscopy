@@ -27,6 +27,7 @@
 | **Noise2Void** | Machine learning-based denoising without datasets. | [Krull2019](http://arxiv.org/abs/1811.10980), [GitHub](https://github.com/juglab/n2v)
 | **OpenFlexure Server** | Internet-of-things based microscopy control (Raspberry Pi) | [Website](http://openflexure.org/) |
 | **PERPL** | Structure-based modelling of microscopy data |[Curd2021](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.0c03332), [BitBucket](https://bitbucket.org/apcurd/perpl-python3/src/master/)
+| **Picasso** | Python-based analysis software for single-molecule localisation microscopy. Jungmann lab. |[SchnitzbauerStrauss2017](https://doi.org/10.1038/nprot.2017.024), [GitHub](https://github.com/jungmannlab/picasso)
 | **Phasor-based SMLM** |Phasor based single-molecule localization microscopy in 3D (pSMLM-3D): An algorithm for MHz localization rates using standard CPUs |[Martens2017](https://doi.org/10.1063/1.5005899), [GitHub](https://github.com/kjamartens/thunderstorm)
 | **pycro-manager** |Python-based Microscope-Control for micromanager. |[Pinkard2021](https://doi.org/10.1038/s41592-021-01087-6), [GitHub](https://github.com/micro-manager/pycro-manager)
 | **PyFocus** |Python package for vectorial calculations of focused optical fields. |[Caprile2021](https://arxiv.org/abs/2110.00160), [GitHub](https://github.com/fcaprile/PyFocus)
