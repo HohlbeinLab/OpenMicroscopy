@@ -10,6 +10,7 @@
 | **Cluster analysis for SMLM data**  | Software packages for cluster identification and anlasyis by Owen lab | [Rubin-Delanchy2015](https://doi.org/10.1038/nmeth.3612)
 | **CSBdeep** | Deep Learning platform for ImageJ/Fiji| [Website](https://csbdeep.bioimagecomputing.com/)
 | **Deconvolution and multiview** | Rapid image deconvolution and multiview fusion for optical microscopy. Shroff lab.| [Guo2020](https://doi.org/10.1038/s41587-020-0560-x), [GitHub](https://github.com/eguomin/regDeconProject)
+| **Deepthought** | Repository for next generation microscope control software. Python.| [IntroVideo](https://drive.google.com/file/d/15RvyOEwZUGBE7swK23ZoiakrvKjhdWhp/view), [GitHub](https://github.com/ndsystems/deepthought)
 | **fairSIM** | Open source SIM reconstruction. | [Website](https://www.fairsim.org/), [Müller2016](https://doi.org/10.1038/ncomms10980), [GitHub](https://github.com/fairSIM/fairSIM)
 | **Fiji** | General-purpose image processing. Fiji is just ImageJ. |[Schindelin2012](https://doi.org/10.1038/nmeth.2019), [Website](https://fiji.sc/)
 | **ilastik** | Pixel and object classification using machine learning.  |[Berg2019](https://doi.org/10.1038/s41592-019-0582-9), [Website](https://www.ilastik.org/), [GitHub](https://github.com/ilastik/ilastik)
