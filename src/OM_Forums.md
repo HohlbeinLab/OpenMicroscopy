@@ -5,6 +5,8 @@
 | **EMBO**  | Conferences, lectures and trainings. | [Website](https://www.embo.org/conferences-training/) 
 | **FPbase**  | Resource for fluorescent proteins and spectra. | [Website](https://www.fpbase.org/), [FPspectra](https://www.fpbase.org/spectra/)
 | **France-Bioimaging**  | The French national research infrastructure for biological imaging. | [Website](https://france-bioimaging.org/about/)
+| **German BioImaging** | The source of information and exchange within the German bioimaging community. | [Website](https://gerbi-gmb.de/about-us)
+| **Global BioImaging Training Resource** | A community-driven resource consisting of training and informative material collected and curated by members of the imaging community for the use by anyone interested in imaging and microscopy. | [Website](https://globalbioimaging.org/international-training-courses/repository)
 | **ImagingONEWORLD**  | Weekly microscopy talks.| [Website](https://www.rms.org.uk/network-collaborate/imaging-oneworld-series.html)
 | **image.sc** | Forum dedicated to imaging in the broadest sense. | [Website](https://forum.image.sc/)
 | **Marine Biological Laboratory (MBL)** | Advanced Research Training Courses. | [Website](https://www.mbl.edu/education/courses/)
