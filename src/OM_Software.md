@@ -2,12 +2,14 @@
 
 | <div style="width:150px">Project</div>  | <div style="width:400px">Description</div> | <div style="width:150px">Resources</div> |
 | :---| :--- | :---
+| **BactMap** |R-based software to combine and analyse segmentation & fluorescence data derived from custom software like Oufti, Morphometrics, MicrobeJ or Supersegger. | [Raaphorst2019](https://doi.org/10.1111/mmi.14417), [GitHub](https://github.com/veeninglab/bactmap)
 | **Biobeam** | Biobeam—Multiplexed wave-optical simulations of light-sheet microscopy (Python)| [Weigert2018](https://doi.org/10.1371/journal.pcbi.1006079). [GitHub](https://maweigert.github.io/biobeam)
 | **CARE** |Denoising that enables low-photon dose imaging using neural networks. | [Weigert2018](https://doi.org/10.1038/s41592-018-0216-7). [GitHub](https://github.com/CSBDeep/CSBDeep)
-| **Clij**| GPU-accelerated image processing.|[Haase2020](https://www.nature.com/articles/s41592-019-0650-1) [GitHub](https://clij.github.io/)
-| **Cellpose**  | Cell segmentation.  |[Stringer2021](https://doi.org/10.1038/s41592-020-01018-x), [GitHub](https://github.com/MouseLand/cellpose)
+| **Clij** | GPU-accelerated image processing.|[Haase2020](https://www.nature.com/articles/s41592-019-0650-1) [GitHub](https://clij.github.io/)
+| **Cellpose** | Cell segmentation.  |[Stringer2021](https://doi.org/10.1038/s41592-020-01018-x), [GitHub](https://github.com/MouseLand/cellpose)
 | **CellProfiler** | Image Processing for high-throughput imaging. Carpenter lab. Version 3.0.| [Website](https://cellprofiler.org/) | [McQuin2018](https://doi.org/10.1371/journal.pbio.2005970)
-| **Cluster analysis for SMLM data**  | Software packages for cluster identification and anlasyis by Owen lab | [Rubin-Delanchy2015](https://doi.org/10.1038/nmeth.3612)
+| **Cluster analysis for SMLM data** | Software packages for cluster identification and anlasyis by Owen lab | [Rubin-Delanchy2015](https://doi.org/10.1038/nmeth.3612)
+| **ColiCoords** | Python-based software for creating a coordinate system in segmented rod-shaped cells for the alignment and aggregation of many cells. | [Smit2019](https://doi.org/10.1371/journal.pone.0217524), [GitHub](https://github.com/Jhsmit/ColiCoords)
 | **CSBdeep** | Deep Learning platform for ImageJ/Fiji| [Website](https://csbdeep.bioimagecomputing.com/)
 | **Deconvolution and multiview** | Rapid image deconvolution and multiview fusion for optical microscopy. Shroff lab.| [Guo2020](https://doi.org/10.1038/s41587-020-0560-x), [GitHub](https://github.com/eguomin/regDeconProject)
 | **Deepthought** | Repository for next generation microscope control software. Python.| [IntroVideo](https://drive.google.com/file/d/15RvyOEwZUGBE7swK23ZoiakrvKjhdWhp/view), [GitHub](https://github.com/ndsystems/deepthought)
