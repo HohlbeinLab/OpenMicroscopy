@@ -13,6 +13,8 @@
 | **Deepthought** | Repository for next generation microscope control software. Python.| [IntroVideo](https://drive.google.com/file/d/15RvyOEwZUGBE7swK23ZoiakrvKjhdWhp/view), [GitHub](https://github.com/ndsystems/deepthought)
 | **fairSIM** | Open source SIM reconstruction. | [Website](https://www.fairsim.org/), [Müller2016](https://doi.org/10.1038/ncomms10980), [GitHub](https://github.com/fairSIM/fairSIM)
 | **Fiji** | General-purpose image processing. Fiji is just ImageJ. |[Schindelin2012](https://doi.org/10.1038/nmeth.2019), [Website](https://fiji.sc/)
+| **FluorescenceTools** | A collection of GitHub repositories for open source fluorescence spectroscopy software. | [Website](https://github.com/Fluorescence-Tools)
+| **FRET community software list** | A collection of software for the analysis of single-molecule FRET experiments of all kinds. | [Website](https://www.fret.community/software/)
 | **ilastik** | Pixel and object classification using machine learning.  |[Berg2019](https://doi.org/10.1038/s41592-019-0582-9), [Website](https://www.ilastik.org/), [GitHub](https://github.com/ilastik/ilastik)
 | **ImJoy** | Browser- and plugin-based image processing and machine learning. Lundberg lab and Zimmer lab. | [Ouyang2019](https://doi.org/10.1038/s41592-019-0627-0), [Website](http://imjjoy.io/)
 | **ImSwitch**  | Python-based microscopy control software, Plug-and-Play. Testa lab.| [CasasMoreno2021](https://doi.org/10.21105/joss.03394), [GitHub](https://github.com/kasasxav/ImSwitch)
@@ -31,6 +33,7 @@
 | **OpenFlexure Server** | Internet-of-things based microscopy control (Raspberry Pi) | [Website](http://openflexure.org/) |
 | **Open Microscopy Environment** | Open Microscopy Environment, OME) is a consortium of universities, research labs, industry and developers producing open-source software and format standards for microscopy data. | [Website](https://www.openmicroscopy.org/) |
 | **snouty-OPM** | Control and analysis code for OPM using a solid immersion tertiary objective (aka Mr. Snouty). (Python and Java) | [Sapoznik2020] (https://elifesciences.org/articles/57681) | [GitHub](https://github.com/QI2lab/OPM) |
+| **PAM** | PIE analysis in MATLAB - Analysis software for point or image fluorescence experiments using pulsed-interleaved excitation. Single-molecule FRET, FCS, ICS, PhasorFLIM. | [Schrimpf2018](https://doi.org/10.1016/j.bpj.2018.02.035), [Website](https://gitlab.com/PAM-PIE/PAM)
 | **PERPL** | Structure-based modelling of microscopy data |[Curd2021](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.0c03332), [BitBucket](https://bitbucket.org/apcurd/perpl-python3/src/master/)
 | **Picasso** | Python-based analysis software for single-molecule localisation microscopy. Jungmann lab. |[SchnitzbauerStrauss2017](https://doi.org/10.1038/nprot.2017.024), [GitHub](https://github.com/jungmannlab/picasso)
 | **Phasor-based SMLM** |Phasor based single-molecule localization microscopy in 3D (pSMLM-3D): An algorithm for MHz localization rates using standard CPUs |[Martens2017](https://doi.org/10.1063/1.5005899), [GitHub](https://github.com/kjamartens/thunderstorm)
