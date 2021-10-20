@@ -22,7 +22,7 @@
 | **Labthings** | Internet-of-Things-based Hardware control (e.g. Microcontrolers) | [GitHub](https://github.com/labthings/python-labthings)|
 | **LIVECell** | A large-scale dataset for label-free live cell segmentation. | [Edlund2021](https://doi.org/10.1038/s41592-021-01249-6)
 | **localize-psf** | Code for localizing diffraction limited fluorescent objects and fitting the results to various different point-spread function (PSF) models. This includes tools for doing localization on the GPU using a modified version of GPUfit. (Python) | [GitHub](https://github.com/QI2lab/localize-psf)
-| **MDEmic** | A metadata annotation tool to facilitate management of FAIR image data in the bioimaging community. |[Kunis2021](https://doi.org/10.1038/s41592-021-01288-z), [GitHub]((https:// github.com/ome/omero-insight)|
+| **MDEmic** | A metadata annotation tool to facilitate management of FAIR image data in the bioimaging community. |[Kunis2021](https://doi.org/10.1038/s41592-021-01288-z), [GitHub](https://github.com/ome/omero-insight)|
 | **micromanager** | Microscope-Control Software with a large user and hardware plugin community |[Edelstein2010]( https://doi.org/10.1002/0471142727.mb1420s92), [Website](https://micro-manager.org/)
 | **mcSIM** | Code for designing, analyzing, and carrying out multicolor structured illumination microscopy experiments. Additional tools for digital micromirror device SIM (DMD-SIM), including DMD simulation code, DMD pattern generation, SIM reconstruction and instrument control. (Python and Java) |[Brown2021](https://doi.org/10.1364/BOE.422703), [GitHub](https://github.com/QI2lab/mcSIM)
 | **Multi-view deconvolution** | Real-time multi-view deconvolution for lightsheet microscopy. Huisken lab. | [Schmid2015](https://doi.org/10.1093/bioinformatics/btv387) |
@@ -32,7 +32,7 @@
 | **Noise2Void** | Machine learning-based denoising without datasets. | [Krull2019](http://arxiv.org/abs/1811.10980), [GitHub](https://github.com/juglab/n2v)
 | **OpenFlexure Server** | Internet-of-things based microscopy control (Raspberry Pi) | [Website](http://openflexure.org/) |
 | **Open Microscopy Environment** | Open Microscopy Environment, OME) is a consortium of universities, research labs, industry and developers producing open-source software and format standards for microscopy data. | [Website](https://www.openmicroscopy.org/) |
-| **snouty-OPM** | Control and analysis code for OPM using a solid immersion tertiary objective (aka Mr. Snouty). (Python and Java) | [Sapoznik2020] (https://elifesciences.org/articles/57681) | [GitHub](https://github.com/QI2lab/OPM) |
+| **snouty-OPM** | Control and analysis code for OPM using a solid immersion tertiary objective (aka Mr. Snouty). (Python and Java) | [Sapoznik2020](https://elifesciences.org/articles/57681), [GitHub](https://github.com/QI2lab/OPM) |
 | **PERPL** | Structure-based modelling of microscopy data |[Curd2021](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.0c03332), [BitBucket](https://bitbucket.org/apcurd/perpl-python3/src/master/)
 | **Picasso** | Python-based analysis software for single-molecule localisation microscopy. Jungmann lab. |[SchnitzbauerStrauss2017](https://doi.org/10.1038/nprot.2017.024), [GitHub](https://github.com/jungmannlab/picasso)
 | **Phasor-based SMLM** |Phasor based single-molecule localization microscopy in 3D (pSMLM-3D): An algorithm for MHz localization rates using standard CPUs |[Martens2017](https://doi.org/10.1063/1.5005899), [GitHub](https://github.com/kjamartens/thunderstorm)
