@@ -2,17 +2,20 @@
 
 | <div style="width:150px">Project</div>  | <div style="width:400px">Description</div> | <div style="width:150px">Resources</div> |
 | :---| :--- | :---
+| **ACCéNT** | Plugin for Fiji and Micro-Manager which allows to calibrate the pixel-wise noise characteristics of (s)CMOS cameras from dark images alone. Ries Lab. | [Diekmann2021](https://www.biorxiv.org/lookup/doi/10.1101/2021.04.16.440125), [GitHub](https://github.com/ries-lab/Accent)
 | **BactMap** |R-based software to combine and analyse segmentation & fluorescence data derived from custom software like Oufti, Morphometrics, MicrobeJ or Supersegger. | [Raaphorst2019](https://doi.org/10.1111/mmi.14417), [GitHub](https://github.com/veeninglab/bactmap)
 | **Biobeam** | Biobeam—Multiplexed wave-optical simulations of light-sheet microscopy (Python)| [Weigert2018](https://doi.org/10.1371/journal.pcbi.1006079). [GitHub](https://maweigert.github.io/biobeam)
 | **CARE** |Denoising that enables low-photon dose imaging using neural networks. | [Weigert2018](https://doi.org/10.1038/s41592-018-0216-7). [GitHub](https://github.com/CSBDeep/CSBDeep)
 | **Clij** | GPU-accelerated image processing.|[Haase2020](https://www.nature.com/articles/s41592-019-0650-1) [GitHub](https://clij.github.io/)
 | **Cellpose** | Cell segmentation.  |[Stringer2021](https://doi.org/10.1038/s41592-020-01018-x), [GitHub](https://github.com/MouseLand/cellpose)
 | **CellProfiler** | Image Processing for high-throughput imaging. Carpenter lab. Version 3.0.| [Website](https://cellprofiler.org/) | [McQuin2018](https://doi.org/10.1371/journal.pbio.2005970)
-| **Cluster analysis for SMLM data** | Software packages for cluster identification and anlasyis by Owen lab | [Rubin-Delanchy2015](https://doi.org/10.1038/nmeth.3612)
+| **Cluster analysis for SMLM data** | Software packages for cluster identification and analysis by Owen lab | [Rubin-Delanchy2015](https://doi.org/10.1038/nmeth.3612)
 | **ColiCoords** | Python-based software for creating a coordinate system in segmented rod-shaped cells for the alignment and aggregation of many cells. | [Smit2019](https://doi.org/10.1371/journal.pone.0217524), [GitHub](https://github.com/Jhsmit/ColiCoords)
 | **CSBdeep** | Deep Learning platform for ImageJ/Fiji| [Website](https://csbdeep.bioimagecomputing.com/)
+| **DECODE** | Deep learning tool to fit high-density raw data in SMLM, based on Python and Pytorch. Macke, Ries and Turaga Labs. | [Speiser2021](https://doi.org/10.1038/s41592-021-01236-x), [GitHub](https://github.com/TuragaLab/DECODE)
 | **Deconvolution and multiview** | Rapid image deconvolution and multiview fusion for optical microscopy. Shroff lab.| [Guo2020](https://doi.org/10.1038/s41587-020-0560-x), [GitHub](https://github.com/eguomin/regDeconProject)
 | **Deepthought** | Repository for next generation microscope control software. Python.| [IntroVideo](https://drive.google.com/file/d/15RvyOEwZUGBE7swK23ZoiakrvKjhdWhp/view), [GitHub](https://github.com/ndsystems/deepthought)
+| **EMU** | Easier Micro-Manager User interface. Plugin for Micro-Manager allowing creation of versatile GUIs that can be easily adapted to control different devices and microscopes. Ries Lab. | [Deschamps2020](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03727-8), [GitHub](https://github.com/jdeschamps/EMU)
 | **fairSIM** | Open source SIM reconstruction. | [Website](https://www.fairsim.org/), [Müller2016](https://doi.org/10.1038/ncomms10980), [GitHub](https://github.com/fairSIM/fairSIM)
 | **Fiji** | General-purpose image processing. Fiji is just ImageJ. |[Schindelin2012](https://doi.org/10.1038/nmeth.2019), [Website](https://fiji.sc/)
 | **FluorescenceTools** | A collection of GitHub repositories for open source fluorescence spectroscopy software. | [Website](https://github.com/Fluorescence-Tools)
@@ -24,6 +27,7 @@
 | **Labthings** | Internet-of-Things-based Hardware control (e.g. Microcontrolers) | [GitHub](https://github.com/labthings/python-labthings)|
 | **LIVECell** | A large-scale dataset for label-free live cell segmentation. | [Edlund2021](https://doi.org/10.1038/s41592-021-01249-6)
 | **localize-psf** | Code for localizing diffraction limited fluorescent objects and fitting the results to various different point-spread function (PSF) models. This includes tools for doing localization on the GPU using a modified version of GPUfit. (Python) | [GitHub](https://github.com/QI2lab/localize-psf)
+| **LocMoFit** | LocMoFit is a framework to fit SMLM data with geometric models. It comes as a plugin of SMAP (see below). Ries Lab. | [Wu2021](https://www.biorxiv.org/lookup/doi/10.1101/2021.08.30.456756), [GitHub](https://github.com/jries/SMAP)
 | **MDEmic** | A metadata annotation tool to facilitate management of FAIR image data in the bioimaging community. |[Kunis2021](https://doi.org/10.1038/s41592-021-01288-z), [GitHub](https://github.com/ome/omero-insight)|
 | **micromanager** | Microscope-Control Software with a large user and hardware plugin community |[Edelstein2010]( https://doi.org/10.1002/0471142727.mb1420s92), [Website](https://micro-manager.org/)
 | **mcSIM** | Code for designing, analyzing, and carrying out multicolor structured illumination microscopy experiments. Additional tools for digital micromirror device SIM (DMD-SIM), including DMD simulation code, DMD pattern generation, SIM reconstruction and instrument control. (Python and Java) |[Brown2021](https://doi.org/10.1364/BOE.422703), [GitHub](https://github.com/QI2lab/mcSIM)
@@ -47,6 +51,7 @@
 | **Quantitative Phase Imaging Tools** | Various Tools to reconstruct brightfield images under varying illumination using inverse modeling and neural networks. Datasets. Lei Tian Lab. |[Website](https://sites.bu.edu/tianlab/open-source/), [GitHub](https://github.com/bu-cisl )
 | **QuPath** | Open software platform especially for histopathology. |[Bankhead2017](https://doi.org/10.1038/s41598-017-17204-5), [GitHub](https://qupath.github.io/),  
 | **Ray-optics web app** | An open-source web application to simulate reflection and refraction of light. | [GitHub/Website](https://ricktu288.github.io/ray-optics/)
+| **SMAP** | Open-source superresolution microscopy analysis platform. MATLAB-based tool with GUI to fit raw data, post-process and analyze SMLM data. Contains a powerful ROI manager and many other plugins, can be extended by own plugins (documentation available). Ries Lab. | [Ries2020](https://www.nature.com/articles/s41592-020-0938-1), [GitHub](https://github.com/jries/SMAP)
 | **StarDist**  | Nuclei segmentation. | [Weigert2019](http://arxiv.org/abs/1908.03636), [GitHub](https://github.com/stardist/stardist)
 | **ThunderSTORM** |An open-source, interactive, and modular plug-in for ImageJ designed for automated processing, analysis, and visualization of data acquired by single molecule localization microscopy methods. |[Ovesný2014](https://doi.org/10.1093/bioinformatics/btu202), [GitHub](http://zitmen.github.io/thunderstorm/)
 | **Wave Blocks** |An open-source tool for inverse modelling modular optical system. Written in Tensorflow and supports deconvolution and arbitrarily complicated optical setups. Done with automatic differentiation | [GitHub](https://github.com/pvjosue/WaveBlocks)
