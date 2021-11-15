@@ -2,7 +2,7 @@
 
 | <div style="width:150px">Project</div>  | <div style="width:400px">Description</div> | <div style="width:150px">Resources</div> |
 | :---| :--- | :---
-| **ACCeNT** | Plugin for Fiji and Micro-Manager which allows to calibrate the pixel-wise noise characteristics of (s)CMOS cameras from dark images alone. Ries Lab. | [Diekmann2021](https://www.biorxiv.org/lookup/doi/10.1101/2021.04.16.440125), [GitHub](https://github.com/ries-lab/Accent)
+| **ACCéNT** | Plugin for Fiji and Micro-Manager which allows to calibrate the pixel-wise noise characteristics of (s)CMOS cameras from dark images alone. Ries Lab. | [Diekmann2021](https://www.biorxiv.org/lookup/doi/10.1101/2021.04.16.440125), [GitHub](https://github.com/ries-lab/Accent)
 | **BactMap** |R-based software to combine and analyse segmentation & fluorescence data derived from custom software like Oufti, Morphometrics, MicrobeJ or Supersegger. | [Raaphorst2019](https://doi.org/10.1111/mmi.14417), [GitHub](https://github.com/veeninglab/bactmap)
 | **Biobeam** | Biobeam—Multiplexed wave-optical simulations of light-sheet microscopy (Python)| [Weigert2018](https://doi.org/10.1371/journal.pcbi.1006079). [GitHub](https://maweigert.github.io/biobeam)
 | **CARE** |Denoising that enables low-photon dose imaging using neural networks. | [Weigert2018](https://doi.org/10.1038/s41592-018-0216-7). [GitHub](https://github.com/CSBDeep/CSBDeep)
@@ -19,7 +19,7 @@
 | **Fiji** | General-purpose image processing. Fiji is just ImageJ. |[Schindelin2012](https://doi.org/10.1038/nmeth.2019), [Website](https://fiji.sc/)
 | **FluorescenceTools** | A collection of GitHub repositories for open source fluorescence spectroscopy software. | [Website](https://github.com/Fluorescence-Tools)
 | **FRET community software list** | A collection of software for the analysis of single-molecule FRET experiments of all kinds. | [Website](https://www.fret.community/software/)
-| **globLoc** | Global fitting algorithm for SMLM data running on the GPU. Ries & Li labs. | [Li2021](https://www.biorxiv.org/lookup/doi/10.1101/2021.09.22.461230), [GitHub](https://github.com/jries/SMAP/tree/develop/fit3Dcspline/GlobLoc)
+| **globLoc** | Global fitting algorithm for SMLM data running on the GPU. Ries & Li Labs. | [Li2021](https://www.biorxiv.org/lookup/doi/10.1101/2021.09.22.461230), [GitHub](https://github.com/jries/SMAP/tree/develop/fit3Dcspline/GlobLoc)
 | **ilastik** | Pixel and object classification using machine learning.  |[Berg2019](https://doi.org/10.1038/s41592-019-0582-9), [Website](https://www.ilastik.org/), [GitHub](https://github.com/ilastik/ilastik)
 | **ImJoy** | Browser- and plugin-based image processing and machine learning. Lundberg lab and Zimmer lab. | [Ouyang2019](https://doi.org/10.1038/s41592-019-0627-0), [Website](http://imjjoy.io/)
 | **ImSwitch**  | Python-based microscopy control software, Plug-and-Play. Testa lab.| [CasasMoreno2021](https://doi.org/10.21105/joss.03394), [GitHub](https://github.com/kasasxav/ImSwitch)
@@ -27,7 +27,7 @@
 | **Labthings** | Internet-of-Things-based Hardware control (e.g. Microcontrolers) | [GitHub](https://github.com/labthings/python-labthings)|
 | **LIVECell** | A large-scale dataset for label-free live cell segmentation. | [Edlund2021](https://doi.org/10.1038/s41592-021-01249-6)
 | **localize-psf** | Code for localizing diffraction limited fluorescent objects and fitting the results to various different point-spread function (PSF) models. This includes tools for doing localization on the GPU using a modified version of GPUfit. (Python) | [GitHub](https://github.com/QI2lab/localize-psf)
-| **LocMoFit** | LocMoFit is a framework to fit SMLM data with geometric models. It comes as a plugin of SMAP (see below). Ries Lab | [Wu2021](https://www.biorxiv.org/lookup/doi/10.1101/2021.08.30.456756), [GitHub](https://github.com/jries/SMAP)
+| **LocMoFit** | LocMoFit is a framework to fit SMLM data with geometric models. It comes as a plugin of SMAP (see below). Ries Lab. | [Wu2021](https://www.biorxiv.org/lookup/doi/10.1101/2021.08.30.456756), [GitHub](https://github.com/jries/SMAP)
 | **MDEmic** | A metadata annotation tool to facilitate management of FAIR image data in the bioimaging community. |[Kunis2021](https://doi.org/10.1038/s41592-021-01288-z), [GitHub](https://github.com/ome/omero-insight)|
 | **micromanager** | Microscope-Control Software with a large user and hardware plugin community |[Edelstein2010]( https://doi.org/10.1002/0471142727.mb1420s92), [Website](https://micro-manager.org/)
 | **mcSIM** | Code for designing, analyzing, and carrying out multicolor structured illumination microscopy experiments. Additional tools for digital micromirror device SIM (DMD-SIM), including DMD simulation code, DMD pattern generation, SIM reconstruction and instrument control. (Python and Java) |[Brown2021](https://doi.org/10.1364/BOE.422703), [GitHub](https://github.com/QI2lab/mcSIM)
