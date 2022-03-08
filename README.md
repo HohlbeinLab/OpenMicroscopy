@@ -10,6 +10,7 @@ This is a non-comprehensive list of projects and resources related to open micro
 * [**Labs and people**](/src/OM_labs.md)
 * [**Repositories for data and protocols**](/src/OM_Repos.md)
 * [**Software for open microscopy**](/src/OM_Software.md)
+* [**CAD tools and repositories**](/src/OM_CAD_tools.md)
 
 ## Contributing
 The list of resources here is open for your contributions! [Pull-requests](https://github.com/HohlbeinLab/OpenMicroscopy/pulls) with links to more open-microscopy resources and [issues suggesting further improvement](https://github.com/HohlbeinLab/OpenMicroscopy/issues) are welcome!
