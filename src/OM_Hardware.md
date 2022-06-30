@@ -38,7 +38,8 @@
 |**Microbrew**| Small microscope to visualize yeast cell growth for beer brewing purposes |[GitHub](https://gitlab.com/nanocastro/microbrew/-/blob/master/Early_prototypes/Prototipos.md)
 |**Microscopi**| Democratising “Microscopi”: a 3D printed automated XYZT fluorescence imaging system for teaching, outreach and fieldwork |[Wincott2020](https://www.biorxiv.org/content/10.1101/2020.05.21.108894v1) |[Website](https://micronoxford.com/microscopi-3d-printed-1),
 |**MicroscoPY** |Lego and 3D printed Raspberry Pi-based microscope |[GitHub](https://github.com/IBM/MicroscoPy) |
-|**miCube** |Monolithic single-molecule localization microscope. Hohlbein lab. |[Martens](https://doi.org/10.1038/s41467-019-11514-0), [GitHub.io](https://hohlbeinlab.github.io/miCube/index.html)   |
+|**microFPGA** |MicroFPGA: an affordable field programmable gate array platform for microscope control. Ries lab. |[Deschamps2022](https://doi.org/10.1101/2022.06.07.495178), [GitHub.io](https://mufpga.github.io/), [GitHub](https://github.com/mufpga)   |
+|**miCube** |Monolithic single-molecule localization microscope. Hohlbein lab. |[Martens2019](https://doi.org/10.1038/s41467-019-11514-0), [GitHub.io](https://hohlbeinlab.github.io/miCube/index.html)   |
 |**Miniscope** |Circuit investigations with open-source miniaturized microscopes: Past, present and future |[Aharoni2019](https://doi.org/10.3389/fncel.2019.00141), [GitHub](https://github.com/Aharoni-Lab/Miniscope-v4), [Wiki](http://miniscope.org/index.php/Main_Page) |
 |**miniSPIM** |Smartphone-based light-sheet microscope |[Hedde2021](https://doi.org/10.1021/acssensors.1c00607)
 |**µCube** |A framework for 3D printable optomechanics. Haseloff lab 2018. |[Delmans2018](http://doi.org/10.5334/joh.8), [GitHub](https://mdelmans.github.io/uCube)
