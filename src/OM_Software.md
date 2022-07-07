@@ -48,6 +48,7 @@
 | **PyFocus** |Python package for vectorial calculations of focused optical fields. |[Caprile2021](https://arxiv.org/abs/2110.00160), [GitHub](https://github.com/fcaprile/PyFocus)
 | **PyLabLib** |PyLabLib cam-control: Software for universal camera control and frames acquisition. Sandoghdar lab.| [GitHub](https://github.com/SandoghdarLab/pyLabLib-cam-control)
 | **PYME** |Python-based open-source tool for super-resolution microscopy and data. |[Marin2021](https://doi.org/10.1038/s41592-021-01165-9), [GitHub](https://github.com/python-microscopy/python-microscopy)
+| **Python Microscope** |Microscope is a Python package for the control of microscope devices. It is the fastest and easiest method to incorporate image analysis as part of a microscope experiment. |[Website](https://www.micron.ox.ac.uk/software/microscope/cite.html)
 | **Microscope-Cockpit**  |An open-source approach for user friendly fully programmable bespoke microscopy (Micron, Oxford).| [Website](https://micronoxford.com/python-microscope-cockpit), [GitHub](https://github.com/MicronOxford)
 | **Quantitative Phase Imaging Tools** | Various Tools to reconstruct brightfield images under varying illumination using inverse modeling and neural networks. Datasets. Lei Tian Lab. |[Website](https://sites.bu.edu/tianlab/open-source/), [GitHub](https://github.com/bu-cisl )
 | **QuPath** | Open software platform especially for histopathology. |[Bankhead2017](https://doi.org/10.1038/s41598-017-17204-5), [GitHub](https://qupath.github.io/),  
