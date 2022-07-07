@@ -1,5 +1,6 @@
 | <div style="width:150px">Project</div>  | <div style="width:400px">Description</div> | <div style="width:150px">Resources</div> 
 | :---| :--- | :---
+| **bioimagebook** | Free and open interactive textbook on #bioimageanalysis written by Pete Bankhead. | [Website](https://bioimagebook.github.io/README.html)
 | **Confocal-microscopy-list**  | Email-based communication on all things microscopy.| [Subscribe](https://lists.umn.edu/cgi-bin/wa?A0=confocalmicroscopy)
 | **Coursera**  | Microscopy courses with paid certification. | [Website](https://www.ebi.ac.uk/empiar/) 
 | **EMBO**  | European Molecular Biology Organization. Conferences, lectures and trainings. | [Website](https://www.embo.org/conferences-training/) 

@@ -2,6 +2,7 @@
 | :---| :--- | :---
 |**-** |Free and open-source automated 3-D microscope. |[Wiki](https://www.appropedia.org/Free_and_open-source_automated_3-D_microscope)
 |**AttoBright** |Single-molecule detection on a portable 3D-printed microscope. Gambin lab. |[Brown2019](https://doi.org/10.1038/s41467-019-13617-0), [GitHub](https://github.com/GambinSiereckiLab/AttoBright)
+|**Autocollimator** |Autocollimator to align 4f systems. Gareme Johnaston and Brian Patton. |[FocalPlane](https://focalplane.biologists.com/2022/06/29/using-an-autocollimator-to-align-4f-systems/)
 |**Beamerscope** |Using machine-learning to optimize phase contrast in a low-cost cellphone microscope. |[Diederich2018](https://journals.plos.org/plosone/article/authors?id=10.1371/journal.pone.0192937), [GitHub](https://github.com/bionanoimaging/Beamerscope_CAD)|
 |**Bright-Eyes TTM** |Open-Source Time-Tagging Module for Single-Photon Microscopy. |[Rosetta2021](https://doi.org/10.1101/2021.10.11.463950 ), [GitHub](https://github.com/VicidominiLab/BrightEyes-TTM)|
 |**cellSTORM** |dSTORM using cellphone cameras and on-device neural network reconstruction. |[Diederich2019](https://doi.org/10.1371/journal.pone.0209827), [GitHub](https://github.com/bionanoimaging/cellSTORM-Android)
@@ -37,7 +38,8 @@
 |**Microbrew**| Small microscope to visualize yeast cell growth for beer brewing purposes |[GitHub](https://gitlab.com/nanocastro/microbrew/-/blob/master/Early_prototypes/Prototipos.md)
 |**Microscopi**| Democratising “Microscopi”: a 3D printed automated XYZT fluorescence imaging system for teaching, outreach and fieldwork |[Wincott2020](https://www.biorxiv.org/content/10.1101/2020.05.21.108894v1) |[Website](https://micronoxford.com/microscopi-3d-printed-1),
 |**MicroscoPY** |Lego and 3D printed Raspberry Pi-based microscope |[GitHub](https://github.com/IBM/MicroscoPy) |
-|**miCube** |Monolithic single-molecule localization microscope. Hohlbein lab. |[Martens](https://doi.org/10.1038/s41467-019-11514-0), [GitHub.io](https://hohlbeinlab.github.io/miCube/index.html)   |
+|**microFPGA** |MicroFPGA: an affordable field programmable gate array platform for microscope control. Ries lab. |[Deschamps2022](https://doi.org/10.1101/2022.06.07.495178), [GitHub.io](https://mufpga.github.io/), [GitHub](https://github.com/mufpga)   |
+|**miCube** |Monolithic single-molecule localization microscope. Hohlbein lab. |[Martens2019](https://doi.org/10.1038/s41467-019-11514-0), [GitHub.io](https://hohlbeinlab.github.io/miCube/index.html)   |
 |**Miniscope** |Circuit investigations with open-source miniaturized microscopes: Past, present and future |[Aharoni2019](https://doi.org/10.3389/fncel.2019.00141), [GitHub](https://github.com/Aharoni-Lab/Miniscope-v4), [Wiki](http://miniscope.org/index.php/Main_Page) |
 |**miniSPIM** |Smartphone-based light-sheet microscope |[Hedde2021](https://doi.org/10.1021/acssensors.1c00607)
 |**µCube** |A framework for 3D printable optomechanics. Haseloff lab 2018. |[Delmans2018](http://doi.org/10.5334/joh.8), [GitHub](https://mdelmans.github.io/uCube)
@@ -47,6 +49,7 @@
 |**OpenFlexure microscope** |A one-piece 3D printed flexure translation stage for open-source microscopy. Bowman lab. |[Collins2020](https://doi.org/10.1364/BOE.385729), [Website](https://openflexure.org), [Gitlab](https://gitlab.com/openflexure/openflexure-delta-stage)
 |**Open Ocular**|Open-Source 3D printable eyepiece adapter for the cellphone. |[Website](https://www.openocular.com/), [Thingiverse](https://www.openocular.com/) |
 |**open OPT** |Design and implementation of a custom built optical projection tomography system. |[Wong2013](https://doi.org/10.1371/journal.pone.0073491)
+|**openRAMAN** |Low Cost, High Performances, 100% Open Source Raman Spectrometer |[Website](http://www.open-raman.org/)
 |**OpenSPIM** |An Open Access platform for applying and enhancing selective plane illumination microscopy. |[Pietron2013](https://doi.org/10.1038/nmeth.2507), [Website/Wiki](https://openspim.org/)
 |**openSpin** |Various optical setups for large scale projection/tomography-based imaging. |[Website](https://sites.google.com/site/openspinmicroscopy/)
 |**OPTiM**  |Optical projection tomography integrated microscope using open-source hardware and software. |[Watson2017](https://doi.org/10.1371/journal.pone.0180309)|
@@ -56,9 +59,10 @@
 |**Picroscope** | Development of a Low-Cost System for Simultaneous Longitudinal Biological Imaging |[Virctoria2021](https://doi.org/10.1101/2021.05.17.443454) |
 |**PlanktonScope** | Sea and plankton imaging for citizen science. Prakah lab. |[Pollina2020](https://www.biorxiv.org/content/10.1101/2020.04.23.056978v1), [Website](https://www.planktoscope.org/) |
 |**Pi-based FPM** |Low-cost, sub-micron resolution, wide-field computational microscopy using opensource hardware. Waller lab and Konda lab. |[Aidukas2019](https://www.nature.com/articles/s41598-019-43845-9)|
-|**PUMA** |Modular, option to add SLM, heads up display etc.  |[GitHub](https://github.com/TadPath/PUMA/tree/v0.1)
+|**PUMA** |Modular, option to add SLM, heads up display etc.  |[GitHub](https://github.com/TadPath/PUMA/tree/v0.1), [Tadrous2021](https://onlinelibrary.wiley.com/doi/10.1111/jmi.13043)
 |**Raspi-based Fluorescence Microscope** |Facile assembly of an affordable miniature multicolor fluorescence microscope made of 3D-printed parts enables detection of single cells. | [Tristan-Landin2019](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0215114)|
-| **RiesPieces** | Repository of different microscope parts from the Ries lab, including a filter wheel, a flip mount, a linear stage, a magnetic sample holder, and solutions for illumination and focus locking. | [GitHub](https://github.com/ries-lab/RiesPieces/tree/master/Microscopy) |
+|**RiesPieces** | Repository of different microscope parts from the Ries lab, including a filter wheel, a flip mount, a linear stage, a magnetic sample holder, and solutions for illumination and focus locking. | [GitHub](https://github.com/ries-lab/RiesPieces/tree/master/Microscopy) |
+|**Sample preparation for lighht-sheet microscopy** | Resources for preparing light-sheet samples in e.g. FEP tubes or glass capillaries |[HuiskenLAB](https://huiskenlab.com/sample-mounting/)
 |**Smartphone Fluorescence Spectroscopy** |A smartphone spectrophotometry for readout of fluorescence-based biological assays. |[Yu2014](https://doi.org/10.1021/ac502080t)
 |**STORM** |A blueprint for cost-efficient localization microscopy. Sauer lab. |[Holm2014](https://doi.org/10.1002%2Fcphc.201300739)
 |**smfBox** |Microscpe for single-molecule FRET. | [Ambrose2020](https://doi.org/10.1038/s41467-020-19468-4), [GitHub.io](https://craggslab.github.io/smfBox/)
