@@ -3,6 +3,7 @@
 | **bioimagebook** | Free and open interactive textbook on #bioimageanalysis written by Pete Bankhead. | [Website](https://bioimagebook.github.io/README.html)
 | **Confocal-microscopy-list**  | Email-based communication on all things microscopy.| [Subscribe](https://lists.umn.edu/cgi-bin/wa?A0=confocalmicroscopy)
 | **Coursera**  | Microscopy courses with paid certification. | [Website](https://www.ebi.ac.uk/empiar/) 
+| **DELFT Open Hardware Database**  | Extensive list of open projects. | [Website](https://github.com/delftopenhardware/awesome-open-hardware) 
 | **EMBO**  | European Molecular Biology Organization. Conferences, lectures and trainings. | [Website](https://www.embo.org/conferences-training/) 
 | **Euro-Bioimaging**  | Euro-BioImaging is a research infrastructure that offers open access to imaging technologies, training and data services in biological and biomedical imaging. Imaging facilities (Nodes) are open to all life science researchers. | [Website](https://www.eurobioimaging.eu/)
 | **FPbase**  | Resource for fluorescent proteins and spectra. | [Website](https://www.fpbase.org/), [FPspectra](https://www.fpbase.org/spectra/)
