@@ -30,6 +30,7 @@
 |**LEMOLish** |LEGO(R)-based Light sheet microscopy of cleared samples |[Website](https://lemolish.mystrikingly.com/)
 |**LifeHack** |An open-source, modular microscope for live & fixed cell single-molecule imaging. Holden lab. |[GitHub](https://holdenlab.github.io/LifeHackWebsite/)
 |**liteTIRF** |Super-resolution microscopy for 20k Euros. Jungmann lab. |[Auer2018](https://doi.org/10.1002%2Fcphc.201800630), [Weblink](http://litetirf.jungmannlab.org/)
+|**LITOS** |Versatile LED illumination tool for optogenetic stimulation. Pertz lab. |[Höhner2022](https://doi.org/10.1038/s41598-022-17312-x), [GitHub](https://github.com/pertzlab/LITOS)
 |**LSFM**|Laser-free super-resolution microscopy (LFSM). High-density superresolution microscopy with an incoherent light source and a conventional epifluorescence microscope setup by Kirti Prakash.|[Prakash2021](https://doi.org/10.1098/rsta.2020.0144)
 |**Luduscope**| Accessible Interactive Smartphone Microscopy for Life-Science Education |[Kim2016](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0162602)
 |**mcSIM** | Code for designing, analyzing, and carrying out multicolor structured illumination microscopy experiments. Additional tools for digital micromirror device SIM (DMD-SIM), including DMD simulation code, DMD pattern generation, SIM reconstruction and instrument control. (Python and Java) |[Brown2021](https://doi.org/10.1364/BOE.422703), [GitHub](https://github.com/QI2lab/mcSIM)
