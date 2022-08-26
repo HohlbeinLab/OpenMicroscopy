@@ -51,7 +51,7 @@
 |**Open Ocular**|Open-Source 3D printable eyepiece adapter for the cellphone. |[Website](https://www.openocular.com/), [Thingiverse](https://www.openocular.com/) |
 |**open OPT** |Design and implementation of a custom built optical projection tomography system. |[Wong2013](https://doi.org/10.1371/journal.pone.0073491)
 |**openRAMAN** |Low Cost, High Performances, 100% Open Source Raman Spectrometer |[Website](http://www.open-raman.org/)
-|**OpenSPIM** |An Open Access platform for applying and enhancing selective plane illumination microscopy. |[Pietron2013](https://doi.org/10.1038/nmeth.2507), [Website/Wiki](https://openspim.org/)
+|**OpenSPIM** |An Open Access platform for applying and enhancing selective plane illumination microscopy. |[Pitrone2013](https://doi.org/10.1038/nmeth.2507), [Website/Wiki](https://openspim.org/)
 |**openSpin** |Various optical setups for large scale projection/tomography-based imaging. |[Website](https://sites.google.com/site/openspinmicroscopy/)
 |**OPTiM**  |Optical projection tomography integrated microscope using open-source hardware and software. |[Watson2017](https://doi.org/10.1371/journal.pone.0180309)|
 |**OptiJ** |Optical projection tomography with Fiji. |[Ramirez2019](https://www.nature.com/articles/s41598-019-52065-0)
