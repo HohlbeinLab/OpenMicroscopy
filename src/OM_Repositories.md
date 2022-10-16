@@ -1,6 +1,7 @@
 | <div style="width:150px">Project</div>  | <div style="width:400px">Description</div> | <div style="width:150px">Resources</div> |
 | :---| :--- | :---
 | **Alfred Sikking's Microscopy Knowledge Database** | Repository for knowledge around microscopy optics. |[Website](https://amsikking.github.io/microscope_objectives/?s=09) |
+**Awesome Biological Image Analysis** | A curated list of software, tools and other resources for biological image analysis. |[Website](https://github.com/hallvaaw/awesome-biological-image-analysis#readme) |
 | **AWS open data**  | Large open data sharing.| [Website](https://aws.amazon.com/opendata/?wwps-cards.sort-by=item.additionalFields.sortDate&wwps-cards.sort-order=desc) |
 | **BossDB** | Volumetric database for 3D/4D neuroscience data. | [Website](https://bossdb.org/) |
 | **Broad Institute BioImage collection** | Annotated biologial images for testing and validation. | [Website](https://bbbc.broadinstitute.org/) |
