@@ -1,6 +1,6 @@
 | <div style="width:150px">Project</div>  | <div style="width:400px">Description</div> | <div style="width:150px">Resources</div> |
 | :---| :--- | :---
-|**-** |Free and open-source automated 3-D microscope. |[Wiki](https://www.appropedia.org/Free_and_open-source_automated_3-D_microscope)
+|**-** |Free and open-source automated 3-D microscope. Pearce lab.|[Wijnen2016](https://doi.org/10.1111/jmi.12433),[Wiki](https://www.appropedia.org/Free_and_open-source_automated_3-D_microscope)
 |**AttoBright** |Single-molecule detection on a portable 3D-printed microscope. Gambin lab. |[Brown2019](https://doi.org/10.1038/s41467-019-13617-0), [GitHub](https://github.com/GambinSiereckiLab/AttoBright)
 |**Autocollimator** |Autocollimator to align 4f systems. Gareme Johnaston and Brian Patton. |[FocalPlane](https://focalplane.biologists.com/2022/06/29/using-an-autocollimator-to-align-4f-systems/)
 |**Beamerscope** |Using machine-learning to optimize phase contrast in a low-cost cellphone microscope. |[Diederich2018](https://journals.plos.org/plosone/article/authors?id=10.1371/journal.pone.0192937), [GitHub](https://github.com/bionanoimaging/Beamerscope_CAD)|
@@ -50,6 +50,7 @@
 |**NicoLase** |An open-source diode laser combiner, fiber launch, and sequencing controller for fluorescence microscopy. Gaus lab. |[Nicovich2017](https://doi.org/10.1371%2Fjournal.pone.0173879), [GitHub](https://github.com/PRNicovich/NicoLase)
 |**Octopi** |Open configurable high-throughput imaging platform for infectious disease diagnosis in the field. Prakash lab.  |[Li2019](https://www.biorxiv.org/content/10.1101/684423v1), [GitHub](https://github.com/prakashlab/octopi-driver-board)
 |**OpenFlexure microscope** |A one-piece 3D printed flexure translation stage for open-source microscopy. Bowman lab. |[Collins2020](https://doi.org/10.1364/BOE.385729), [Website](https://openflexure.org), [Gitlab](https://gitlab.com/openflexure/openflexure-delta-stage)
+|**openFrame** | Modular, low-cost, open-hardware microscopy platform that can be configured or adapted to most light microscopy techniques. |[Lightley2023](https://doi.org/10.1111/jmi.13219), [GitHub](https://github.com/ImperialCollegeLondon/openFrame)
 |**Open Ocular**|Open-Source 3D printable eyepiece adapter for the cellphone. |[Website](https://www.openocular.com/), [Thingiverse](https://www.openocular.com/) |
 |**open OPT** |Design and implementation of a custom built optical projection tomography system. |[Wong2013](https://doi.org/10.1371/journal.pone.0073491)
 |**openRAMAN** |Low Cost, High Performances, 100% Open Source Raman Spectrometer |[Website](http://www.open-raman.org/)
