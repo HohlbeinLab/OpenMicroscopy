@@ -69,6 +69,7 @@
 |**Sample preparation for lighht-sheet microscopy** | Resources for preparing light-sheet samples in e.g. FEP tubes or glass capillaries |[HuiskenLAB](https://huiskenlab.com/sample-mounting/)
 |**Smartphone Fluorescence Spectroscopy** |A smartphone spectrophotometry for readout of fluorescence-based biological assays. |[Yu2014](https://doi.org/10.1021/ac502080t)
 |**STORM** |A blueprint for cost-efficient localization microscopy. Sauer lab. |[Holm2014](https://doi.org/10.1002%2Fcphc.201300739)
+|**Strobe microfluidics stage** |Workstation suitable for local digital fabrication for imaging fast processes, particularly for microfluidic droplet generation. Wenzel lab. |[GitHub](https://github.com/wenzel-lab/strobe-enhanced-microscopy-stage)
 |**smfBox** |Microscpe for single-molecule FRET. | [Ambrose2020](https://doi.org/10.1038/s41467-020-19468-4), [GitHub.io](https://craggslab.github.io/smfBox/)
 |**Squid**  |Squid: Simplifying quantitative imaging platform development and deployment. Prakash lab |[Li2020](https://doi.org/10.1101/2020.12.28.424613), [Website](https://squid-imaging.org/)
 |**Syringe pumps**  |Ender3 3D printer kit transformed into open, programmable syringe pump set. Saggiomo lab. |[Baas2021](https://doi.org/10.1016/j.ohx.2021.e00219), [GitHub](https://github.com/Vsaggiomo/Ender3-syringe-pumps)
