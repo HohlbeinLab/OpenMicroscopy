@@ -17,6 +17,7 @@
 | **DECODE** | Deep learning tool to fit high-density raw data in SMLM, based on Python and Pytorch. Macke, Ries and Turaga Labs. | [Speiser2021](https://doi.org/10.1038/s41592-021-01236-x), [GitHub](https://github.com/TuragaLab/DECODE)
 | **Deconvolution and multiview** | Rapid image deconvolution and multiview fusion for optical microscopy. Shroff lab.| [Guo2020](https://doi.org/10.1038/s41587-020-0560-x), [GitHub](https://github.com/eguomin/regDeconProject)
 | **Deepthought** | Repository for next generation microscope control software. Python.| [IntroVideo](https://drive.google.com/file/d/15RvyOEwZUGBE7swK23ZoiakrvKjhdWhp/view), [GitHub](https://github.com/ndsystems/deepthought)
+| **DL4MicEverywhere** | DL4MicEverywhere: deep learning for microscopy made flexible, shareable and reproducible.| [Hidalgo-Cenalmor2024](https://doi.org/10.1038/s41592-024-02295-6), [GitHub](https://github.com/HenriquesLab/DL4MicEverywhere)
 | **EMU** | Easier Micro-Manager User interface. Plugin for Micro-Manager allowing creation of versatile GUIs that can be easily adapted to control different devices and microscopes. Ries Lab. | [Deschamps2020](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03727-8), [GitHub](https://github.com/jdeschamps/EMU)
 | **fairSIM** | Open source SIM reconstruction. | [Website](https://www.fairsim.org/), [Müller2016](https://doi.org/10.1038/ncomms10980), [GitHub](https://github.com/fairSIM/fairSIM)
 | **Fiji** | General-purpose image processing. Fiji is just ImageJ. |[Schindelin2012](https://doi.org/10.1038/nmeth.2019), [Website](https://fiji.sc/)
@@ -39,6 +40,7 @@
 | **NanoJ-SQUIRREL** | Quantitative mapping and minimization of super-resolution optical imaging artifacts. |[Culley2018](https://doi.org/10.1038/nmeth.4605), [GitHub](https://github.com/superresolusian/NanoJ-SQUIRREL)
 | **Napari** | nD Viewer for python, expendable using plugins | [Website](https://napari.org/), [GitHub](https://github.com/napari/napari)
 | **Noise2Void** | Machine learning-based denoising without datasets. | [Krull2019](http://arxiv.org/abs/1811.10980), [GitHub](https://github.com/juglab/n2v)
+| **Omega** | Omega — harnessing the power of large language models for bioimage analysis | [Royer2024](https://doi.org/10.1038/s41592-024-02310-w), [GitHub](https://github.com/royerlab/napari-chatgpt)
 | **OpenFlexure Server** | Internet-of-things based microscopy control (Raspberry Pi) | [Website](http://openflexure.org/) |
 | **Open Microscopy Environment** | Open Microscopy Environment, OME) is a consortium of universities, research labs, industry and developers producing open-source software and format standards for microscopy data. | [Website](https://www.openmicroscopy.org/) |
 | **snouty-OPM** | Control and analysis code for OPM using a solid immersion tertiary objective (aka Mr. Snouty). (Python and Java) | [Sapoznik2020] (https://elifesciences.org/articles/57681) | [GitHub](https://github.com/QI2lab/OPM) |

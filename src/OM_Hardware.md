@@ -1,6 +1,7 @@
 | <div style="width:150px">Project</div>  | <div style="width:400px">Description</div> | <div style="width:150px">Resources</div> |
 | :---| :--- | :---
 |**-** |Free and open-source automated 3-D microscope. Pearce lab.|[Wijnen2016](https://doi.org/10.1111/jmi.12433),[Wiki](https://www.appropedia.org/Free_and_open-source_automated_3-D_microscope)
+|**3DSMLM** |Build and operation of a custom 3D, multicolor, single-molecule localization microscope. Ries lab.| [Power2024](https://doi.org/10.1038/s41596-024-00989-x), [GitHub.io](https://github.com/ries-lab/3DSMLM)
 |**AttoBright** |Single-molecule detection on a portable 3D-printed microscope. Gambin lab. |[Brown2019](https://doi.org/10.1038/s41467-019-13617-0), [GitHub](https://github.com/GambinSiereckiLab/AttoBright)
 |**Autocollimator** |Autocollimator to align 4f systems. Gareme Johnaston and Brian Patton. |[FocalPlane](https://focalplane.biologists.com/2022/06/29/using-an-autocollimator-to-align-4f-systems/)
 |**Beamerscope** |Using machine-learning to optimize phase contrast in a low-cost cellphone microscope. |[Diederich2018](https://journals.plos.org/plosone/article/authors?id=10.1371/journal.pone.0192937), [GitHub](https://github.com/bionanoimaging/Beamerscope_CAD)|
@@ -12,6 +13,7 @@
 |**DIY SDCM** |Versatile, do-it-yourself, low-cost spinning disk confocal microscope |[Halpern2021](https://doi.org/10.1101/2021.09.04.458950)
 |**easySTORM** |easySTORM: a robust, lower-cost approach to localisation and TIRF microscopy. French lab. |[Kwakwa2015](https://doi.org/10.1002%2Fjbio.201500324)
 |**eduSPIM** |An educational light sheet microscope. Huisken lab. |[Jahr2016](https://doi.org/10.1371/journal.pone.0161402)
+|**EnderScope:** |An educational light sheet microscope. Huisken lab. |[Burke2024](https://doi.org/10.1098/rsta.2023.0214), [GitHub](https://github.com/Pickering-Lab/EnderScope)
 |**fairSIM** |Open-source structured illumination microscopy. Huser & Müller lab. |[Markwirth2019](https://www.nature.com/articles/s41467-019-12165-x), [GitHub](https://github.com/fairSIM)
 |**Fluorescent Imaging System** | Low cost and open source multi-fluorescence imaging system for teaching and research in biology and bioengineering  |[Nunez2017](https://doi.org/10.1371/journal.pone.0187163) |
 |**FlyPi** |A 3D-printable open-source platform for fluorescence microscopy, optogenetics, and accurate temperature control during behaviour of zebrafish, Drosophila, and Caenorhabditis elegans |[Chagas2017](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2002702) |
@@ -33,7 +35,7 @@
 |**LITOS** |Versatile LED illumination tool for optogenetic stimulation. Pertz lab. |[Höhner2022](https://doi.org/10.1038/s41598-022-17312-x), [GitHub](https://github.com/pertzlab/LITOS)
 |**LSFM**|Laser-free super-resolution microscopy (LFSM). High-density superresolution microscopy with an incoherent light source and a conventional epifluorescence microscope setup by Kirti Prakash.|[Prakash2021](https://doi.org/10.1098/rsta.2020.0144)
 |**Luduscope**| Accessible Interactive Smartphone Microscopy for Life-Science Education |[Kim2016](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0162602)
-|**MatchboxScope** | ESP32-based mini microscope for belo 10 Euros |[GitHub](https://github.com/Matchboxscope/Matchboxscope)
+|**MatchboxScope** | ESP32-based mini microscope for belo 10 Euros. |[GitHub](https://github.com/Matchboxscope/Matchboxscope)
 |**mcSIM** | Code for designing, analyzing, and carrying out multicolor structured illumination microscopy experiments. Additional tools for digital micromirror device SIM (DMD-SIM), including DMD simulation code, DMD pattern generation, SIM reconstruction and instrument control. (Python and Java) |[Brown2021](https://doi.org/10.1364/BOE.422703), [GitHub](https://github.com/QI2lab/mcSIM)
 |**M4All** | Modular, Monolithic, 3D printed High-end Microscopy with multicolour detection and Raspberry Pi camera-based readout.  |[GitHub](https://github.com/NanoBioPhotonics-Strathclyde/M4All)|
 |**MEMS-SIM** | SIM microscope using 3-axis MEMS mirrors for £9k |[Tinning2022](https://doi.org/10.1364/BOE.475811), [GitHub](https://github.com/RalfBauerUoS/MEMS-SIM)|
@@ -66,7 +68,7 @@
 |**PUMA** |Modular, option to add SLM, heads up display etc.  |[GitHub](https://github.com/TadPath/PUMA/tree/v0.1), [Tadrous2021](https://onlinelibrary.wiley.com/doi/10.1111/jmi.13043)
 |**Raspi-based Fluorescence Microscope** |Facile assembly of an affordable miniature multicolor fluorescence microscope made of 3D-printed parts enables detection of single cells. | [Tristan-Landin2019](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0215114)|
 |**RiesPieces** | Repository of different microscope parts from the Ries lab, including a filter wheel, a flip mount, a linear stage, a magnetic sample holder, and solutions for illumination and focus locking. | [GitHub](https://github.com/ries-lab/RiesPieces/tree/master/Microscopy) |
-|**Sample preparation for lighht-sheet microscopy** | Resources for preparing light-sheet samples in e.g. FEP tubes or glass capillaries |[HuiskenLAB](https://huiskenlab.com/sample-mounting/)
+|**Sample preparation for light-sheet microscopy** | Resources for preparing light-sheet samples in e.g. FEP tubes or glass capillaries |[HuiskenLAB](https://huiskenlab.com/sample-mounting/)
 |**Smartphone Fluorescence Spectroscopy** |A smartphone spectrophotometry for readout of fluorescence-based biological assays. |[Yu2014](https://doi.org/10.1021/ac502080t)
 |**STORM** |A blueprint for cost-efficient localization microscopy. Sauer lab. |[Holm2014](https://doi.org/10.1002%2Fcphc.201300739)
 |**Strobe microfluidics stage** |Workstation suitable for local digital fabrication for imaging fast processes, particularly for microfluidic droplet generation. Wenzel lab. |[GitHub](https://github.com/wenzel-lab/strobe-enhanced-microscopy-stage)
@@ -77,4 +79,5 @@
 |**UC2 [You.See.Too.]** |UC2 is a general-purpose modular framework for making interactive (electro)-optical projects. Heintzmann lab. |[Diederich2020](https://doi.org/10.1038/s41467-020-19447-9), [GitHub](github.com/openUC2)
 |**UC2-Hi2**  |High-throughput microscopy inside an incubator robot. |[Ouyang2021](https://www.biorxiv.org/content/10.1101/2021.06.24.449732v1), [GitHub](https://github.com/openUC2/UC2-Hi2)
 |**UCsim2** |Super-resolution imaging using UC2 and DMDs.  |[Wang2021](https://doi.org/10.1101/2021.01.08.425840), [GitHub](https://github.com/openUC2/UC2_openSIM)
+|**UC2-STORM-Fluorescence** |An open-source, high resolution, automated fluorescence microscope based on the UC2. |[Zehrer2024](https://doi.org/10.7554/eLife.89826.2), [GitHub](https://github.com/openUC2/UC2-STORM-and-Fluorescence)
 |**WOSM** |The Warwick open source microscope for TIRF and educational fluorescence applications. |[Website](https://wosmic.org/)
