@@ -41,7 +41,7 @@
 | **Napari** | nD Viewer for python, expendable using plugins | [Website](https://napari.org/), [GitHub](https://github.com/napari/napari)
 | **Noise2Void** | Machine learning-based denoising without datasets. | [Krull2019](http://arxiv.org/abs/1811.10980), [GitHub](https://github.com/juglab/n2v)
 | **Omega** | Omega — harnessing the power of large language models for bioimage analysis | [Royer2024](https://doi.org/10.1038/s41592-024-02310-w), [GitHub](https://github.com/royerlab/napari-chatgpt)
-| **OpenFlexure Server** | Internet-of-things based microscopy control (Raspberry Pi) | [Website](http://openflexure.org/) |
+| **OpenFlexure Server** | Internet-of-things based microscopy control (Raspberry Pi) | [Website](http://openflexure.org/), [GitLab](https://gitlab.com/openflexure/openflexure-microscope-server) |
 | **Open Microscopy Environment** | Open Microscopy Environment, OME) is a consortium of universities, research labs, industry and developers producing open-source software and format standards for microscopy data. | [Website](https://www.openmicroscopy.org/) |
 | **snouty-OPM** | Control and analysis code for OPM using a solid immersion tertiary objective (aka Mr. Snouty). (Python and Java) | [Sapoznik2020] (https://elifesciences.org/articles/57681) | [GitHub](https://github.com/QI2lab/OPM) |
 | **PAM** | PIE analysis in MATLAB - Analysis software for point or image fluorescence experiments using pulsed-interleaved excitation. Single-molecule FRET, FCS, ICS, PhasorFLIM. | [Schrimpf2018](https://doi.org/10.1016/j.bpj.2018.02.035), [Website](https://gitlab.com/PAM-PIE/PAM)

@@ -14,7 +14,7 @@
 | **OnShape** | Maker/Hobby (free), €1.500 (Standard), €2.100 (Pro) per year | available | NO | online | - | YES | YES |
 | **SketchUp** | €150-600/year | €55€/year | NO | online/offline, Windows, Mac | .skp | YES | YES |
 
-Also, please have a look at thhe extensive list on [Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_computer-aided_design_software)  
+Also, please have a look at the extensive list on [Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_computer-aided_design_software)  
 
 |     Repository    |     Purpose    |  STL Previews | Automation | Link |
 |---|---|---|---|---|
@@ -26,5 +26,5 @@ Also, please have a look at thhe extensive list on [Wikipedia](https://en.wikipe
 | **GitLab**  |     Version controlled platform to host various files with inbuilt rendering tool for STL | YES | YES | [GitLab](https://gitlab.com/) |
 | **GitHub**  |     Version controlled platform to host various files with inbuilt rendering tool for STL | YES | YES | [GitHub](https://github.com/) |
 | **NIH 3D printing   database**    |     Supporting medical workers with 3D printing equipment    | YES | NO | [NIH Database](https://3dprint.nih.gov/) |
-| **Prusa Printers**| Database for various 3D printed models from Prusa | YES | NO | [https://www.prusaprinters.org/](https://www.prusaprinters.org/)|
-
+| **Printables**| Database for various 3D printed models from Prusa | YES | NO | [https://www.printables.com/](https://www.printables.com/)|
+| **Ondsel lens**| Database of public (editable) FreeCAD models, with STL/STEP export. | YES | NO | [https://lens.ondsel.com/public-models](https://lens.ondsel.com/public-models)|
