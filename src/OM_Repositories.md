@@ -12,7 +12,7 @@
 | **FocalPlane** |  Microscopy community site hosted by the Journal of Cell Science (JCS) and encompassing all fields in the biological sciences related to microscopy.  | [Website](https://focalplane.biologists.com/) [Twitter](https://twitter.com/focalplane_jcs/)
 | **GBIF**  | Recommed by PLOS, Springer Nature providing Free and open access to biodiversity data.  | [Website](https://www.gbif.org/) |
 | **GitHub** | Repository for code, development platform. |[Website](https://github.com/) |
-| **Gitlab** | Repository for code, development platform. |[Website](https://about.gitlab.com/) |
+| **GitLab** | Repository for code, development platform. |[Website](https://about.gitlab.com/) |
 | **Image Data Resource (IDR)** | A public repository of image datasets from published scientific studies, where the community can submit, search and access high-quality bio-image data. |[Website](https://idr.openmicroscopy.org/) |
 | **Objective Lens Introduction**  | All the facts about objective lenses in one page | [Website]([https://openorganelle.janelia.org/](https://amsikking.github.io/microscope_objectives/) |
 | **OpenOrganelle**  | Janelia's cells and tissues archive. | [Website](https://openorganelle.janelia.org/) |
