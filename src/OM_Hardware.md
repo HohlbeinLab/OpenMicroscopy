@@ -81,7 +81,7 @@
 |**Squid**  |Squid: Simplifying quantitative imaging platform development and deployment. Prakash lab |[Li2020](https://doi.org/10.1101/2020.12.28.424613), [Website](https://squid-imaging.org/)
 |**Syringe pumps**  |Ender3 3D printer kit transformed into open, programmable syringe pump set. Saggiomo lab. |[Baas2021](https://doi.org/10.1016/j.ohx.2021.e00219), [GitHub](https://github.com/Vsaggiomo/Ender3-syringe-pumps)
 |**Two-Photon** |Open-source two-photon microscopy. Gordon lab |[Rosenberger2014](https://doi.org/10.1371/journal.pone.0110475)
-|**UC2 [You.See.Too.]** |UC2 is a general-purpose modular framework for making interactive (electro)-optical projects. Heintzmann lab. |[Diederich2020](https://doi.org/10.1038/s41467-020-19447-9), [GitHub](github.com/openUC2)
+|**UC2 [You.See.Too.]** |UC2 is a general-purpose modular framework for making interactive (electro)-optical projects. Heintzmann lab. |[Diederich2020](https://doi.org/10.1038/s41467-020-19447-9), [GitHub](https://github.com/openUC2)
 |**UC2-Hi2**  |High-throughput microscopy inside an incubator robot. |[Ouyang2021](https://www.biorxiv.org/content/10.1101/2021.06.24.449732v1), [GitHub](https://github.com/openUC2/UC2-Hi2)
 |**UCsim2** |Super-resolution imaging using UC2 and DMDs.  |[Wang2021](https://doi.org/10.1101/2021.01.08.425840), [GitHub](https://github.com/openUC2/UC2_openSIM)
 |**UC2-STORM-Fluorescence** |An open-source, high resolution, automated fluorescence microscope based on the UC2. |[Zehrer2024](https://doi.org/10.7554/eLife.89826.2), [GitHub](https://github.com/openUC2/UC2-STORM-and-Fluorescence)
