@@ -18,7 +18,8 @@
 | **MyScope	training** | MyScope	training by Microscopy Australia. | [Website](https://www.ebi.ac.uk/bioimage-archive/submit/)
 | **Nikon MicroscopyU** | Nikon microscopy centre, information on microscopy and imaging.  |[Website](https://www.microscopyu.com/)
 | **Olympus microscopy**  | Olympus microscopy center,	information about microscopy and imaging.  | [Website](https://www.olympus-lifescience.com/de/microscope-resource/)
-| **Open Neuroscience** | Curated list of open-source hardware projects for laboratories. |[Website](https://open-neuroscience.com/) 
+| **Open Neuroscience** | Curated list of open-source hardware projects for laboratories. |[Website](https://open-neuroscience.com/)
+| **OpenFlexure Forum** | A web forum for the OpenFlexure project. |[Website](https://openflexure.discourse.group/)
 | **Women in Microscopy** | List of women in microscopy and image analysis. |[GoogleDocs](https://docs.google.com/spreadsheets/d/1I1OzPSv8o8vy8I25BBFvWPKLDFzvEN2WZczpmOrMC2k/edit#gid=0) 
 | **Zeiss microscopy** | Zeiss microscopy center, information about microscopy and imaging.  | [Website](http://zeiss-campus.magnet.fsu.edu/) 
  
