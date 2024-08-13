@@ -12,6 +12,7 @@
 |**DVD Laser Scanner Microscope** |Recycling and upgrading parts to form high-resolution fluorescence microscopy. |[Website](http://www.gaudi.ch/GaudiLabs/?page_id=652)
 |**DIY Camera Test Bench** |Low-cost, Do-It-Yourself (DIY), test bench setup that closely follows the currently recognized standard on camera performance evaluation (EMVA 1288). |[Website](https://www.thepulsar.be/article/diy-camera-test-bench-setup)
 |**DIY SDCM** |Versatile, do-it-yourself, low-cost spinning disk confocal microscope |[Halpern2021](https://doi.org/10.1101/2021.09.04.458950)
+|**eduWOSM** |The eduWOSM: an advanced optical microscope for education. | [Carter2024](https://doi.org/10.1101/2024.08.10.607181)[Website](https://wosmic.org/)
 |**easySTORM** |easySTORM: a robust, lower-cost approach to localisation and TIRF microscopy. French lab. |[Kwakwa2015](https://doi.org/10.1002%2Fjbio.201500324)
 |**eduSPIM** |An educational light sheet microscope. Huisken lab. |[Jahr2016](https://doi.org/10.1371/journal.pone.0161402)
 |**EnderScope:** |An educational light sheet microscope. Huisken lab. |[Burke2024](https://doi.org/10.1098/rsta.2023.0214), [GitHub](https://github.com/Pickering-Lab/EnderScope)
