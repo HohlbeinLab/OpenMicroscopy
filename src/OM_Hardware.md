@@ -1,6 +1,6 @@
 | <div style="width:150px">Project</div>  | <div style="width:400px">Description</div> | <div style="width:150px">Resources</div> |
 | :---| :--- | :---
-|**-** |Free and open-source automated 3-D microscope. Pearce lab.|[Wijnen2016](https://doi.org/10.1111/jmi.12433),[Wiki](https://www.appropedia.org/Free_and_open-source_automated_3-D_microscope)
+|**-** |Free and open-source automated 3-D microscope. Pearce lab.|[Wijnen2016](https://doi.org/10.1111/jmi.12433), [Wiki](https://www.appropedia.org/Free_and_open-source_automated_3-D_microscope)
 |**3DSMLM** |Build and operation of a custom 3D, multicolor, single-molecule localization microscope. Ries lab.| [Power2024](https://doi.org/10.1038/s41596-024-00989-x), [GitHub.io](https://github.com/ries-lab/3DSMLM)
 |**AttoBright** |Single-molecule detection on a portable 3D-printed microscope. Gambin lab. |[Brown2019](https://doi.org/10.1038/s41467-019-13617-0), [GitHub](https://github.com/GambinSiereckiLab/AttoBright)
 |**Autocollimator** |Autocollimator to align 4f systems. Gareme Johnaston and Brian Patton. |[FocalPlane](https://focalplane.biologists.com/2022/06/29/using-an-autocollimator-to-align-4f-systems/)
@@ -12,7 +12,7 @@
 |**DVD Laser Scanner Microscope** |Recycling and upgrading parts to form high-resolution fluorescence microscopy. |[Website](http://www.gaudi.ch/GaudiLabs/?page_id=652)
 |**DIY Camera Test Bench** |Low-cost, Do-It-Yourself (DIY), test bench setup that closely follows the currently recognized standard on camera performance evaluation (EMVA 1288). |[Website](https://www.thepulsar.be/article/diy-camera-test-bench-setup)
 |**DIY SDCM** |Versatile, do-it-yourself, low-cost spinning disk confocal microscope |[Halpern2021](https://doi.org/10.1101/2021.09.04.458950)
-|**eduWOSM** |The eduWOSM: an advanced optical microscope for education. | [Carter2024](https://doi.org/10.1101/2024.08.10.607181)[Website](https://wosmic.org/)
+|**eduWOSM** |The eduWOSM: an advanced optical microscope for education. | [Carter2024](https://doi.org/10.1101/2024.08.10.607181), [Website](https://wosmic.org/)
 |**easySTORM** |easySTORM: a robust, lower-cost approach to localisation and TIRF microscopy. French lab. |[Kwakwa2015](https://doi.org/10.1002%2Fjbio.201500324)
 |**eduSPIM** |An educational light sheet microscope. Huisken lab. |[Jahr2016](https://doi.org/10.1371/journal.pone.0161402)
 |**EnderScope:** |An educational light sheet microscope. Huisken lab. |[Burke2024](https://doi.org/10.1098/rsta.2023.0214), [GitHub](https://github.com/Pickering-Lab/EnderScope)
