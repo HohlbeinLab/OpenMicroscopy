@@ -11,7 +11,7 @@
 | **FreeCAD** | Free | N/A | YES | Mac, Windows, Linux | .FCStd | YES | YES |
 | **Blender** | Free | N/A | YES | Mac, Windows , Linux | .blend | NO | YES |
 | **Tinkercad** | Free | N/A | NO | online | .obj | NO | YES |
-| **OnShape** | Maker/Hobby (free), €1.500 (Standard), €2.100 (Pro) per year | available | NO | online | - | YES | YES |
+| **OnShape** | Public projects (free) unique: online collaboration and version merging, €1.500 (Standard), €2.100 (Pro) per year | available | NO | online | - | YES | YES |
 | **SketchUp** | €150-600/year | €55€/year | NO | online/offline, Windows, Mac | .skp | YES | YES |
 
 Also, please have a look at the extensive list on [Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_computer-aided_design_software)  
@@ -28,3 +28,4 @@ Also, please have a look at the extensive list on [Wikipedia](https://en.wikiped
 | **NIH 3D printing   database**    |     Supporting medical workers with 3D printing equipment    | YES | NO | [NIH Database](https://3dprint.nih.gov/) |
 | **Printables**| Database for various 3D printed models from Prusa | YES | NO | [https://www.printables.com/](https://www.printables.com/)|
 | **Ondsel lens**| Database of public (editable) FreeCAD models, with STL/STEP export. | YES | NO | [https://lens.ondsel.com/public-models](https://lens.ondsel.com/public-models)|
+| **OnShape**| Public online CAD models, with STL/STEP export. | YES | NO | [Public projects browser](https://cad.onshape.com/documents?nodeId=3&resourceType=filter)
