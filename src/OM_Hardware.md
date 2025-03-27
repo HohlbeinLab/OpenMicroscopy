@@ -19,7 +19,7 @@
 |**eduSPIM** |An educational light sheet microscope. Huisken lab. |[Jahr2016](https://doi.org/10.1371/journal.pone.0161402)
 |**EnderScope** |An educational light sheet microscope. Huisken lab. |[Burke2024](https://doi.org/10.1098/rsta.2023.0214), [GitHub](https://github.com/Pickering-Lab/EnderScope)
 |**Entomoscope** |An open-source photomicroscope for biodiversity discovery. Pylatiuk lab. |[Wührl2024](https://doi.org/10.1109/ACCESS.2024.3355272), [OSFHOME](https://osf.io/3vmrg/)
-|**ESPressoscope** |A small and powerful approach for in situ microscopy. Huisken lab. |[Li2024](https://doi.org/10.1371/journal.pone.0306654), [GitHub](https://github.com/Matchboxscope/Matchboxscope)
+|**ESPressoscope** |A small and powerful approach for in situ microscopy. Diederich lab. |[Li2024](https://doi.org/10.1371/journal.pone.0306654), [GitHub](https://github.com/Matchboxscope/Matchboxscope)
 |**fairSIM** |Open-source structured illumination microscopy. Huser & Müller lab. |[Markwirth2019](https://www.nature.com/articles/s41467-019-12165-x), [GitHub](https://github.com/fairSIM)
 |**Fluorescent Imaging System** | Low cost and open source multi-fluorescence imaging system for teaching and research in biology and bioengineering  |[Nunez2017](https://doi.org/10.1371/journal.pone.0187163) |
 |**FlyPi** |A 3D-printable open-source platform for fluorescence microscopy, optogenetics, and accurate temperature control during behaviour of zebrafish, Drosophila, and Caenorhabditis elegans |[Chagas2017](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2002702) |
