@@ -8,14 +8,18 @@
 |**Bright-Eyes TTM** |Open-Source Time-Tagging Module for Single-Photon Microscopy. |[Rosetta2021](https://doi.org/10.1101/2021.10.11.463950 ), [GitHub](https://github.com/VicidominiLab/BrightEyes-TTM)|
 |**cellSTORM** |dSTORM using cellphone cameras and on-device neural network reconstruction. |[Diederich2019](https://doi.org/10.1371/journal.pone.0209827), [GitHub](https://github.com/bionanoimaging/cellSTORM-Android)
 |**cellSTORM II** | Single-molecule localization microscopy using waveguide-based cellphone microscopy and 3D printing. |[Diederich2020](https://www.biorxiv.org/content/10.1101/2020.09.04.283085v1), [GitHub](https://beniroquai.github.io/stormocheap/)
-|**Crossbill** | open access single objective light-sheet microscopy platform |[Kumar2021](https://doi.org/10.1101/2021.04.30.442190), [Zenodo/GitHub](https://doi.org/10.5281/zenodo.3554784)
+|**Crossbill** | Open access single objective light-sheet microscopy platform |[Kumar2021](https://doi.org/10.1101/2021.04.30.442190), [Zenodo/GitHub](https://doi.org/10.5281/zenodo.3554784)
+|**cryoscope** | A super-resolution fluorescence cryomicroscope. Sharp lab. |[Last2024](https://doi.org/10.1016/bs.mcb.2024.02.026), [GitHub](https://github.com/bionanopatterning/cryoscope_2)
 |**DVD Laser Scanner Microscope** |Recycling and upgrading parts to form high-resolution fluorescence microscopy. |[Website](http://www.gaudi.ch/GaudiLabs/?page_id=652)
+|**descSPIM** |Affordable and easy-to-build light-sheet microscope optimized for tissue clearing techniques. Susaki lab. |[Otomo2024](https://doi.org/10.1038/s41467-024-49131-1), [Github](https://github.com/dbsb-juntendo/descSPIM)
 |**DIY Camera Test Bench** |Low-cost, Do-It-Yourself (DIY), test bench setup that closely follows the currently recognized standard on camera performance evaluation (EMVA 1288). |[Website](https://www.thepulsar.be/article/diy-camera-test-bench-setup)
 |**DIY SDCM** |Versatile, do-it-yourself, low-cost spinning disk confocal microscope |[Halpern2021](https://doi.org/10.1101/2021.09.04.458950)
 |**eduWOSM** |The eduWOSM: an advanced optical microscope for education. | [Carter2024](https://doi.org/10.1101/2024.08.10.607181), [Website](https://wosmic.org/)
 |**easySTORM** |easySTORM: a robust, lower-cost approach to localisation and TIRF microscopy. French lab. |[Kwakwa2015](https://doi.org/10.1002%2Fjbio.201500324)
 |**eduSPIM** |An educational light sheet microscope. Huisken lab. |[Jahr2016](https://doi.org/10.1371/journal.pone.0161402)
-|**EnderScope:** |An educational light sheet microscope. Huisken lab. |[Burke2024](https://doi.org/10.1098/rsta.2023.0214), [GitHub](https://github.com/Pickering-Lab/EnderScope)
+|**EnderScope** |An educational light sheet microscope. Huisken lab. |[Burke2024](https://doi.org/10.1098/rsta.2023.0214), [GitHub](https://github.com/Pickering-Lab/EnderScope)
+|**Entomoscope** |An open-source photomicroscope for biodiversity discovery. Pylatiuk lab. |[Wührl2024](https://doi.org/10.1109/ACCESS.2024.3355272), [OSFHOME](https://osf.io/3vmrg/)
+|**ESPressoscope** |A small and powerful approach for in situ microscopy. Huisken lab. |[Li2024](https://doi.org/10.1371/journal.pone.0306654), [GitHub](https://github.com/Matchboxscope/Matchboxscope)
 |**fairSIM** |Open-source structured illumination microscopy. Huser & Müller lab. |[Markwirth2019](https://www.nature.com/articles/s41467-019-12165-x), [GitHub](https://github.com/fairSIM)
 |**Fluorescent Imaging System** | Low cost and open source multi-fluorescence imaging system for teaching and research in biology and bioengineering  |[Nunez2017](https://doi.org/10.1371/journal.pone.0187163) |
 |**FlyPi** |A 3D-printable open-source platform for fluorescence microscopy, optogenetics, and accurate temperature control during behaviour of zebrafish, Drosophila, and Caenorhabditis elegans |[Chagas2017](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2002702) |
@@ -67,9 +71,10 @@
 |**OPTiM**  |Optical projection tomography integrated microscope using open-source hardware and software. |[Watson2017](https://doi.org/10.1371/journal.pone.0180309)|
 |**OptiJ** |Optical projection tomography with Fiji. |[Ramirez2019](https://www.nature.com/articles/s41598-019-52065-0)
 |**OPenT** |Optical micro tomography. Martins lab. | [Felix2016](https://doi.org/10.1016/j.mod.2016.03.001)
+|**pDPC** | Open-source implementation of polarisation-resolved single-shot differential phase contrast microscopy (pDPC) on a modular openFrame-based microscope. French lab. |[Liu2025](https://doi.org/10.1016/j.ohx.2024.e00622) |[Zenodo](https://zenodo.org/records/14536403)
 |**pgFocus** |pgFocus is an open source and open hardware, for noncommercial use, focus stabilization device developed by Karl Bellvé.  |[Wiki](http://big.umassmed.edu/wiki/index.php/PgFocus)
-|**Picroscope** | Development of a Low-Cost System for Simultaneous Longitudinal Biological Imaging. |[Virctoria2021](https://doi.org/10.1101/2021.05.17.443454) |
-|**PlanktonScope** | Sea and plankton imaging for citizen science. Prakah lab. |[Pollina2020](https://www.biorxiv.org/content/10.1101/2020.04.23.056978v1), [Website](https://www.planktoscope.org/) |
+|**Picroscope** | Development of a low-cost system for simultaneous longitudinal biological imaging. |[Victoria2021](https://doi.org/10.1038/s42003-021-02779-7) |[Github](https://github.com/braingeneers/picroscope-supplement)
+|**PlanktonScope** | Sea and plankton imaging for citizen science. Prakash lab. |[Pollina2020](https://www.biorxiv.org/content/10.1101/2020.04.23.056978v1), [Website](https://www.planktoscope.org/) |
 |**Pi-based FPM** |Low-cost, sub-micron resolution, wide-field computational microscopy using opensource hardware. Waller lab and Konda lab. |[Aidukas2019](https://www.nature.com/articles/s41598-019-43845-9)|
 |**PiFocus** |Astigmatism-based active focus stabilisation with universal objective lens compatibility, extended operating range and nanometer precision. |[Rahmani2024](https://doi.org/10.1364/OE.520845) |[GitHub](https://github.com/PonjavicLab/PiFocus), [Zenodo](https://zenodo.org/records/10726263)|
 |**PUMA** |Modular, option to add SLM, heads up display etc.  |[GitHub](https://github.com/TadPath/PUMA/tree/v0.1), [Tadrous2021](https://onlinelibrary.wiley.com/doi/10.1111/jmi.13043)
@@ -82,6 +87,7 @@
 |**smfBox** |Microscpe for single-molecule FRET. | [Ambrose2020](https://doi.org/10.1038/s41467-020-19468-4), [GitHub.io](https://craggslab.github.io/smfBox/)
 |**Squid**  |Squid: Simplifying quantitative imaging platform development and deployment. Prakash lab. |[Li2020](https://doi.org/10.1101/2020.12.28.424613), [Website](https://squid-imaging.org/)
 |**Syringe pumps**  |Ender3 3D printer kit transformed into open, programmable syringe pump set. Saggiomo lab. |[Baas2021](https://doi.org/10.1016/j.ohx.2021.e00219), [GitHub](https://github.com/Vsaggiomo/Ender3-syringe-pumps)
+|**TWINKLE** |An open-source two-photon microscope for teaching and research. Thiberge lab. |[Schottdorf2025](https://doi.org/10.1371/journal.pone.0318924), [GitHub](https://github.com/BrainCOGS/Microscope)
 |**Two-Photon** |Open-source two-photon microscopy. Gordon lab. |[Rosenberger2014](https://doi.org/10.1371/journal.pone.0110475)
 |**UC2 [You.See.Too.]** |UC2 is a general-purpose modular framework for making interactive (electro)-optical projects. Heintzmann lab. |[Diederich2020](https://doi.org/10.1038/s41467-020-19447-9), [GitHub](https://github.com/openUC2)
 |**UC2-Hi2**  |High-throughput microscopy inside an incubator robot. |[Ouyang2021](https://www.biorxiv.org/content/10.1101/2021.06.24.449732v1), [GitHub](https://github.com/openUC2/UC2-Hi2)
