@@ -17,7 +17,7 @@
 |**eduWOSM** |The eduWOSM: an advanced optical microscope for education. | [Carter2024](https://doi.org/10.1101/2024.08.10.607181), [Website](https://wosmic.org/)
 |**easySTORM** |easySTORM: a robust, lower-cost approach to localisation and TIRF microscopy. French lab. |[Kwakwa2015](https://doi.org/10.1002%2Fjbio.201500324)
 |**eduSPIM** |An educational light sheet microscope. Huisken lab. |[Jahr2016](https://doi.org/10.1371/journal.pone.0161402)
-|**EnderScope** |An educational light sheet microscope. Huisken lab. |[Burke2024](https://doi.org/10.1098/rsta.2023.0214), [GitHub](https://github.com/Pickering-Lab/EnderScope)
+|**EnderScope** |A low-cost 3D printer-based scanning microscope for microplastic detection. Pickering lab. |[Burke2024](https://doi.org/10.1098/rsta.2023.0214), [GitHub](https://github.com/Pickering-Lab/EnderScope)
 |**Entomoscope** |An open-source photomicroscope for biodiversity discovery. Pylatiuk lab. |[Wührl2024](https://doi.org/10.1109/ACCESS.2024.3355272), [OSFHOME](https://osf.io/3vmrg/)
 |**ESPressoscope** |A small and powerful approach for in situ microscopy. Diederich lab. |[Li2024](https://doi.org/10.1371/journal.pone.0306654), [GitHub](https://github.com/Matchboxscope/Matchboxscope)
 |**fairSIM** |Open-source structured illumination microscopy. Huser & Müller lab. |[Markwirth2019](https://www.nature.com/articles/s41467-019-12165-x), [GitHub](https://github.com/fairSIM)
