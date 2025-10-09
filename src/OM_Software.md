@@ -7,6 +7,7 @@
 | **BactMap** |R-based software to combine and analyse segmentation & fluorescence data derived from custom software like Oufti, Morphometrics, MicrobeJ or Supersegger. | [Raaphorst2019](https://doi.org/10.1111/mmi.14417), [GitHub](https://github.com/veeninglab/bactmap)
 | **Biobeam** | Biobeam—Multiplexed wave-optical simulations of light-sheet microscopy (Python)| [Weigert2018](https://doi.org/10.1371/journal.pcbi.1006079). [GitHub](https://maweigert.github.io/biobeam)
 | **Bio Image Book** | Introduction to Bioimage Analysis using Jupyter notebooks (Python) | [Bankhead2022/GitHub](https://bioimagebook.github.io/README.html?s=09)
+|**Bright-Eyes MCS** |Software for real-time preview etc., support for SPAD arrays etc, storing in HDF5, works with SMLM / scanning modalities. |[Donato2024](https://doi.org/10.21105/joss.07125), [GitHub](https://github.com/VicidominiLab/BrightEyes-MCS)|
 | **CARE** |Denoising that enables low-photon dose imaging using neural networks. | [Weigert2018](https://doi.org/10.1038/s41592-018-0216-7). [GitHub](https://github.com/CSBDeep/CSBDeep)
 | **Clij** | GPU-accelerated image processing.|[Haase2020](https://www.nature.com/articles/s41592-019-0650-1) [GitHub](https://clij.github.io/)
 | **Cellpose** | Cell segmentation.  |[Stringer2021](https://doi.org/10.1038/s41592-020-01018-x), [GitHub](https://github.com/MouseLand/cellpose)
