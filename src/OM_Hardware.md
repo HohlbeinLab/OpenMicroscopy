@@ -57,6 +57,7 @@
 |**NanoJ-fluidics** |Open-source fluid exchange in microscopy. Henriques lab.  |[Almada2019](https://doi.org/10.1038/s41467-019-09231-9), [GitHub](https://github.com/HenriquesLab/NanoJ-Fluidics)
 |**NicoLase** |An open-source diode laser combiner, fiber launch, and sequencing controller for fluorescence microscopy. Gaus lab. |[Nicovich2017](https://doi.org/10.1371%2Fjournal.pone.0173879), [GitHub](https://github.com/PRNicovich/NicoLase)
 |**Octopi** |Open configurable high-throughput imaging platform for infectious disease diagnosis in the field. Prakash lab.  |[Li2019](https://www.biorxiv.org/content/10.1101/684423v1), [GitHub](https://github.com/prakashlab/octopi-driver-board)
+|**OLU** |OLU: One- & Two-Photon Light-Sheet Microscope Design. Bormuth lab. |[Hubert2023](https://doi.org/10.1101/2023.07.10.548107 ), [GitHub](https://github.com/LJPZebra/OLU)
 |**OpenFlexure Microscope** |A 3D printed, laboratory-grade, open-source microscope, based on monolithic flexure stage. Bowman lab. |[Collins2020](https://doi.org/10.1364/BOE.385729), [Website](https://openflexure.org/projects/microscope/), [GitLab](https://gitlab.com/openflexure/openflexure-microscope)
 |**OpenFlexure Block Stage** |A 3D printed 3-axis flexure translation stage for open-source fibre alignment (and microscopy). Bowman lab. |[Meng2020](https://doi.org/10.1364/OE.384207), [Website](https://openflexure.org/projects/blockstage/), [GitLab](https://gitlab.com/openflexure/openflexure-block-stage)
 |**OpenFlexure Delta Stage** |A 3D printed 3-axis flexure translation stage for open-source microscopy. Bowman lab. |[McDermott2022](https://doi.org/10.1364/OE.450211), [Website](https://openflexure.org/projects/deltastage/), [GitLab](https://gitlab.com/openflexure/openflexure-delta-stage)
@@ -80,6 +81,7 @@
 |**PUMA** |Modular, option to add SLM, heads up display etc.  |[GitHub](https://github.com/TadPath/PUMA/tree/v0.1), [Tadrous2021](https://onlinelibrary.wiley.com/doi/10.1111/jmi.13043)
 |**Raspi-based Fluorescence Microscope** |Facile assembly of an affordable miniature multicolor fluorescence microscope made of 3D-printed parts enables detection of single cells. | [Tristan-Landin2019](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0215114)|
 |**RiesPieces** | Repository of different microscope parts from the Ries lab, including a filter wheel, a flip mount, a linear stage, a magnetic sample holder, and solutions for illumination and focus locking. | [GitHub](https://github.com/ries-lab/RiesPieces/tree/master/Microscopy) |
+|**Red2PMic** | Affordable open-source 2-photon microscope | [GitHub](https://github.com/amchagas/red2pmic) |
 |**Sample preparation for light-sheet microscopy** | Resources for preparing light-sheet samples in, e,g., FEP tubes or glass capillaries. |[HuiskenLAB](https://huiskenlab.com/sample-mounting/)
 |**Smartphone Fluorescence Spectroscopy** |A smartphone spectrophotometry for readout of fluorescence-based biological assays. |[Yu2014](https://doi.org/10.1021/ac502080t)
 |**STORM** |A blueprint for cost-efficient localization microscopy. Sauer lab. |[Holm2014](https://doi.org/10.1002%2Fcphc.201300739)
