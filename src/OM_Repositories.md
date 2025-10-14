@@ -21,5 +21,6 @@
 | **Protocols.io** | A secure platform for developing and sharing reproducible methods.  |[Website](https://www.protocols.io/)|
 | **Wikimedia Commons** | Category:Light microscopy micrographs.  | [Website](https://commons.m.wikimedia.org/wiki/Category:Light_microscopy_micrographs)  |
 | **Zenodo** | Most popular data sharing platform, integration with Github.  | [Website](https://zenodo.org/)  |
-
+| **Filters for contrast** |DIY Oblique ilumination Filters for 3d printing.  | [Website](https://github.com/Usuy-Leon/Microscopy_Side-Ilumiation-Contrast-Filters)  |
+| **Filters for contrast** |DIY Dark Field Filters for 3d printing.  | [Website](https://github.com/Usuy-Leon/Microscopy_Dark-Field-Filters)  |
 
