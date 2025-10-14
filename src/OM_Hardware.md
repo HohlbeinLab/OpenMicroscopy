@@ -21,6 +21,7 @@
 |**Entomoscope** |An open-source photomicroscope for biodiversity discovery. Pylatiuk lab. |[Wührl2024](https://doi.org/10.1109/ACCESS.2024.3355272), [OSFHOME](https://osf.io/3vmrg/)
 |**ESPressoscope** |A small and powerful approach for in situ microscopy. Diederich lab. |[Li2024](https://doi.org/10.1371/journal.pone.0306654), [GitHub](https://github.com/Matchboxscope/Matchboxscope)
 |**fairSIM** |Open-source structured illumination microscopy. Huser & Müller lab. |[Markwirth2019](https://www.nature.com/articles/s41467-019-12165-x), [GitHub](https://github.com/fairSIM)
+|**Filters for microscopy** |3D printed DIY filters for oblique ilumination and dark field microscopy.| [Github-Contrast](https://github.com/Usuy-Leon/Microscopy_Side-Ilumiation-Contrast-Filters), [Github-DarkField](https://github.com/Usuy-Leon/Microscopy_Dark-Field-Filters) |
 |**Fluorescent Imaging System** | Low cost and open source multi-fluorescence imaging system for teaching and research in biology and bioengineering  |[Nunez2017](https://doi.org/10.1371/journal.pone.0187163) |
 |**FlyPi** |A 3D-printable open-source platform for fluorescence microscopy, optogenetics, and accurate temperature control during behaviour of zebrafish, Drosophila, and Caenorhabditis elegans |[Chagas2017](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2002702) |
 |**Foldscope** |Origami-based paper microscope. Prakash-lab. |[Cybulski2014](https://doi.org/10.1371/journal.pone.0098781), [Website](https://www.foldscope.com/)
@@ -83,6 +84,7 @@
 |**RiesPieces** | Repository of different microscope parts from the Ries lab, including a filter wheel, a flip mount, a linear stage, a magnetic sample holder, and solutions for illumination and focus locking. | [GitHub](https://github.com/ries-lab/RiesPieces/tree/master/Microscopy) |
 |**Red2PMic** | Affordable open-source 2-photon microscope | [GitHub](https://github.com/amchagas/red2pmic) |
 |**Sample preparation for light-sheet microscopy** | Resources for preparing light-sheet samples in, e,g., FEP tubes or glass capillaries. |[HuiskenLAB](https://huiskenlab.com/sample-mounting/)
+|**ShinyaBlades** |An OpenSource CoverSlips thickness detector for 3d printing |[Github](https://github.com/Usuy-Leon/Cover_Slips_thickness_Detector)
 |**Smartphone Fluorescence Spectroscopy** |A smartphone spectrophotometry for readout of fluorescence-based biological assays. |[Yu2014](https://doi.org/10.1021/ac502080t)
 |**STORM** |A blueprint for cost-efficient localization microscopy. Sauer lab. |[Holm2014](https://doi.org/10.1002%2Fcphc.201300739)
 |**Strobe microfluidics stage** |Workstation suitable for local digital fabrication for imaging fast processes, particularly for microfluidic droplet generation. Wenzel lab. |[GitHub](https://github.com/wenzel-lab/strobe-enhanced-microscopy-stage)
