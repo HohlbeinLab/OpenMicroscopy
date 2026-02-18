@@ -43,6 +43,7 @@
 | **NanoJ-SQUIRREL** | Quantitative mapping and minimization of super-resolution optical imaging artifacts. |[Culley2018](https://doi.org/10.1038/nmeth.4605), [GitHub](https://github.com/superresolusian/NanoJ-SQUIRREL)
 | **Napari** | nD Viewer for python, expendable using plugins | [Website](https://napari.org/), [GitHub](https://github.com/napari/napari)
 | **Noise2Void** | Machine learning-based denoising without datasets. | [Krull2019](http://arxiv.org/abs/1811.10980), [GitHub](https://github.com/juglab/n2v)
+| **ODT-LS** | Optical diffraction tomography reconstruction using Lippmann-Schwinger model. | [Pham2020](https://ieeexplore-ieee-org.gorgone.univ-toulouse.fr/document/8970570), [GitHub](https://github.com/ThanhAnPham/Lippmann-Schwinger)
 | **Omega** | Omega — harnessing the power of large language models for bioimage analysis | [Royer2024](https://doi.org/10.1038/s41592-024-02310-w), [GitHub](https://github.com/royerlab/napari-chatgpt)
 | **OpenFlexure Server** | Internet-of-things based microscopy control (Raspberry Pi) | [Website](http://openflexure.org/), [GitLab](https://gitlab.com/openflexure/openflexure-microscope-server) |
 | **Open Microscopy Environment** | Open Microscopy Environment, OME) is a consortium of universities, research labs, industry and developers producing open-source software and format standards for microscopy data. | [Website](https://www.openmicroscopy.org/) |
