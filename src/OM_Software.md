@@ -19,11 +19,14 @@
 | **Deconvolution and multiview** | Rapid image deconvolution and multiview fusion for optical microscopy. Shroff lab.| [Guo2020](https://doi.org/10.1038/s41587-020-0560-x), [GitHub](https://github.com/eguomin/regDeconProject)
 | **Deepthought** | Repository for next generation microscope control software. Python.| [IntroVideo](https://drive.google.com/file/d/15RvyOEwZUGBE7swK23ZoiakrvKjhdWhp/view), [GitHub](https://github.com/ndsystems/deepthought)
 | **DL4MicEverywhere** | DL4MicEverywhere: deep learning for microscopy made flexible, shareable and reproducible.| [Hidalgo-Cenalmor2024](https://doi.org/10.1038/s41592-024-02295-6), [GitHub](https://github.com/HenriquesLab/DL4MicEverywhere)
+| **Eigenpsf-extractor** | Extract PSFs from 2D and 3D images and estimate eigenpsf : a basis allowing you to represent PSFs compactly. |  [GitHub](https://gitlab.irit.fr/mambo/psf_projects/eigenpsf-extractor)
 | **EMU** | Easier Micro-Manager User interface. Plugin for Micro-Manager allowing creation of versatile GUIs that can be easily adapted to control different devices and microscopes. Ries Lab. | [Deschamps2020](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03727-8), [GitHub](https://github.com/jdeschamps/EMU)
 | **fairSIM** | Open source SIM reconstruction. | [Website](https://www.fairsim.org/), [Müller2016](https://doi.org/10.1038/ncomms10980), [GitHub](https://github.com/fairSIM/fairSIM)
 | **Fiji** | General-purpose image processing. Fiji is just ImageJ. |[Schindelin2012](https://doi.org/10.1038/nmeth.2019), [Website](https://fiji.sc/)
+| **FlexSIM** | A flexible SIM reconstruction method capable to handle difficult data prone to reconstruction artifacts. | [Soubies2024](https://onlinelibrary.wiley.com/doi/10.1111/jmi.13344), [GitHub](https://github.com/esoubies/FlexSIM)
 | **FluorescenceTools** | A collection of GitHub repositories for open source fluorescence spectroscopy software. | [Website](https://github.com/Fluorescence-Tools)
 | **FRET community software list** | A collection of software for the analysis of single-molecule FRET experiments of all kinds. | [Website](https://www.fret.community/software/)
+| **GlobalBioIm** | A unifying Matlab framework for the development of reconstruction algorithms in computational imaging. | [Website](https://biomedical-imaging-group.github.io/GlobalBioIm/), [Soubies2019](https://iopscience.iop.org/article/10.1088/1361-6420/ab2ae9), [GitHub](https://github.com/Biomedical-Imaging-Group/GlobalBioIm)
 | **ilastik** | Pixel and object classification using machine learning.  |[Berg2019](https://doi.org/10.1038/s41592-019-0582-9), [Website](https://www.ilastik.org/), [GitHub](https://github.com/ilastik/ilastik)
 | **ImJoy** | Browser- and plugin-based image processing and machine learning. Lundberg lab and Zimmer lab. | [Ouyang2019](https://doi.org/10.1038/s41592-019-0627-0), [Website](http://imjjoy.io/)
 | **ImSwitch**  | Python-based microscopy control software, Plug-and-Play. Testa lab.| [CasasMoreno2021](https://doi.org/10.21105/joss.03394), [GitHub](https://github.com/kasasxav/ImSwitch)
@@ -41,6 +44,7 @@
 | **NanoJ-SQUIRREL** | Quantitative mapping and minimization of super-resolution optical imaging artifacts. |[Culley2018](https://doi.org/10.1038/nmeth.4605), [GitHub](https://github.com/superresolusian/NanoJ-SQUIRREL)
 | **Napari** | nD Viewer for python, expendable using plugins | [Website](https://napari.org/), [GitHub](https://github.com/napari/napari)
 | **Noise2Void** | Machine learning-based denoising without datasets. | [Krull2019](http://arxiv.org/abs/1811.10980), [GitHub](https://github.com/juglab/n2v)
+| **ODT-LS** | Optical diffraction tomography reconstruction using Lippmann-Schwinger model. | [Pham2020](https://ieeexplore-ieee-org.gorgone.univ-toulouse.fr/document/8970570), [GitHub](https://github.com/ThanhAnPham/Lippmann-Schwinger)
 | **Omega** | Omega — harnessing the power of large language models for bioimage analysis | [Royer2024](https://doi.org/10.1038/s41592-024-02310-w), [GitHub](https://github.com/royerlab/napari-chatgpt)
 | **OpenFlexure Server** | Internet-of-things based microscopy control (Raspberry Pi) | [Website](http://openflexure.org/), [GitLab](https://gitlab.com/openflexure/openflexure-microscope-server) |
 | **Open Microscopy Environment** | Open Microscopy Environment, OME) is a consortium of universities, research labs, industry and developers producing open-source software and format standards for microscopy data. | [Website](https://www.openmicroscopy.org/) |
