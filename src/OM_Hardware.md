@@ -98,3 +98,4 @@
 |**UCsim2** |Super-resolution imaging using UC2 and DMDs.  |[Wang2021](https://doi.org/10.1101/2021.01.08.425840), [GitHub](https://github.com/openUC2/UC2_openSIM)
 |**UC2-STORM-Fluorescence** |An open-source, high resolution, automated fluorescence microscope based on the UC2. |[Zehrer2024](https://doi.org/10.7554/eLife.89826.2), [GitHub](https://github.com/openUC2/UC2-STORM-and-Fluorescence)
 |**WOSM** |The Warwick open source microscope for TIRF and educational fluorescence applications. |[Website](https://wosmic.org/)
+|**Open Blink** |The low-cost TIRF microscopy for single molecule super-resolution imaging with full µManager integration. Grußmayer Lab. |[Huo2026](https://www.biorxiv.org/content/10.64898/2026.03.10.710894v1), [GitHub.io](https://grussmayerlab.github.io/resources/openblink/)
