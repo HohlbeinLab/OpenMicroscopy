@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Open Microscopy — Resource Index</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/7.0.0/fuse.min.js"></script>
+<style>
+  :root{
+    --ink:#1b2421;
+    --paper:#f6f5f0;
+    --paper-raised:#ffffff;
+    --line:#d9d6cb;
+    --accent:#0e7a6e;      /* fluorescence teal */
+    --accent-soft:#e3f2ee;
+    --accent-strong:#06504a;
+    --amber:#c97a2b;       /* brightfield amber, used sparingly */
+    --mono: 'IBM Plex Mono', monospace;
+    --sans: 'IBM Plex Sans', system-ui, sans-serif;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background:var(--paper);
+    color:var(--ink);
+    font-family:var(--sans);
+    line-height:1.5;
+  }
+
+  /* ---------- header ---------- */
+  header{
+    border-bottom:1px solid var(--line);
+    padding:2.25rem 1.5rem 1.5rem;
+    background:
+      radial-gradient(circle at 18px 18px, var(--accent) 0 2px, transparent 2.2px) 0 0/36px 36px,
+      var(--paper);
+  }
+  .header-inner{max-width:1080px;margin:0 auto;}
+  .eyebrow{
+    font-family:var(--mono);
+    font-size:.72rem;
+    letter-spacing:.14em;
+    text-transform:uppercase;
+    color:var(--accent-strong);
+    display:flex;
+    align-items:center;
+    gap:.5rem;
+  }
+  .eyebrow .dot{width:7px;height:7px;border-radius:50%;background:var(--accent);display:inline-block;}
+  h1{
+    font-size:2.1rem;
+    margin:.5rem 0 .35rem;
+    font-weight:700;
+    letter-spacing:-.01em;
+  }
+  header p.sub{
+    margin:0;
+    color:#52584f;
+    max-width:640px;
+    font-size:.98rem;
+  }
+  header p.sub a{color:var(--accent-strong);font-weight:600;text-decoration:none;border-bottom:1px solid var(--accent);}
+
+  /* ---------- controls ---------- */
+  .controls{
+    max-width:1080px;
+    margin:0 auto;
+    padding:1.4rem 1.5rem 0;
+  }
+  .search-row{
+    display:flex;
+    gap:.6rem;
+    margin-bottom:1rem;
+  }
+  .search-row input{
+    flex:1;
+    font-family:var(--sans);
+    font-size:1rem;
+    padding:.7rem .9rem;
+    border:1px solid var(--line);
+    border-radius:6px;
+    background:var(--paper-raised);
+    color:var(--ink);
+  }
+  .search-row input:focus{
+    outline:none;
+    border-color:var(--accent);
+    box-shadow:0 0 0 3px var(--accent-soft);
+  }
+  .count-badge{
+    font-family:var(--mono);
+    font-size:.78rem;
+    color:#6b7066;
+    white-space:nowrap;
+    align-self:center;
+    padding:0 .3rem;
+  }
+
+  .pills{
+    display:flex;
+    flex-wrap:wrap;
+    gap:.45rem;
+    margin-bottom:1.3rem;
+  }
+  .pill{
+    font-family:var(--mono);
+    font-size:.76rem;
+    letter-spacing:.02em;
+    padding:.38rem .7rem;
+    border-radius:99px;
+    border:1px solid var(--line);
+    background:var(--paper-raised);
+    color:var(--ink);
+    cursor:pointer;
+    transition:border-color .15s, background .15s, color .15s;
+    user-select:none;
+  }
+  .pill:hover{border-color:var(--accent);}
+  .pill.active{
+    background:var(--accent-strong);
+    border-color:var(--accent-strong);
+    color:#fff;
+  }
+  .pill .n{opacity:.65;margin-left:.35em;}
+
+  /* ---------- results ---------- */
+  main{max-width:1080px;margin:0 auto;padding:0 1.5rem 4rem;}
+  .grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fill, minmax(280px, 1fr));
+    gap:.9rem;
+    margin-top:.4rem;
+  }
+  .card{
+    background:var(--paper-raised);
+    border:1px solid var(--line);
+    border-radius:8px;
+    padding:1rem 1.1rem 1rem;
+    position:relative;
+    transition:border-color .15s, transform .1s;
+  }
+  .card:hover{border-color:var(--accent);}
+  .card-cat{
+    position:absolute;
+    top:.85rem;
+    right:1rem;
+    font-family:var(--mono);
+    font-size:.65rem;
+    text-transform:uppercase;
+    letter-spacing:.06em;
+    color:var(--accent-strong);
+    background:var(--accent-soft);
+    padding:.15rem .45rem;
+    border-radius:4px;
+  }
+  .card h3{
+    margin:0 0 .4rem;
+    font-size:1.02rem;
+    padding-right:5.5rem;
+    font-weight:600;
+  }
+  .card p{
+    margin:0 0 .65rem;
+    font-size:.88rem;
+    color:#3c4239;
+  }
+  .card .links{
+    display:flex;
+    flex-wrap:wrap;
+    gap:.5rem;
+  }
+  .card .links a{
+    font-family:var(--mono);
+    font-size:.74rem;
+    color:var(--accent-strong);
+    text-decoration:none;
+    border-bottom:1px dotted var(--accent);
+  }
+  .card .links a:hover{color:var(--amber); border-color:var(--amber);}
+  .card .attrs{
+    font-family:var(--mono);
+    font-size:.72rem;
+    color:#5b6058;
+    border-top:1px dashed var(--line);
+    padding-top:.5rem;
+    margin-top:.4rem;
+    display:flex;
+    flex-direction:column;
+    gap:.15rem;
+  }
+
+  .empty-state{
+    text-align:center;
+    padding:3.5rem 1rem;
+    color:#6b7066;
+    font-family:var(--mono);
+    font-size:.9rem;
+  }
+
+  mark{
+    background:#fde9c4;
+    color:inherit;
+    padding:0 1px;
+    border-radius:2px;
+  }
+
+  footer{
+    border-top:1px solid var(--line);
+    padding:1.6rem 1.5rem 3rem;
+    text-align:center;
+  }
+  footer .inner{max-width:1080px;margin:0 auto;}
+  footer p{
+    font-family:var(--mono);
+    font-size:.78rem;
+    color:#6b7066;
+    margin:.25rem 0;
+  }
+  footer a{color:var(--accent-strong);text-decoration:none;font-weight:600;}
+
+  @media (max-width:560px){
+    h1{font-size:1.6rem;}
+    .search-row{flex-direction:column;align-items:stretch;}
+    .count-badge{align-self:flex-start;}
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <div class="eyebrow"><span class="dot"></span>HohlbeinLab / OpenMicroscopy — prototype index</div>
+    <h1>Open Microscopy resources</h1>
+    <p class="sub">A searchable index of open-source software, hardware, repositories, labs, and learning
+      resources for microscopy. Source data lives in <a href="https://github.com/HohlbeinLab/OpenMicroscopy" target="_blank" rel="noopener">the GitHub repo</a> — contribute there, or via the form on this site.</p>
+  </div>
+</header>
+
+<div class="controls">
+  <div class="search-row">
+    <input id="search" type="text" placeholder="Search by name, lab, keyword… e.g. “deconvolution”, “Ries lab”, “SMLM”" autocomplete="off">
+    <div class="count-badge" id="count"></div>
+  </div>
+  <div class="pills" id="pills"></div>
+</div>
+
+<main>
+  <div class="grid" id="grid"></div>
+  <div class="empty-state" id="empty" style="display:none;">No matching entries. Try a different term or clear filters.</div>
+</main>
+
+<footer>
+  <div class="inner">
+    <p>Prototype build · data parsed from the project's markdown source · 263 entries</p>
+    <p><a href="https://github.com/HohlbeinLab/OpenMicroscopy/pulls" target="_blank" rel="noopener">Suggest an addition on GitHub →</a></p>
+  </div>
+</footer>
+
+<script>
+let DATA = [];
+let fuse = null;
+let activeCategory = null;
+
+const grid = document.getElementById('grid');
+const empty = document.getElementById('empty');
+const countEl = document.getElementById('count');
+const pillsEl = document.getElementById('pills');
+const searchEl = document.getElementById('search');
+
+function escapeHtml(str){
+  return str.replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+}
+
+function highlight(text, query){
+  if(!query) return escapeHtml(text);
+  const safe = escapeHtml(text);
+  const q = query.trim().split(/\s+/).filter(Boolean).map(escapeHtml);
+  if(q.length === 0) return safe;
+  const pattern = new RegExp('(' + q.join('|') + ')', 'ig');
+  return safe.replace(pattern, '<mark>$1</mark>');
+}
+
+function render(){
+  const query = searchEl.value.trim();
+  let results = DATA;
+
+  if(query){
+    results = fuse.search(query).map(r => r.item);
+  }
+  if(activeCategory){
+    results = results.filter(e => e.categorySlug === activeCategory);
+  }
+
+  countEl.textContent = `${results.length} / ${DATA.length}`;
+  grid.innerHTML = '';
+  empty.style.display = results.length ? 'none' : 'block';
+
+  for(const e of results){
+    const card = document.createElement('div');
+    card.className = 'card';
+
+    const linksHtml = (e.links || []).map(l =>
+      `<a href="${escapeHtml(l.url)}" target="_blank" rel="noopener">${escapeHtml(l.label)} ↗</a>`
+    ).join('');
+
+    let attrsHtml = '';
+    if(e.attributes){
+      attrsHtml = '<div class="attrs">' + Object.entries(e.attributes)
+        .map(([k,v]) => `<span>${escapeHtml(k)}: ${escapeHtml(v)}</span>`).join('') + '</div>';
+    }
+
+    card.innerHTML = `
+      <span class="card-cat">${escapeHtml(e.category)}</span>
+      <h3>${highlight(e.name, query)}</h3>
+      <p>${highlight(e.description, query)}</p>
+      ${linksHtml ? `<div class="links">${linksHtml}</div>` : ''}
+      ${attrsHtml}
+    `;
+    grid.appendChild(card);
+  }
+}
+
+function buildPills(){
+  const counts = {};
+  for(const e of DATA){
+    counts[e.categorySlug] = (counts[e.categorySlug] || {label: e.category, n: 0});
+    counts[e.categorySlug].n++;
+  }
+  pillsEl.innerHTML = '';
+
+  const allPill = document.createElement('div');
+  allPill.className = 'pill active';
+  allPill.textContent = `All`;
+  allPill.dataset.slug = '';
+  pillsEl.appendChild(allPill);
+
+  for(const [slug, info] of Object.entries(counts)){
+    const pill = document.createElement('div');
+    pill.className = 'pill';
+    pill.dataset.slug = slug;
+    pill.innerHTML = `${info.label}<span class="n">${info.n}</span>`;
+    pillsEl.appendChild(pill);
+  }
+
+  pillsEl.addEventListener('click', (ev) => {
+    const pill = ev.target.closest('.pill');
+    if(!pill) return;
+    [...pillsEl.children].forEach(p => p.classList.remove('active'));
+    pill.classList.add('active');
+    activeCategory = pill.dataset.slug || null;
+    render();
+  });
+}
+
+async function init(){
+  const res = await fetch('entries.json');
+  DATA = await res.json();
+  fuse = new Fuse(DATA, {
+    keys: ['name', 'description', 'category'],
+    threshold: 0.32,
+    ignoreLocation: true,
+  });
+  buildPills();
+  render();
+}
+
+searchEl.addEventListener('input', render);
+init();
+</script>
+
+</body>
+</html>
