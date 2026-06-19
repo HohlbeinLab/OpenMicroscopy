@@ -1,0 +1,4103 @@
+[
+  {
+    "name": "ACCéNT",
+    "description": "Plugin for Fiji and Micro-Manager which allows to calibrate the pixel-wise noise characteristics of (s)CMOS cameras from dark images alone. Ries Lab.",
+    "links": [
+      {
+        "label": "Diekmann2021",
+        "url": "https://www.biorxiv.org/lookup/doi/10.1101/2021.04.16.440125"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/ries-lab/Accent"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 0
+  },
+  {
+    "name": "autoFRET",
+    "description": "An automated single-molecule FRET platform for multiwell-plate screening of biomolecular conformations and dynamics. Schlierf lab Lab.",
+    "links": [
+      {
+        "label": "Hartmann2023",
+        "url": "https://www.biorxiv.org/content/10.1101/2023.02.28.530427v1"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/SchlierfLAB/autoFRET"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 1
+  },
+  {
+    "name": "BactMap",
+    "description": "R-based software to combine and analyse segmentation & fluorescence data derived from custom software like Oufti, Morphometrics, MicrobeJ or Supersegger.",
+    "links": [
+      {
+        "label": "Raaphorst2019",
+        "url": "https://doi.org/10.1111/mmi.14417"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/veeninglab/bactmap"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 2
+  },
+  {
+    "name": "Biobeam",
+    "description": "Biobeam—Multiplexed wave-optical simulations of light-sheet microscopy (Python)",
+    "links": [
+      {
+        "label": "Weigert2018",
+        "url": "https://doi.org/10.1371/journal.pcbi.1006079"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://maweigert.github.io/biobeam"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 3
+  },
+  {
+    "name": "Bio Image Book",
+    "description": "Introduction to Bioimage Analysis using Jupyter notebooks (Python)",
+    "links": [
+      {
+        "label": "Bankhead2022/GitHub",
+        "url": "https://bioimagebook.github.io/README.html?s=09"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 4
+  },
+  {
+    "name": "Bright-Eyes MCS",
+    "description": "Software for real-time preview etc., support for SPAD arrays etc, storing in HDF5, works with SMLM / scanning modalities.",
+    "links": [
+      {
+        "label": "Donato2024",
+        "url": "https://doi.org/10.21105/joss.07125"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/VicidominiLab/BrightEyes-MCS"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 5
+  },
+  {
+    "name": "CARE",
+    "description": "Denoising that enables low-photon dose imaging using neural networks.",
+    "links": [
+      {
+        "label": "Weigert2018",
+        "url": "https://doi.org/10.1038/s41592-018-0216-7"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/CSBDeep/CSBDeep"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 6
+  },
+  {
+    "name": "Clij",
+    "description": "GPU-accelerated image processing.",
+    "links": [
+      {
+        "label": "Haase2020",
+        "url": "https://www.nature.com/articles/s41592-019-0650-1"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://clij.github.io/"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 7
+  },
+  {
+    "name": "Cellpose",
+    "description": "Cell segmentation.",
+    "links": [
+      {
+        "label": "Stringer2021",
+        "url": "https://doi.org/10.1038/s41592-020-01018-x"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/MouseLand/cellpose"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 8
+  },
+  {
+    "name": "CellProfiler",
+    "description": "Image Processing for high-throughput imaging. Carpenter lab. Version 3.0.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://cellprofiler.org/"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 9
+  },
+  {
+    "name": "Cluster analysis for SMLM data",
+    "description": "Software packages for cluster identification and analysis by Owen lab",
+    "links": [
+      {
+        "label": "Rubin-Delanchy2015",
+        "url": "https://doi.org/10.1038/nmeth.3612"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 10
+  },
+  {
+    "name": "ColiCoords",
+    "description": "Python-based software for creating a coordinate system in segmented rod-shaped cells for the alignment and aggregation of many cells.",
+    "links": [
+      {
+        "label": "Smit2019",
+        "url": "https://doi.org/10.1371/journal.pone.0217524"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/Jhsmit/ColiCoords"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 11
+  },
+  {
+    "name": "CSBdeep",
+    "description": "Deep Learning platform for ImageJ/Fiji",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://csbdeep.bioimagecomputing.com/"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 12
+  },
+  {
+    "name": "DECODE",
+    "description": "Deep learning tool to fit high-density raw data in SMLM, based on Python and Pytorch. Macke, Ries and Turaga Labs.",
+    "links": [
+      {
+        "label": "Speiser2021",
+        "url": "https://doi.org/10.1038/s41592-021-01236-x"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/TuragaLab/DECODE"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 13
+  },
+  {
+    "name": "Deconvolution and multiview",
+    "description": "Rapid image deconvolution and multiview fusion for optical microscopy. Shroff lab.",
+    "links": [
+      {
+        "label": "Guo2020",
+        "url": "https://doi.org/10.1038/s41587-020-0560-x"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/eguomin/regDeconProject"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 14
+  },
+  {
+    "name": "Deepthought",
+    "description": "Repository for next generation microscope control software. Python.",
+    "links": [
+      {
+        "label": "IntroVideo",
+        "url": "https://drive.google.com/file/d/15RvyOEwZUGBE7swK23ZoiakrvKjhdWhp/view"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/ndsystems/deepthought"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 15
+  },
+  {
+    "name": "DL4MicEverywhere",
+    "description": "DL4MicEverywhere: deep learning for microscopy made flexible, shareable and reproducible.",
+    "links": [
+      {
+        "label": "Hidalgo-Cenalmor2024",
+        "url": "https://doi.org/10.1038/s41592-024-02295-6"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/HenriquesLab/DL4MicEverywhere"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 16
+  },
+  {
+    "name": "Eigenpsf-extractor",
+    "description": "Extract PSFs from 2D and 3D images and estimate eigenpsf : a basis allowing you to represent PSFs compactly.",
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://gitlab.irit.fr/mambo/psf_projects/eigenpsf-extractor"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 17
+  },
+  {
+    "name": "EMU",
+    "description": "Easier Micro-Manager User interface. Plugin for Micro-Manager allowing creation of versatile GUIs that can be easily adapted to control different devices and microscopes. Ries Lab.",
+    "links": [
+      {
+        "label": "Deschamps2020",
+        "url": "https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03727-8"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/jdeschamps/EMU"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 18
+  },
+  {
+    "name": "fairSIM",
+    "description": "Open source SIM reconstruction.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://www.fairsim.org/"
+      },
+      {
+        "label": "Müller2016",
+        "url": "https://doi.org/10.1038/ncomms10980"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/fairSIM/fairSIM"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 19
+  },
+  {
+    "name": "Fiji",
+    "description": "General-purpose image processing. Fiji is just ImageJ.",
+    "links": [
+      {
+        "label": "Schindelin2012",
+        "url": "https://doi.org/10.1038/nmeth.2019"
+      },
+      {
+        "label": "Website",
+        "url": "https://fiji.sc/"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 20
+  },
+  {
+    "name": "FlexSIM",
+    "description": "A flexible SIM reconstruction method capable to handle difficult data prone to reconstruction artifacts.",
+    "links": [
+      {
+        "label": "Soubies2024",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1111/jmi.13344"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/esoubies/FlexSIM"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 21
+  },
+  {
+    "name": "FluorescenceTools",
+    "description": "A collection of GitHub repositories for open source fluorescence spectroscopy software.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://github.com/Fluorescence-Tools"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 22
+  },
+  {
+    "name": "FRET community software list",
+    "description": "A collection of software for the analysis of single-molecule FRET experiments of all kinds.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://www.fret.community/software/"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 23
+  },
+  {
+    "name": "GlobalBioIm",
+    "description": "A unifying Matlab framework for the development of reconstruction algorithms in computational imaging.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://biomedical-imaging-group.github.io/GlobalBioIm/"
+      },
+      {
+        "label": "Soubies2019",
+        "url": "https://iopscience.iop.org/article/10.1088/1361-6420/ab2ae9"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/Biomedical-Imaging-Group/GlobalBioIm"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 24
+  },
+  {
+    "name": "ilastik",
+    "description": "Pixel and object classification using machine learning.",
+    "links": [
+      {
+        "label": "Berg2019",
+        "url": "https://doi.org/10.1038/s41592-019-0582-9"
+      },
+      {
+        "label": "Website",
+        "url": "https://www.ilastik.org/"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/ilastik/ilastik"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 25
+  },
+  {
+    "name": "ImJoy",
+    "description": "Browser- and plugin-based image processing and machine learning. Lundberg lab and Zimmer lab.",
+    "links": [
+      {
+        "label": "Ouyang2019",
+        "url": "https://doi.org/10.1038/s41592-019-0627-0"
+      },
+      {
+        "label": "Website",
+        "url": "http://imjjoy.io/"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 26
+  },
+  {
+    "name": "ImSwitch",
+    "description": "Python-based microscopy control software, Plug-and-Play. Testa lab.",
+    "links": [
+      {
+        "label": "CasasMoreno2021",
+        "url": "https://doi.org/10.21105/joss.03394"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/kasasxav/ImSwitch"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 27
+  },
+  {
+    "name": "Inverse Modelling",
+    "description": "All kinds of software projects that perform inverse modelling, deconvolution, lightfield microscopy, optical wave simulation, etc.; Code in Python, Matlab. Waller lab.",
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/Waller-Lab"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 28
+  },
+  {
+    "name": "Labthings",
+    "description": "Internet-of-Things-based Hardware control (e.g. Microcontrolers)",
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/labthings/python-labthings"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 29
+  },
+  {
+    "name": "LIVECell",
+    "description": "A large-scale dataset for label-free live cell segmentation.",
+    "links": [
+      {
+        "label": "Edlund2021",
+        "url": "https://doi.org/10.1038/s41592-021-01249-6"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 30
+  },
+  {
+    "name": "localize-psf",
+    "description": "Code for localizing diffraction limited fluorescent objects and fitting the results to various different point-spread function (PSF) models. This includes tools for doing localization on the GPU using a modified version of GPUfit. (Python)",
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/QI2lab/localize-psf"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 31
+  },
+  {
+    "name": "LocMoFit",
+    "description": "LocMoFit is a framework to fit SMLM data with geometric models. It comes as a plugin of SMAP (see below). Ries Lab.",
+    "links": [
+      {
+        "label": "Wu2021",
+        "url": "https://www.biorxiv.org/lookup/doi/10.1101/2021.08.30.456756"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/jries/SMAP"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 32
+  },
+  {
+    "name": "MDEmic",
+    "description": "A metadata annotation tool to facilitate management of FAIR image data in the bioimaging community.",
+    "links": [
+      {
+        "label": "Kunis2021",
+        "url": "https://doi.org/10.1038/s41592-021-01288-z"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/ome/omero-insight"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 33
+  },
+  {
+    "name": "microEye",
+    "description": "A python toolkit for data acquisition within one graphical user interface and accessing tiff images and perform localization analysis. It also allows for visualizing the filtering-localization process WYSIWYG.",
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/samhitech/microEye"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 34
+  },
+  {
+    "name": "micromanager",
+    "description": "Microscope-Control Software with a large user and hardware plugin community",
+    "links": [
+      {
+        "label": "Edelstein2010",
+        "url": "https://doi.org/10.1002/0471142727.mb1420s92"
+      },
+      {
+        "label": "Website",
+        "url": "https://micro-manager.org/"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 35
+  },
+  {
+    "name": "mcSIM",
+    "description": "Code for designing, analyzing, and carrying out multicolor structured illumination microscopy experiments. Additional tools for digital micromirror device SIM (DMD-SIM), including DMD simulation code, DMD pattern generation, SIM reconstruction and instrument control. (Python and Java)",
+    "links": [
+      {
+        "label": "Brown2021",
+        "url": "https://doi.org/10.1364/BOE.422703"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/QI2lab/mcSIM"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 36
+  },
+  {
+    "name": "Multi-view deconvolution",
+    "description": "Real-time multi-view deconvolution for lightsheet microscopy. Huisken lab.",
+    "links": [
+      {
+        "label": "Schmid2015",
+        "url": "https://doi.org/10.1093/bioinformatics/btv387"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 37
+  },
+  {
+    "name": "NanoImagingPack",
+    "description": "Various functions to simulate optical imaging in microscopy; 3D, Polarization, Wave propagation, etc. Python",
+    "links": [
+      {
+        "label": "GitLab",
+        "url": "https://gitlab.com/bionanoimaging/nanoimagingpack"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 38
+  },
+  {
+    "name": "NanoJ-SQUIRREL",
+    "description": "Quantitative mapping and minimization of super-resolution optical imaging artifacts.",
+    "links": [
+      {
+        "label": "Culley2018",
+        "url": "https://doi.org/10.1038/nmeth.4605"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/superresolusian/NanoJ-SQUIRREL"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 39
+  },
+  {
+    "name": "Napari",
+    "description": "nD Viewer for python, expendable using plugins",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://napari.org/"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/napari/napari"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 40
+  },
+  {
+    "name": "Noise2Void",
+    "description": "Machine learning-based denoising without datasets.",
+    "links": [
+      {
+        "label": "Krull2019",
+        "url": "http://arxiv.org/abs/1811.10980"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/juglab/n2v"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 41
+  },
+  {
+    "name": "ODT-LS",
+    "description": "Optical diffraction tomography reconstruction using Lippmann-Schwinger model.",
+    "links": [
+      {
+        "label": "Pham2020",
+        "url": "https://ieeexplore-ieee-org.gorgone.univ-toulouse.fr/document/8970570"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/ThanhAnPham/Lippmann-Schwinger"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 42
+  },
+  {
+    "name": "Omega",
+    "description": "Omega — harnessing the power of large language models for bioimage analysis",
+    "links": [
+      {
+        "label": "Royer2024",
+        "url": "https://doi.org/10.1038/s41592-024-02310-w"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/royerlab/napari-chatgpt"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 43
+  },
+  {
+    "name": "OpenFlexure Server",
+    "description": "Internet-of-things based microscopy control (Raspberry Pi)",
+    "links": [
+      {
+        "label": "Website",
+        "url": "http://openflexure.org/"
+      },
+      {
+        "label": "GitLab",
+        "url": "https://gitlab.com/openflexure/openflexure-microscope-server"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 44
+  },
+  {
+    "name": "Open Microscopy Environment",
+    "description": "Open Microscopy Environment, OME) is a consortium of universities, research labs, industry and developers producing open-source software and format standards for microscopy data.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://www.openmicroscopy.org/"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 45
+  },
+  {
+    "name": "snouty-OPM",
+    "description": "Control and analysis code for OPM using a solid immersion tertiary objective (aka Mr. Snouty). (Python and Java)",
+    "links": [],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 46
+  },
+  {
+    "name": "PAM",
+    "description": "PIE analysis in MATLAB - Analysis software for point or image fluorescence experiments using pulsed-interleaved excitation. Single-molecule FRET, FCS, ICS, PhasorFLIM.",
+    "links": [
+      {
+        "label": "Schrimpf2018",
+        "url": "https://doi.org/10.1016/j.bpj.2018.02.035"
+      },
+      {
+        "label": "Website",
+        "url": "https://gitlab.com/PAM-PIE/PAM"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 47
+  },
+  {
+    "name": "PERPL",
+    "description": "Structure-based modelling of microscopy data",
+    "links": [
+      {
+        "label": "Curd2021",
+        "url": "https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.0c03332"
+      },
+      {
+        "label": "BitBucket",
+        "url": "https://bitbucket.org/apcurd/perpl-python3/src/master/"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 48
+  },
+  {
+    "name": "Picasso",
+    "description": "Python-based analysis software for single-molecule localisation microscopy. Jungmann lab.",
+    "links": [
+      {
+        "label": "SchnitzbauerStrauss2017",
+        "url": "https://doi.org/10.1038/nprot.2017.024"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/jungmannlab/picasso"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 49
+  },
+  {
+    "name": "Phasor-based SMLM",
+    "description": "Phasor based single-molecule localization microscopy in 3D (pSMLM-3D): An algorithm for MHz localization rates using standard CPUs",
+    "links": [
+      {
+        "label": "Martens2017",
+        "url": "https://doi.org/10.1063/1.5005899"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/HohlbeinLab/prj-thunderstorm"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 50
+  },
+  {
+    "name": "pycro-manager",
+    "description": "Python-based Microscope-Control for micromanager.",
+    "links": [
+      {
+        "label": "Pinkard2021",
+        "url": "https://doi.org/10.1038/s41592-021-01087-6"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/micro-manager/pycro-manager"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 51
+  },
+  {
+    "name": "PyFocus",
+    "description": "Python package for vectorial calculations of focused optical fields.",
+    "links": [
+      {
+        "label": "Caprile2021",
+        "url": "https://arxiv.org/abs/2110.00160"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/fcaprile/PyFocus"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 52
+  },
+  {
+    "name": "PyLabLib",
+    "description": "PyLabLib cam-control: Software for universal camera control and frames acquisition. Sandoghdar lab.",
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/SandoghdarLab/pyLabLib-cam-control"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 53
+  },
+  {
+    "name": "PYME",
+    "description": "Python-based open-source tool for super-resolution microscopy and data.",
+    "links": [
+      {
+        "label": "Marin2021",
+        "url": "https://doi.org/10.1038/s41592-021-01165-9"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/python-microscopy/python-microscopy"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 54
+  },
+  {
+    "name": "Python Microscope",
+    "description": "Microscope is a Python package for the control of microscope devices. It is the fastest and easiest method to incorporate image analysis as part of a microscope experiment.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://www.micron.ox.ac.uk/software/microscope/cite.html"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 55
+  },
+  {
+    "name": "Mars",
+    "description": "Molecule archive suite is broad framework for image processing, storage and reproducible analysis of single-molecule data.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://duderstadt-lab.github.io/mars-docs/"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/duderstadt-lab"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 56
+  },
+  {
+    "name": "Microscope-Cockpit",
+    "description": "An open-source approach for user friendly fully programmable bespoke microscopy (Micron, Oxford).",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://micronoxford.com/python-microscope-cockpit"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/MicronOxford"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 57
+  },
+  {
+    "name": "navigate",
+    "description": "Open-source platform for smart light-sheet microscopy. Sheppard, Fiolka, Dean labs.",
+    "links": [
+      {
+        "label": "Marin2024",
+        "url": "https://doi.org/10.1038/s41592-024-02413-4"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/TheDeanLab/navigate"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 58
+  },
+  {
+    "name": "Quantitative Phase Imaging Tools",
+    "description": "Various Tools to reconstruct brightfield images under varying illumination using inverse modeling and neural networks. Datasets. Lei Tian Lab.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://sites.bu.edu/tianlab/open-source/"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/bu-cisl"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 59
+  },
+  {
+    "name": "QuPath",
+    "description": "Open software platform especially for histopathology.",
+    "links": [
+      {
+        "label": "Bankhead2017",
+        "url": "https://doi.org/10.1038/s41598-017-17204-5"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://qupath.github.io/"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 60
+  },
+  {
+    "name": "Ray-optics web app",
+    "description": "An open-source web application to simulate reflection and refraction of light.",
+    "links": [
+      {
+        "label": "GitHub/Website",
+        "url": "https://ricktu288.github.io/ray-optics/"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 61
+  },
+  {
+    "name": "SMAP",
+    "description": "Open-source superresolution microscopy analysis platform. MATLAB-based tool with GUI to fit raw data, post-process and analyze SMLM data. Contains a powerful ROI manager and many other plugins, can be extended by own plugins (documentation available). Ries Lab.",
+    "links": [
+      {
+        "label": "Ries2020",
+        "url": "https://www.nature.com/articles/s41592-020-0938-1"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/jries/SMAP"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 62
+  },
+  {
+    "name": "StarDist",
+    "description": "Nuclei segmentation.",
+    "links": [
+      {
+        "label": "Weigert2019",
+        "url": "http://arxiv.org/abs/1908.03636"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/stardist/stardist"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 63
+  },
+  {
+    "name": "ThunderSTORM",
+    "description": "An open-source, interactive, and modular plug-in for ImageJ designed for automated processing, analysis, and visualization of data acquired by single molecule localization microscopy methods.",
+    "links": [
+      {
+        "label": "Ovesný2014",
+        "url": "https://doi.org/10.1093/bioinformatics/btu202"
+      },
+      {
+        "label": "GitHub",
+        "url": "http://zitmen.github.io/thunderstorm/"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 64
+  },
+  {
+    "name": "Various",
+    "description": "Zhao lab: sparsedeconvolution for image deconvolution, rFRCmetric for resolution/image-quality mapping, SN2N for image denoising:",
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/WeisongZhao"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 65
+  },
+  {
+    "name": "Wave Blocks",
+    "description": "An open-source tool for inverse modelling modular optical system. Written in Tensorflow and supports deconvolution and arbitrarily complicated optical setups. Done with automatic differentiation",
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/pvjosue/WaveBlocks"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 66
+  },
+  {
+    "name": "ZeroCostDL4Mic",
+    "description": "Deep Learning accessible to microscopists by means of Google Colab Notebooks",
+    "links": [
+      {
+        "label": "Chamier2021",
+        "url": "https://doi.org/10.1038/s41467-021-22518-0"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/HenriquesLab/ZeroCostDL4Mic"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 67
+  },
+  {
+    "name": "Free and open-source automated 3-D micro…",
+    "description": "Free and open-source automated 3-D microscope. Pearce lab.",
+    "links": [
+      {
+        "label": "Wijnen2016",
+        "url": "https://doi.org/10.1111/jmi.12433"
+      },
+      {
+        "label": "Wiki",
+        "url": "https://www.appropedia.org/Free_and_open-source_automated_3-D_microscope"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 68
+  },
+  {
+    "name": "3DSMLM",
+    "description": "Build and operation of a custom 3D, multicolor, single-molecule localization microscope. Ries lab.",
+    "links": [
+      {
+        "label": "Power2024",
+        "url": "https://doi.org/10.1038/s41596-024-00989-x"
+      },
+      {
+        "label": "GitHub.io",
+        "url": "https://github.com/ries-lab/3DSMLM"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 69
+  },
+  {
+    "name": "AttoBright",
+    "description": "Single-molecule detection on a portable 3D-printed microscope. Gambin lab.",
+    "links": [
+      {
+        "label": "Brown2019",
+        "url": "https://doi.org/10.1038/s41467-019-13617-0"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/GambinSiereckiLab/AttoBright"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 70
+  },
+  {
+    "name": "Autocollimator",
+    "description": "Autocollimator to align 4f systems. Gareme Johnaston and Brian Patton.",
+    "links": [
+      {
+        "label": "FocalPlane",
+        "url": "https://focalplane.biologists.com/2022/06/29/using-an-autocollimator-to-align-4f-systems/"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 71
+  },
+  {
+    "name": "Beamerscope",
+    "description": "Using machine-learning to optimize phase contrast in a low-cost cellphone microscope.",
+    "links": [
+      {
+        "label": "Diederich2018",
+        "url": "https://journals.plos.org/plosone/article/authors?id=10.1371/journal.pone.0192937"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/bionanoimaging/Beamerscope_CAD"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 72
+  },
+  {
+    "name": "Bright-Eyes TTM",
+    "description": "Open-Source Time-Tagging Module for Single-Photon Microscopy.",
+    "links": [
+      {
+        "label": "Rosetta2021",
+        "url": "https://doi.org/10.1101/2021.10.11.463950"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/VicidominiLab/BrightEyes-TTM"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 73
+  },
+  {
+    "name": "cellSTORM",
+    "description": "dSTORM using cellphone cameras and on-device neural network reconstruction.",
+    "links": [
+      {
+        "label": "Diederich2019",
+        "url": "https://doi.org/10.1371/journal.pone.0209827"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/bionanoimaging/cellSTORM-Android"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 74
+  },
+  {
+    "name": "cellSTORM II",
+    "description": "Single-molecule localization microscopy using waveguide-based cellphone microscopy and 3D printing.",
+    "links": [
+      {
+        "label": "Diederich2020",
+        "url": "https://www.biorxiv.org/content/10.1101/2020.09.04.283085v1"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://beniroquai.github.io/stormocheap/"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 75
+  },
+  {
+    "name": "Crossbill",
+    "description": "Open access single objective light-sheet microscopy platform",
+    "links": [
+      {
+        "label": "Kumar2021",
+        "url": "https://doi.org/10.1101/2021.04.30.442190"
+      },
+      {
+        "label": "Zenodo/GitHub",
+        "url": "https://doi.org/10.5281/zenodo.3554784"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 76
+  },
+  {
+    "name": "cryoscope",
+    "description": "A super-resolution fluorescence cryomicroscope. Sharp lab.",
+    "links": [
+      {
+        "label": "Last2024",
+        "url": "https://doi.org/10.1016/bs.mcb.2024.02.026"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/bionanopatterning/cryoscope_2"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 77
+  },
+  {
+    "name": "DVD Laser Scanner Microscope",
+    "description": "Recycling and upgrading parts to form high-resolution fluorescence microscopy.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "http://www.gaudi.ch/GaudiLabs/?page_id=652"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 78
+  },
+  {
+    "name": "descSPIM",
+    "description": "Affordable and easy-to-build light-sheet microscope optimized for tissue clearing techniques. Susaki lab.",
+    "links": [
+      {
+        "label": "Otomo2024",
+        "url": "https://doi.org/10.1038/s41467-024-49131-1"
+      },
+      {
+        "label": "Github",
+        "url": "https://github.com/dbsb-juntendo/descSPIM"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 79
+  },
+  {
+    "name": "DIY Camera Test Bench",
+    "description": "Low-cost, Do-It-Yourself (DIY), test bench setup that closely follows the currently recognized standard on camera performance evaluation (EMVA 1288).",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://www.thepulsar.be/article/diy-camera-test-bench-setup"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 80
+  },
+  {
+    "name": "DIY SDCM",
+    "description": "Versatile, do-it-yourself, low-cost spinning disk confocal microscope",
+    "links": [
+      {
+        "label": "Halpern2021",
+        "url": "https://doi.org/10.1101/2021.09.04.458950"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 81
+  },
+  {
+    "name": "eduWOSM",
+    "description": "The eduWOSM: an advanced optical microscope for education.",
+    "links": [
+      {
+        "label": "Carter2024",
+        "url": "https://doi.org/10.1101/2024.08.10.607181"
+      },
+      {
+        "label": "Website",
+        "url": "https://wosmic.org/"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 82
+  },
+  {
+    "name": "easySTORM",
+    "description": "easySTORM: a robust, lower-cost approach to localisation and TIRF microscopy. French lab.",
+    "links": [
+      {
+        "label": "Kwakwa2015",
+        "url": "https://doi.org/10.1002%2Fjbio.201500324"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 83
+  },
+  {
+    "name": "eduSPIM",
+    "description": "An educational light sheet microscope. Huisken lab.",
+    "links": [
+      {
+        "label": "Jahr2016",
+        "url": "https://doi.org/10.1371/journal.pone.0161402"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 84
+  },
+  {
+    "name": "EnderScope",
+    "description": "A low-cost 3D printer-based scanning microscope for microplastic detection. Pickering lab.",
+    "links": [
+      {
+        "label": "Burke2024",
+        "url": "https://doi.org/10.1098/rsta.2023.0214"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/Pickering-Lab/EnderScope"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 85
+  },
+  {
+    "name": "Entomoscope",
+    "description": "An open-source photomicroscope for biodiversity discovery. Pylatiuk lab.",
+    "links": [
+      {
+        "label": "Wührl2024",
+        "url": "https://doi.org/10.1109/ACCESS.2024.3355272"
+      },
+      {
+        "label": "OSFHOME",
+        "url": "https://osf.io/3vmrg/"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 86
+  },
+  {
+    "name": "ESPressoscope",
+    "description": "A small and powerful approach for in situ microscopy. Diederich lab.",
+    "links": [
+      {
+        "label": "Li2024",
+        "url": "https://doi.org/10.1371/journal.pone.0306654"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/Matchboxscope/Matchboxscope"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 87
+  },
+  {
+    "name": "fairSIM",
+    "description": "Open-source structured illumination microscopy. Huser & Müller lab.",
+    "links": [
+      {
+        "label": "Markwirth2019",
+        "url": "https://www.nature.com/articles/s41467-019-12165-x"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/fairSIM"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 88
+  },
+  {
+    "name": "Filters for microscopy",
+    "description": "3D printed DIY filters for oblique ilumination and dark field microscopy.",
+    "links": [
+      {
+        "label": "Github-Contrast",
+        "url": "https://github.com/Usuy-Leon/Microscopy_Side-Ilumiation-Contrast-Filters"
+      },
+      {
+        "label": "Github-DarkField",
+        "url": "https://github.com/Usuy-Leon/Microscopy_Dark-Field-Filters"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 89
+  },
+  {
+    "name": "Fluorescent Imaging System",
+    "description": "Low cost and open source multi-fluorescence imaging system for teaching and research in biology and bioengineering",
+    "links": [
+      {
+        "label": "Nunez2017",
+        "url": "https://doi.org/10.1371/journal.pone.0187163"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 90
+  },
+  {
+    "name": "FlyPi",
+    "description": "A 3D-printable open-source platform for fluorescence microscopy, optogenetics, and accurate temperature control during behaviour of zebrafish, Drosophila, and Caenorhabditis elegans",
+    "links": [
+      {
+        "label": "Chagas2017",
+        "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2002702"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 91
+  },
+  {
+    "name": "Foldscope",
+    "description": "Origami-based paper microscope. Prakash-lab.",
+    "links": [
+      {
+        "label": "Cybulski2014",
+        "url": "https://doi.org/10.1371/journal.pone.0098781"
+      },
+      {
+        "label": "Website",
+        "url": "https://www.foldscope.com/"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 92
+  },
+  {
+    "name": "Hackteria Microscopy",
+    "description": "Very cheap microscopy for teaching",
+    "links": [
+      {
+        "label": "Wiki",
+        "url": "http://hackteria.org/wiki/index.php/Laser-cut_microscopy_stages"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 93
+  },
+  {
+    "name": "HIT SIM",
+    "description": "Self-contained and modular structured illumination microscope.",
+    "links": [
+      {
+        "label": "Van_denEynde2021",
+        "url": "https://doi.org/10.1364/BOE.423492"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 94
+  },
+  {
+    "name": "High-throughput cell biology",
+    "description": "Open-source framework for automated high-throughput cell biology experiments.",
+    "links": [
+      {
+        "label": "Katunin2021",
+        "url": "https://doi.org/10.3389/fcell.2021.697584"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/frescolabs/FrescoM"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 95
+  },
+  {
+    "name": "Incubation box",
+    "description": "Microscope incubation box for home built single molecule microscope. Holden lab.",
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/HoldenLab/microscope-incubation-box"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 96
+  },
+  {
+    "name": "Incubot",
+    "description": "A 3D printer-based microscope for long-term live cell imaging within a tissue culture incubator. Pickering lab.",
+    "links": [
+      {
+        "label": "Merces2021",
+        "url": "https://doi.org/10.1016/j.ohx.2021.e00189"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 97
+  },
+  {
+    "name": "Incustream",
+    "description": "An Open-Hardware Live-Cell Imaging System Based on Inverted Bright-Field Microscopy and Automated Mechanical Scanning for Real-Time and Long-Term Imaging of Microplates in Incubator",
+    "links": [
+      {
+        "label": "Gürkan2019",
+        "url": "https://ieeexplore.ieee.org/document/8706880"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 98
+  },
+  {
+    "name": "Janelia Research Campus Tools and Innovations",
+    "description": "Collection of helpful tools, data and resources that can be created in the lab.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://www.janelia.org/open-science/tools-and-innovations"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 99
+  },
+  {
+    "name": "K2 TIRF",
+    "description": "Open-source simultaneous triple-color TIRF microscope for live-cell and single-molecule imaging. Ganzinger Lab.",
+    "links": [
+      {
+        "label": "Niederauer2022",
+        "url": "https://www.biorxiv.org/content/10.1101/2022.12.19.521031v2"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://ganzingerlab.github.io/K2TIRF/K2TIRF/component_table.html"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 100
+  },
+  {
+    "name": "Laser Engine",
+    "description": "Blueprints for a low-cost laser engine for wide-field and localization microscopy. Ries lab.",
+    "links": [
+      {
+        "label": "Schröder2020",
+        "url": "https://www.osapublishing.org/boe/fulltext.cfm?uri=boe-11-2-609&id=425622"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/ries-lab/LaserEngine"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 101
+  },
+  {
+    "name": "LEGOLish",
+    "description": "LEGO(R)-based Light sheet microscopy.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "http://legolish.org/"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 102
+  },
+  {
+    "name": "LEMOLish",
+    "description": "LEGO(R)-based Light sheet microscopy of cleared samples.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://lemolish.mystrikingly.com/"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 103
+  },
+  {
+    "name": "LifeHack",
+    "description": "An open-source, modular microscope for live & fixed cell single-molecule imaging. Holden lab.",
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://holdenlab.github.io/LifeHackWebsite/"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 104
+  },
+  {
+    "name": "liteTIRF",
+    "description": "Super-resolution microscopy for 20k Euros. Jungmann lab.",
+    "links": [
+      {
+        "label": "Auer2018",
+        "url": "https://doi.org/10.1002%2Fcphc.201800630"
+      },
+      {
+        "label": "Weblink",
+        "url": "http://litetirf.jungmannlab.org/"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 105
+  },
+  {
+    "name": "LITOS",
+    "description": "Versatile LED illumination tool for optogenetic stimulation. Pertz lab.",
+    "links": [
+      {
+        "label": "Höhner2022",
+        "url": "https://doi.org/10.1038/s41598-022-17312-x"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/pertzlab/LITOS"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 106
+  },
+  {
+    "name": "LSFM",
+    "description": "Laser-free super-resolution microscopy (LFSM). High-density superresolution microscopy with an incoherent light source and a conventional epifluorescence microscope setup by Kirti Prakash.",
+    "links": [
+      {
+        "label": "Prakash2021",
+        "url": "https://doi.org/10.1098/rsta.2020.0144"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 107
+  },
+  {
+    "name": "Luduscope",
+    "description": "Accessible Interactive Smartphone Microscopy for Life-Science Education.",
+    "links": [
+      {
+        "label": "Kim2016",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0162602"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 108
+  },
+  {
+    "name": "MatchboxScope",
+    "description": "ESP32-based mini microscope for belo 10 Euros.",
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/Matchboxscope/Matchboxscope"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 109
+  },
+  {
+    "name": "mcSIM",
+    "description": "Code for designing, analyzing, and carrying out multicolor structured illumination microscopy experiments. Additional tools for digital micromirror device SIM (DMD-SIM), including DMD simulation code, DMD pattern generation, SIM reconstruction and instrument control. (Python and Java)",
+    "links": [
+      {
+        "label": "Brown2021",
+        "url": "https://doi.org/10.1364/BOE.422703"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/QI2lab/mcSIM"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 110
+  },
+  {
+    "name": "M4All",
+    "description": "Modular, Monolithic, 3D printed High-end Microscopy with multicolour detection and Raspberry Pi camera-based readout.",
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/NanoBioPhotonics-Strathclyde/M4All"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 111
+  },
+  {
+    "name": "MEMS-SIM",
+    "description": "SIM microscope using 3-axis MEMS mirrors for £9k.",
+    "links": [
+      {
+        "label": "Tinning2022",
+        "url": "https://doi.org/10.1364/BOE.475811"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/RalfBauerUoS/MEMS-SIM"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 112
+  },
+  {
+    "name": "MesoSPIM",
+    "description": "Advanced large-scale light sheet system.",
+    "links": [
+      {
+        "label": "Voigt2019",
+        "url": "https://doi.org/10.1038/s41592-019-0554-0"
+      },
+      {
+        "label": "Website",
+        "url": "https://mesospim.org/"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 113
+  },
+  {
+    "name": "Microbrew",
+    "description": "Small microscope to visualize yeast cell growth for beer brewing purposes",
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://gitlab.com/nanocastro/microbrew/-/blob/master/Early_prototypes/Prototipos.md"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 114
+  },
+  {
+    "name": "Microscopi",
+    "description": "Democratising “Microscopi”: a 3D printed automated XYZT fluorescence imaging system for teaching, outreach and fieldwork",
+    "links": [
+      {
+        "label": "Wincott2020",
+        "url": "https://www.biorxiv.org/content/10.1101/2020.05.21.108894v1"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 115
+  },
+  {
+    "name": "MicroscoPY",
+    "description": "Lego and 3D printed Raspberry Pi-based microscope.",
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/IBM/MicroscoPy"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 116
+  },
+  {
+    "name": "microFPGA",
+    "description": "MicroFPGA: an affordable field programmable gate array platform for microscope control. Ries lab.",
+    "links": [
+      {
+        "label": "Deschamps2022",
+        "url": "https://doi.org/10.1101/2022.06.07.495178"
+      },
+      {
+        "label": "GitHub.io",
+        "url": "https://mufpga.github.io/"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/mufpga"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 117
+  },
+  {
+    "name": "miCube",
+    "description": "Monolithic single-molecule localization microscope. Hohlbein lab.",
+    "links": [
+      {
+        "label": "Martens2019",
+        "url": "https://doi.org/10.1038/s41467-019-11514-0"
+      },
+      {
+        "label": "GitHub.io",
+        "url": "https://hohlbeinlab.github.io/miCube/index.html"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 118
+  },
+  {
+    "name": "miEye",
+    "description": "Monolithic single-molecule localization microscope based on the miCube adding autofocus and software control. Tutkus lab.",
+    "links": [
+      {
+        "label": "Alsamsam2022",
+        "url": "https://doi.org/10.1016/j.ohx.2022.e00368"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/samhitech/microEye"
+      },
+      {
+        "label": "OSFhome",
+        "url": "http://doi.org/10.17605/osf.io/j2fqy"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 119
+  },
+  {
+    "name": "Miniscope",
+    "description": "Circuit investigations with open-source miniaturized microscopes: Past, present and future",
+    "links": [
+      {
+        "label": "Aharoni2019",
+        "url": "https://doi.org/10.3389/fncel.2019.00141"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/Aharoni-Lab/Miniscope-v4"
+      },
+      {
+        "label": "Wiki",
+        "url": "http://miniscope.org/index.php/Main_Page"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 120
+  },
+  {
+    "name": "miniSPIM",
+    "description": "Smartphone-based light-sheet microscope",
+    "links": [
+      {
+        "label": "Hedde2021",
+        "url": "https://doi.org/10.1021/acssensors.1c00607"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 121
+  },
+  {
+    "name": "µCube",
+    "description": "A framework for 3D printable optomechanics. Haseloff lab 2018.",
+    "links": [
+      {
+        "label": "Delmans2018",
+        "url": "http://doi.org/10.5334/joh.8"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://mdelmans.github.io/uCube"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 122
+  },
+  {
+    "name": "NanoJ-fluidics",
+    "description": "Open-source fluid exchange in microscopy. Henriques lab.",
+    "links": [
+      {
+        "label": "Almada2019",
+        "url": "https://doi.org/10.1038/s41467-019-09231-9"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/HenriquesLab/NanoJ-Fluidics"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 123
+  },
+  {
+    "name": "NicoLase",
+    "description": "An open-source diode laser combiner, fiber launch, and sequencing controller for fluorescence microscopy. Gaus lab.",
+    "links": [
+      {
+        "label": "Nicovich2017",
+        "url": "https://doi.org/10.1371%2Fjournal.pone.0173879"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/PRNicovich/NicoLase"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 124
+  },
+  {
+    "name": "Octopi",
+    "description": "Open configurable high-throughput imaging platform for infectious disease diagnosis in the field. Prakash lab.",
+    "links": [
+      {
+        "label": "Li2019",
+        "url": "https://www.biorxiv.org/content/10.1101/684423v1"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/prakashlab/octopi-driver-board"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 125
+  },
+  {
+    "name": "OLU",
+    "description": "OLU: One- & Two-Photon Light-Sheet Microscope Design. Bormuth lab.",
+    "links": [
+      {
+        "label": "Hubert2023",
+        "url": "https://doi.org/10.1101/2023.07.10.548107"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/LJPZebra/OLU"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 126
+  },
+  {
+    "name": "OpenFlexure Microscope",
+    "description": "A 3D printed, laboratory-grade, open-source microscope, based on monolithic flexure stage. Bowman lab.",
+    "links": [
+      {
+        "label": "Collins2020",
+        "url": "https://doi.org/10.1364/BOE.385729"
+      },
+      {
+        "label": "Website",
+        "url": "https://openflexure.org/projects/microscope/"
+      },
+      {
+        "label": "GitLab",
+        "url": "https://gitlab.com/openflexure/openflexure-microscope"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 127
+  },
+  {
+    "name": "OpenFlexure Block Stage",
+    "description": "A 3D printed 3-axis flexure translation stage for open-source fibre alignment (and microscopy). Bowman lab.",
+    "links": [
+      {
+        "label": "Meng2020",
+        "url": "https://doi.org/10.1364/OE.384207"
+      },
+      {
+        "label": "Website",
+        "url": "https://openflexure.org/projects/blockstage/"
+      },
+      {
+        "label": "GitLab",
+        "url": "https://gitlab.com/openflexure/openflexure-block-stage"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 128
+  },
+  {
+    "name": "OpenFlexure Delta Stage",
+    "description": "A 3D printed 3-axis flexure translation stage for open-source microscopy. Bowman lab.",
+    "links": [
+      {
+        "label": "McDermott2022",
+        "url": "https://doi.org/10.1364/OE.450211"
+      },
+      {
+        "label": "Website",
+        "url": "https://openflexure.org/projects/deltastage/"
+      },
+      {
+        "label": "GitLab",
+        "url": "https://gitlab.com/openflexure/openflexure-delta-stage"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 129
+  },
+  {
+    "name": "OpenFlexure Field Dissection Microscope",
+    "description": "A microscope for looking at objects that are a few mm across, such as bees.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://openflexure.gitlab.io/openflexure-field-dissection-microscope/"
+      },
+      {
+        "label": "GitLab",
+        "url": "https://gitlab.com/openflexure/openflexure-field-dissection-microscope/"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 130
+  },
+  {
+    "name": "OpenFlexure Flat-Top Microscope",
+    "description": "A laser-cut flat-top microscope for imaging larger items such as 96-well plates, flexure focussing mechanism. Bowman lab.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://rwb27.gitlab.io/openflexure-flat-top-microscope/"
+      },
+      {
+        "label": "GitLab",
+        "url": "https://gitlab.com/rwb27/openflexure-flat-top-microscope/"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 131
+  },
+  {
+    "name": "openFrame",
+    "description": "Modular, low-cost, open-hardware microscopy platform that can be configured or adapted to most light microscopy techniques.",
+    "links": [
+      {
+        "label": "Lightley2023",
+        "url": "https://doi.org/10.1111/jmi.13219"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/ImperialCollegeLondon/openFrame"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 132
+  },
+  {
+    "name": "Open Ocular",
+    "description": "Open-Source 3D printable eyepiece adapter for the cellphone.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://www.openocular.com/"
+      },
+      {
+        "label": "Thingiverse",
+        "url": "https://www.openocular.com/"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 133
+  },
+  {
+    "name": "open OPT",
+    "description": "Design and implementation of a custom built optical projection tomography system.",
+    "links": [
+      {
+        "label": "Wong2013",
+        "url": "https://doi.org/10.1371/journal.pone.0073491"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 134
+  },
+  {
+    "name": "openRAMAN",
+    "description": "Low Cost, High Performances, 100% Open Source Raman Spectrometer",
+    "links": [
+      {
+        "label": "Website",
+        "url": "http://www.open-raman.org/"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 135
+  },
+  {
+    "name": "OpenSPIM",
+    "description": "An Open Access platform for applying and enhancing selective plane illumination microscopy.",
+    "links": [
+      {
+        "label": "Pitrone2013",
+        "url": "https://doi.org/10.1038/nmeth.2507"
+      },
+      {
+        "label": "Website/Wiki",
+        "url": "https://openspim.org/"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 136
+  },
+  {
+    "name": "openSpin",
+    "description": "Various optical setups for large scale projection/tomography-based imaging.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://sites.google.com/site/openspinmicroscopy/"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 137
+  },
+  {
+    "name": "OPTiM",
+    "description": "Optical projection tomography integrated microscope using open-source hardware and software.",
+    "links": [
+      {
+        "label": "Watson2017",
+        "url": "https://doi.org/10.1371/journal.pone.0180309"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 138
+  },
+  {
+    "name": "OptiJ",
+    "description": "Optical projection tomography with Fiji.",
+    "links": [
+      {
+        "label": "Ramirez2019",
+        "url": "https://www.nature.com/articles/s41598-019-52065-0"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 139
+  },
+  {
+    "name": "OPenT",
+    "description": "Optical micro tomography. Martins lab.",
+    "links": [
+      {
+        "label": "Felix2016",
+        "url": "https://doi.org/10.1016/j.mod.2016.03.001"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 140
+  },
+  {
+    "name": "pDPC",
+    "description": "Open-source implementation of polarisation-resolved single-shot differential phase contrast microscopy (pDPC) on a modular openFrame-based microscope. French lab.",
+    "links": [
+      {
+        "label": "Liu2025",
+        "url": "https://doi.org/10.1016/j.ohx.2024.e00622"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 141
+  },
+  {
+    "name": "pgFocus",
+    "description": "pgFocus is an open source and open hardware, for noncommercial use, focus stabilization device developed by Karl Bellvé.",
+    "links": [
+      {
+        "label": "Wiki",
+        "url": "http://big.umassmed.edu/wiki/index.php/PgFocus"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 142
+  },
+  {
+    "name": "Picroscope",
+    "description": "Development of a low-cost system for simultaneous longitudinal biological imaging.",
+    "links": [
+      {
+        "label": "Victoria2021",
+        "url": "https://doi.org/10.1038/s42003-021-02779-7"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 143
+  },
+  {
+    "name": "PlanktonScope",
+    "description": "Sea and plankton imaging for citizen science. Prakash lab.",
+    "links": [
+      {
+        "label": "Pollina2020",
+        "url": "https://www.biorxiv.org/content/10.1101/2020.04.23.056978v1"
+      },
+      {
+        "label": "Website",
+        "url": "https://www.planktoscope.org/"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 144
+  },
+  {
+    "name": "Pi-based FPM",
+    "description": "Low-cost, sub-micron resolution, wide-field computational microscopy using opensource hardware. Waller lab and Konda lab.",
+    "links": [
+      {
+        "label": "Aidukas2019",
+        "url": "https://www.nature.com/articles/s41598-019-43845-9"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 145
+  },
+  {
+    "name": "PiFocus",
+    "description": "Astigmatism-based active focus stabilisation with universal objective lens compatibility, extended operating range and nanometer precision.",
+    "links": [
+      {
+        "label": "Rahmani2024",
+        "url": "https://doi.org/10.1364/OE.520845"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 146
+  },
+  {
+    "name": "PUMA",
+    "description": "Modular, option to add SLM, heads up display etc.",
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/TadPath/PUMA/tree/v0.1"
+      },
+      {
+        "label": "Tadrous2021",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1111/jmi.13043"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 147
+  },
+  {
+    "name": "Raspi-based Fluorescence Microscope",
+    "description": "Facile assembly of an affordable miniature multicolor fluorescence microscope made of 3D-printed parts enables detection of single cells.",
+    "links": [
+      {
+        "label": "Tristan-Landin2019",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0215114"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 148
+  },
+  {
+    "name": "RiesPieces",
+    "description": "Repository of different microscope parts from the Ries lab, including a filter wheel, a flip mount, a linear stage, a magnetic sample holder, and solutions for illumination and focus locking.",
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/ries-lab/RiesPieces/tree/master/Microscopy"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 149
+  },
+  {
+    "name": "Red2PMic",
+    "description": "Affordable open-source 2-photon microscope",
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/amchagas/red2pmic"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 150
+  },
+  {
+    "name": "Sample preparation for light-sheet microscopy",
+    "description": "Resources for preparing light-sheet samples in, e,g., FEP tubes or glass capillaries.",
+    "links": [
+      {
+        "label": "HuiskenLAB",
+        "url": "https://huiskenlab.com/sample-mounting/"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 151
+  },
+  {
+    "name": "ShinyaBlades",
+    "description": "An OpenSource CoverSlips thickness detector for 3d printing",
+    "links": [
+      {
+        "label": "Github",
+        "url": "https://github.com/Usuy-Leon/Cover_Slips_thickness_Detector"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 152
+  },
+  {
+    "name": "Smartphone Fluorescence Spectroscopy",
+    "description": "A smartphone spectrophotometry for readout of fluorescence-based biological assays.",
+    "links": [
+      {
+        "label": "Yu2014",
+        "url": "https://doi.org/10.1021/ac502080t"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 153
+  },
+  {
+    "name": "STORM",
+    "description": "A blueprint for cost-efficient localization microscopy. Sauer lab.",
+    "links": [
+      {
+        "label": "Holm2014",
+        "url": "https://doi.org/10.1002%2Fcphc.201300739"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 154
+  },
+  {
+    "name": "Strobe microfluidics stage",
+    "description": "Workstation suitable for local digital fabrication for imaging fast processes, particularly for microfluidic droplet generation. Wenzel lab.",
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/wenzel-lab/strobe-enhanced-microscopy-stage"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 155
+  },
+  {
+    "name": "smfBox",
+    "description": "Microscpe for single-molecule FRET.",
+    "links": [
+      {
+        "label": "Ambrose2020",
+        "url": "https://doi.org/10.1038/s41467-020-19468-4"
+      },
+      {
+        "label": "GitHub.io",
+        "url": "https://craggslab.github.io/smfBox/"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 156
+  },
+  {
+    "name": "Squid",
+    "description": "Squid: Simplifying quantitative imaging platform development and deployment. Prakash lab.",
+    "links": [
+      {
+        "label": "Li2020",
+        "url": "https://doi.org/10.1101/2020.12.28.424613"
+      },
+      {
+        "label": "Website",
+        "url": "https://squid-imaging.org/"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 157
+  },
+  {
+    "name": "Syringe pumps",
+    "description": "Ender3 3D printer kit transformed into open, programmable syringe pump set. Saggiomo lab.",
+    "links": [
+      {
+        "label": "Baas2021",
+        "url": "https://doi.org/10.1016/j.ohx.2021.e00219"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/Vsaggiomo/Ender3-syringe-pumps"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 158
+  },
+  {
+    "name": "TWINKLE",
+    "description": "An open-source two-photon microscope for teaching and research. Thiberge lab.",
+    "links": [
+      {
+        "label": "Schottdorf2025",
+        "url": "https://doi.org/10.1371/journal.pone.0318924"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/BrainCOGS/Microscope"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 159
+  },
+  {
+    "name": "Two-Photon",
+    "description": "Open-source two-photon microscopy. Gordon lab.",
+    "links": [
+      {
+        "label": "Rosenberger2014",
+        "url": "https://doi.org/10.1371/journal.pone.0110475"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 160
+  },
+  {
+    "name": "UC2 [You.See.Too.]",
+    "description": "UC2 is a general-purpose modular framework for making interactive (electro)-optical projects. Heintzmann lab.",
+    "links": [
+      {
+        "label": "Diederich2020",
+        "url": "https://doi.org/10.1038/s41467-020-19447-9"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/openUC2"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 161
+  },
+  {
+    "name": "UC2-Hi2",
+    "description": "High-throughput microscopy inside an incubator robot.",
+    "links": [
+      {
+        "label": "Ouyang2021",
+        "url": "https://www.biorxiv.org/content/10.1101/2021.06.24.449732v1"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/openUC2/UC2-Hi2"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 162
+  },
+  {
+    "name": "UCsim2",
+    "description": "Super-resolution imaging using UC2 and DMDs.",
+    "links": [
+      {
+        "label": "Wang2021",
+        "url": "https://doi.org/10.1101/2021.01.08.425840"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/openUC2/UC2_openSIM"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 163
+  },
+  {
+    "name": "UC2-STORM-Fluorescence",
+    "description": "An open-source, high resolution, automated fluorescence microscope based on the UC2.",
+    "links": [
+      {
+        "label": "Zehrer2024",
+        "url": "https://doi.org/10.7554/eLife.89826.2"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/openUC2/UC2-STORM-and-Fluorescence"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 164
+  },
+  {
+    "name": "WOSM",
+    "description": "The Warwick open source microscope for TIRF and educational fluorescence applications.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://wosmic.org/"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 165
+  },
+  {
+    "name": "Open Blink",
+    "description": "The low-cost TIRF microscopy for single molecule super-resolution imaging with full µManager integration. Grußmayer Lab.",
+    "links": [
+      {
+        "label": "Huo2026",
+        "url": "https://www.biorxiv.org/content/10.64898/2026.03.10.710894v1"
+      },
+      {
+        "label": "GitHub.io",
+        "url": "https://grussmayerlab.github.io/resources/openblink/"
+      }
+    ],
+    "category": "Hardware",
+    "categorySlug": "hardware",
+    "id": 166
+  },
+  {
+    "name": "Alfred Sikking's Microscopy Knowledge Database",
+    "description": "Repository for knowledge around microscopy optics.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://amsikking.github.io/microscope_objectives/?s=09"
+      }
+    ],
+    "category": "Repositories for data and protocols",
+    "categorySlug": "repositories",
+    "id": 167
+  },
+  {
+    "name": "Awesome Biological Image Analysis",
+    "description": "A curated list of software, tools and other resources for biological image analysis.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://github.com/hallvaaw/awesome-biological-image-analysis#readme"
+      }
+    ],
+    "category": "Repositories for data and protocols",
+    "categorySlug": "repositories",
+    "id": 168
+  },
+  {
+    "name": "AWS open data",
+    "description": "Large open data sharing.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://aws.amazon.com/opendata/?wwps-cards.sort-by=item.additionalFields.sortDate&wwps-cards.sort-order=desc"
+      }
+    ],
+    "category": "Repositories for data and protocols",
+    "categorySlug": "repositories",
+    "id": 169
+  },
+  {
+    "name": "BossDB",
+    "description": "Volumetric database for 3D/4D neuroscience data.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://bossdb.org/"
+      }
+    ],
+    "category": "Repositories for data and protocols",
+    "categorySlug": "repositories",
+    "id": 170
+  },
+  {
+    "name": "Broad Institute BioImage collection",
+    "description": "Annotated biologial images for testing and validation.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://bbbc.broadinstitute.org/"
+      }
+    ],
+    "category": "Repositories for data and protocols",
+    "categorySlug": "repositories",
+    "id": 171
+  },
+  {
+    "name": "DYRAD",
+    "description": "Recommended by PLOS, Springer Nature for data sharing",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://datadryad.org/stash"
+      }
+    ],
+    "category": "Repositories for data and protocols",
+    "categorySlug": "repositories",
+    "id": 172
+  },
+  {
+    "name": "EBI BioImage Archive",
+    "description": "A BioImage archive developed in collaboration with Euro-BioIMaging and Elixir.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://www.ebi.ac.uk/bioimage-archive/submit/"
+      }
+    ],
+    "category": "Repositories for data and protocols",
+    "categorySlug": "repositories",
+    "id": 173
+  },
+  {
+    "name": "EBI EMPIAR",
+    "description": "Electron microscopy Public Image Archive.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://www.ebi.ac.uk/empiar/"
+      }
+    ],
+    "category": "Repositories for data and protocols",
+    "categorySlug": "repositories",
+    "id": 174
+  },
+  {
+    "name": "Figshare",
+    "description": "Cloud solutions for publishers.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://figshare.com/"
+      }
+    ],
+    "category": "Repositories for data and protocols",
+    "categorySlug": "repositories",
+    "id": 175
+  },
+  {
+    "name": "FocalPlane",
+    "description": "Microscopy community site hosted by the Journal of Cell Science (JCS) and encompassing all fields in the biological sciences related to microscopy.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://focalplane.biologists.com/"
+      },
+      {
+        "label": "Twitter",
+        "url": "https://twitter.com/focalplane_jcs/"
+      }
+    ],
+    "category": "Repositories for data and protocols",
+    "categorySlug": "repositories",
+    "id": 176
+  },
+  {
+    "name": "GBIF",
+    "description": "Recommed by PLOS, Springer Nature providing Free and open access to biodiversity data.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://www.gbif.org/"
+      }
+    ],
+    "category": "Repositories for data and protocols",
+    "categorySlug": "repositories",
+    "id": 177
+  },
+  {
+    "name": "GitHub",
+    "description": "Repository for code, development platform.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://github.com/"
+      }
+    ],
+    "category": "Repositories for data and protocols",
+    "categorySlug": "repositories",
+    "id": 178
+  },
+  {
+    "name": "GitLab",
+    "description": "Repository for code, development platform.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://about.gitlab.com/"
+      }
+    ],
+    "category": "Repositories for data and protocols",
+    "categorySlug": "repositories",
+    "id": 179
+  },
+  {
+    "name": "Image Data Resource (IDR)",
+    "description": "A public repository of image datasets from published scientific studies, where the community can submit, search and access high-quality bio-image data.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://idr.openmicroscopy.org/"
+      }
+    ],
+    "category": "Repositories for data and protocols",
+    "categorySlug": "repositories",
+    "id": 180
+  },
+  {
+    "name": "Objective Lens Introduction",
+    "description": "All the facts about objective lenses in one page",
+    "links": [
+      {
+        "label": "https://openorganelle.janelia.org/",
+        "url": "https://amsikking.github.io/microscope_objectives/"
+      }
+    ],
+    "category": "Repositories for data and protocols",
+    "categorySlug": "repositories",
+    "id": 181
+  },
+  {
+    "name": "OpenOrganelle",
+    "description": "Janelia's cells and tissues archive.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://openorganelle.janelia.org/"
+      }
+    ],
+    "category": "Repositories for data and protocols",
+    "categorySlug": "repositories",
+    "id": 182
+  },
+  {
+    "name": "Open Science Framework (OSF)",
+    "description": "Repository to share research data, code and documentation; gives DOI and supports embargo periods, etc.; Integrations include GitHub.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://osf.io"
+      }
+    ],
+    "category": "Repositories for data and protocols",
+    "categorySlug": "repositories",
+    "id": 183
+  },
+  {
+    "name": "Open Source Hardware Channel (PLoS One)",
+    "description": "Currated List for Open Hardware projects in science (Tom Baden et al.).",
+    "links": [
+      {
+        "label": "PLoS One",
+        "url": "https://journals.plos.org/plosone/browse/open_source_hardware"
+      }
+    ],
+    "category": "Repositories for data and protocols",
+    "categorySlug": "repositories",
+    "id": 184
+  },
+  {
+    "name": "Protocols.io",
+    "description": "A secure platform for developing and sharing reproducible methods.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://www.protocols.io/"
+      }
+    ],
+    "category": "Repositories for data and protocols",
+    "categorySlug": "repositories",
+    "id": 185
+  },
+  {
+    "name": "Wikimedia Commons",
+    "description": "Category:Light microscopy micrographs.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://commons.m.wikimedia.org/wiki/Category:Light_microscopy_micrographs"
+      }
+    ],
+    "category": "Repositories for data and protocols",
+    "categorySlug": "repositories",
+    "id": 186
+  },
+  {
+    "name": "Zenodo",
+    "description": "Most popular data sharing platform, integration with Github.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://zenodo.org/"
+      }
+    ],
+    "category": "Repositories for data and protocols",
+    "categorySlug": "repositories",
+    "id": 187
+  },
+  {
+    "name": "bioimagebook",
+    "description": "Free and open interactive textbook on #bioimageanalysis written by Pete Bankhead.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://bioimagebook.github.io/README.html"
+      }
+    ],
+    "category": "Forums, learning resources & databases",
+    "categorySlug": "forums",
+    "id": 188
+  },
+  {
+    "name": "Confocal-microscopy-list",
+    "description": "Email-based communication on all things microscopy.",
+    "links": [
+      {
+        "label": "Subscribe",
+        "url": "https://lists.umn.edu/cgi-bin/wa?A0=confocalmicroscopy"
+      }
+    ],
+    "category": "Forums, learning resources & databases",
+    "categorySlug": "forums",
+    "id": 189
+  },
+  {
+    "name": "Coursera",
+    "description": "Microscopy courses with paid certification.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://www.ebi.ac.uk/empiar/"
+      }
+    ],
+    "category": "Forums, learning resources & databases",
+    "categorySlug": "forums",
+    "id": 190
+  },
+  {
+    "name": "DELFT Open Hardware Database",
+    "description": "Extensive list of open projects.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://github.com/delftopenhardware/awesome-open-hardware"
+      }
+    ],
+    "category": "Forums, learning resources & databases",
+    "categorySlug": "forums",
+    "id": 191
+  },
+  {
+    "name": "EMBO",
+    "description": "European Molecular Biology Organization. Conferences, lectures and trainings.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://www.embo.org/conferences-training/"
+      }
+    ],
+    "category": "Forums, learning resources & databases",
+    "categorySlug": "forums",
+    "id": 192
+  },
+  {
+    "name": "Euro-Bioimaging",
+    "description": "Euro-BioImaging is a research infrastructure that offers open access to imaging technologies, training and data services in biological and biomedical imaging. Imaging facilities (Nodes) are open to all life science researchers.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://www.eurobioimaging.eu/"
+      }
+    ],
+    "category": "Forums, learning resources & databases",
+    "categorySlug": "forums",
+    "id": 193
+  },
+  {
+    "name": "FPbase",
+    "description": "Resource for fluorescent proteins and spectra.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://www.fpbase.org/"
+      },
+      {
+        "label": "FPspectra",
+        "url": "https://www.fpbase.org/spectra/"
+      }
+    ],
+    "category": "Forums, learning resources & databases",
+    "categorySlug": "forums",
+    "id": 194
+  },
+  {
+    "name": "France-Bioimaging",
+    "description": "The French national research infrastructure for biological imaging.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://france-bioimaging.org/about/"
+      }
+    ],
+    "category": "Forums, learning resources & databases",
+    "categorySlug": "forums",
+    "id": 195
+  },
+  {
+    "name": "German-BioImaging",
+    "description": "The source of information and exchange within the German bioimaging community.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://gerbi-gmb.de/about-us"
+      }
+    ],
+    "category": "Forums, learning resources & databases",
+    "categorySlug": "forums",
+    "id": 196
+  },
+  {
+    "name": "Global BioImaging Training Resource",
+    "description": "A community-driven resource consisting of training and informative material collected and curated by members of the imaging community for the use by anyone interested in imaging and microscopy.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://globalbioimaging.org/international-training-courses/repository"
+      }
+    ],
+    "category": "Forums, learning resources & databases",
+    "categorySlug": "forums",
+    "id": 197
+  },
+  {
+    "name": "iBiology",
+    "description": "Free online series covering the basics of optics, transmitted light microscopy, fluorescence imaging, hardware and image processing, and latest advances in light microscopy.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://www.ibiology.org/online-biology-courses/microscopy-series"
+      }
+    ],
+    "category": "Forums, learning resources & databases",
+    "categorySlug": "forums",
+    "id": 198
+  },
+  {
+    "name": "ImagingONEWORLD",
+    "description": "Weekly microscopy talks.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://www.rms.org.uk/network-collaborate/imaging-oneworld-series.html"
+      }
+    ],
+    "category": "Forums, learning resources & databases",
+    "categorySlug": "forums",
+    "id": 199
+  },
+  {
+    "name": "image.sc",
+    "description": "Forum dedicated to imaging in the broadest sense.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://forum.image.sc/"
+      }
+    ],
+    "category": "Forums, learning resources & databases",
+    "categorySlug": "forums",
+    "id": 200
+  },
+  {
+    "name": "Marine Biological Laboratory (MBL)",
+    "description": "Advanced Research Training Courses.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://www.mbl.edu/education/courses/"
+      }
+    ],
+    "category": "Forums, learning resources & databases",
+    "categorySlug": "forums",
+    "id": 201
+  },
+  {
+    "name": "Microlist",
+    "description": "A searchable database of resources for light microscopists.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://www.microlist.org/"
+      }
+    ],
+    "category": "Forums, learning resources & databases",
+    "categorySlug": "forums",
+    "id": 202
+  },
+  {
+    "name": "MyScope training",
+    "description": "MyScope training by Microscopy Australia.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://www.ebi.ac.uk/bioimage-archive/submit/"
+      }
+    ],
+    "category": "Forums, learning resources & databases",
+    "categorySlug": "forums",
+    "id": 203
+  },
+  {
+    "name": "Nikon MicroscopyU",
+    "description": "Nikon microscopy centre, information on microscopy and imaging.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://www.microscopyu.com/"
+      }
+    ],
+    "category": "Forums, learning resources & databases",
+    "categorySlug": "forums",
+    "id": 204
+  },
+  {
+    "name": "Olympus microscopy",
+    "description": "Olympus microscopy center, information about microscopy and imaging.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://www.olympus-lifescience.com/de/microscope-resource/"
+      }
+    ],
+    "category": "Forums, learning resources & databases",
+    "categorySlug": "forums",
+    "id": 205
+  },
+  {
+    "name": "Open Neuroscience",
+    "description": "Curated list of open-source hardware projects for laboratories.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://open-neuroscience.com/"
+      }
+    ],
+    "category": "Forums, learning resources & databases",
+    "categorySlug": "forums",
+    "id": 206
+  },
+  {
+    "name": "OpenFlexure Forum",
+    "description": "A web forum for the OpenFlexure project.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://openflexure.discourse.group/"
+      }
+    ],
+    "category": "Forums, learning resources & databases",
+    "categorySlug": "forums",
+    "id": 207
+  },
+  {
+    "name": "Women in Microscopy",
+    "description": "List of women in microscopy and image analysis.",
+    "links": [
+      {
+        "label": "GoogleDocs",
+        "url": "https://docs.google.com/spreadsheets/d/1I1OzPSv8o8vy8I25BBFvWPKLDFzvEN2WZczpmOrMC2k/edit#gid=0"
+      }
+    ],
+    "category": "Forums, learning resources & databases",
+    "categorySlug": "forums",
+    "id": 208
+  },
+  {
+    "name": "Zeiss microscopy",
+    "description": "Zeiss microscopy center, information about microscopy and imaging.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "http://zeiss-campus.magnet.fsu.edu/"
+      }
+    ],
+    "category": "Forums, learning resources & databases",
+    "categorySlug": "forums",
+    "id": 209
+  },
+  {
+    "name": "BiA-PoL",
+    "description": "Robert Haase. Bio-image analysis technology development group. DFG Cluster of Excellence \"Physics of Life\", TU Dresden, Germany.",
+    "links": [
+      {
+        "label": "Homepage",
+        "url": "https://physics-of-life.tu-dresden.de/bia"
+      },
+      {
+        "label": "Blog",
+        "url": "https://biapol.github.io/blog/"
+      },
+      {
+        "label": "Open source code",
+        "url": "https://github.com/biapol"
+      },
+      {
+        "label": "Teaching materials (slides)",
+        "url": "https://f1000research.com/gateways/neubias?n0=text&v0=robert+Haase&o0=&selectedDomain=slides"
+      },
+      {
+        "label": "Teaching materials (videos)",
+        "url": "https://youtube.com/haesleinhuepf"
+      }
+    ],
+    "category": "Labs and people",
+    "categorySlug": "labs",
+    "id": 210
+  },
+  {
+    "name": "Bio Foundaries",
+    "description": "Consortium to provide large-scale, cutting-edge lab automation to biologists.",
+    "links": [
+      {
+        "label": "Homepage",
+        "url": "https://biofoundries.org/"
+      }
+    ],
+    "category": "Labs and people",
+    "categorySlug": "labs",
+    "id": 211
+  },
+  {
+    "name": "Carpenter-Singh lab",
+    "description": "Anne Carpenter and Shantanu Singh. Advanced methods and software tools to quantify and mine the rich information present in cellular images to yield biological discoveries. Broad Institute of MIT and Harvard in Cambridge, USA.",
+    "links": [
+      {
+        "label": "Homepage",
+        "url": "https://carpenter-singh-lab.broadinstitute.org"
+      },
+      {
+        "label": "Open science",
+        "url": "https://carpenter-singh-lab.broadinstitute.org/community-organizingopen-science"
+      }
+    ],
+    "category": "Labs and people",
+    "categorySlug": "labs",
+    "id": 212
+  },
+  {
+    "name": "Danuser lab",
+    "description": "Gaudenz Danuser. Molecular cell biology, live cell imaging, signal processing, computer vision. UT Southwestern Medical Center. USA.",
+    "links": [
+      {
+        "label": "Homepage",
+        "url": "https://www.utsouthwestern.edu/labs/danuser/"
+      },
+      {
+        "label": "Software",
+        "url": "https://www.utsouthwestern.edu/labs/danuser/software/"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/DanuserLab"
+      }
+    ],
+    "category": "Labs and people",
+    "categorySlug": "labs",
+    "id": 213
+  },
+  {
+    "name": "Eliceiri Lab (LOCI)",
+    "description": "Kevin Eliceiri. UW–Madison. Core drivers of the open bioimaging ecosystem. LOCI leads and maintains key infrastructure including ImageJ2, Fiji, SCIFIO, and SciJava, and founded Bio-Formats. Hosts community platforms (imagej.net, image.sc, fiji.sc) and supports Micro-Manager development. Develops modern tools such as FLIMJ, PyImageJ, Appose, and OpenScan-LSM, alongside CurveAlign/CT-FIRE. Active in open standards, interoperability, and community hackathons across the global imaging community.",
+    "links": [
+      {
+        "label": "Homepage",
+        "url": "https://loci.wisc.edu/"
+      },
+      {
+        "label": "GitHub (UW-LOCI)",
+        "url": "https://github.com/uw-loci"
+      },
+      {
+        "label": "ImageJ ecosystem",
+        "url": "https://imagej.net/"
+      },
+      {
+        "label": "Image.sc",
+        "url": "https://forum.image.sc/"
+      },
+      {
+        "label": "FLIMJ",
+        "url": "https://github.com/flimlib/flimj"
+      },
+      {
+        "label": "PyImageJ",
+        "url": "https://github.com/imagej/pyimagej"
+      },
+      {
+        "label": "Appose",
+        "url": "https://github.com/apposed/appose"
+      },
+      {
+        "label": "OpenScan-LSM",
+        "url": "https://github.com/openscan-lsm"
+      }
+    ],
+    "category": "Labs and people",
+    "categorySlug": "labs",
+    "id": 214
+  },
+  {
+    "name": "Enderlein lab",
+    "description": "Jörg Enderlein. Single-molecule spectroscopy and super-resolution microscopy. Georg-August-Universität Göttingen, Germany.",
+    "links": [
+      {
+        "label": "Homepage",
+        "url": "https://www.joerg-enderlein.de/"
+      },
+      {
+        "label": "Software",
+        "url": "https://www.joerg-enderlein.de/software"
+      },
+      {
+        "label": "Teaching",
+        "url": "https://www.joerg-enderlein.de/teaching"
+      }
+    ],
+    "category": "Labs and people",
+    "categorySlug": "labs",
+    "id": 215
+  },
+  {
+    "name": "Endesfelder lab",
+    "description": "Ulrike Endesfelder. Insights into the inner life of living cells: Exploring cellular biophysics by single-molecule methods. Bonn University, Germany.",
+    "links": [
+      {
+        "label": "Homepage",
+        "url": "https://www.ifmb.uni-bonn.de/forschung/math.-nat.-fakultaet/ag-prof.-endesfelder-1"
+      }
+    ],
+    "category": "Labs and people",
+    "categorySlug": "labs",
+    "id": 216
+  },
+  {
+    "name": "Ganzinger lab",
+    "description": "Kristina Ganzinger. Physics of Cellular Interactions. AMOLF, Amsterdam, NL.",
+    "links": [
+      {
+        "label": "Homepage",
+        "url": "https://amolf.nl/research-groups/physics-of-cellular-interactions"
+      },
+      {
+        "label": "Microscopy",
+        "url": "https://ganzingerlab.github.io/K2TIRF/K2TIRF/index.html"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/GanzingerLab"
+      }
+    ],
+    "category": "Labs and people",
+    "categorySlug": "labs",
+    "id": 217
+  },
+  {
+    "name": "Grecco lab",
+    "description": "Hernan E. Grecco. Open software for microscope control; Optical methods to quantify and manipulate samples. University of Buenos Aires, AR.",
+    "links": [
+      {
+        "label": "Homepage",
+        "url": "http://www.lec.df.uba.ar/en/"
+      }
+    ],
+    "category": "Labs and people",
+    "categorySlug": "labs",
+    "id": 218
+  },
+  {
+    "name": "Haselhoff lab",
+    "description": "Jim Haselhoff. Synthetic Biology for engineering plant growth. University of Cambridge, UK.",
+    "links": [
+      {
+        "label": "Homepage",
+        "url": "https://haseloff.plantsci.cam.ac.uk"
+      },
+      {
+        "label": "Microscopy",
+        "url": "https://haseloff.plantsci.cam.ac.uk/imaging/index.html"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/HaseloffLab"
+      }
+    ],
+    "category": "Labs and people",
+    "categorySlug": "labs",
+    "id": 219
+  },
+  {
+    "name": "Hohlbein lab",
+    "description": "Johannes Hohlbein. Single-molecule stuff. Wageningen University & Research, the Netherlands.",
+    "links": [
+      {
+        "label": "Homepage",
+        "url": "https://jhohlbein.com/"
+      },
+      {
+        "label": "Open Science",
+        "url": "https://jhohlbein.com/openscience/"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/HohlbeinLab"
+      }
+    ],
+    "category": "Labs and people",
+    "categorySlug": "labs",
+    "id": 220
+  },
+  {
+    "name": "Heilemann lab",
+    "description": "Mike Heilemann. Structural organization of biomolecules in cells applying novel microscopic techniques that provide single-molecule sensitivity and a spatial resolution below the diffraction limit. Goethe University Frankfurt, Germany.",
+    "links": [
+      {
+        "label": "Homepage",
+        "url": "https://www.uni-frankfurt.de/43272324/Welcome_to_the_homepage_of_the_Heilemann_Group"
+      },
+      {
+        "label": "Software",
+        "url": "https://www.uni-frankfurt.de/54258347/Software_developed_in_our_group"
+      }
+    ],
+    "category": "Labs and people",
+    "categorySlug": "labs",
+    "id": 221
+  },
+  {
+    "name": "Heintzmann lab",
+    "description": "Rainer Heintzmann. Development of techniques to measure multidimensional information in small biological objects such as cells, cellular organelles, molecules or other structures. Friedrich-Schiller-Universität Jena, Germany.",
+    "links": [
+      {
+        "label": "Homepage",
+        "url": "https://sites.google.com/site/nanoimagingproject/"
+      },
+      {
+        "label": "Software",
+        "url": "https://sites.google.com/site/nanoimagingproject/software"
+      }
+    ],
+    "category": "Labs and people",
+    "categorySlug": "labs",
+    "id": 222
+  },
+  {
+    "name": "Henriques lab",
+    "description": "Ricardo Henriques. Optical cell biology. Instituto Gulbenkian de Ciência, Portugal.",
+    "links": [
+      {
+        "label": "Homepage",
+        "url": "https://henriqueslab.github.io/"
+      },
+      {
+        "label": "Resources",
+        "url": "https://henriqueslab.github.io/resources/"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/HenriquesLab"
+      }
+    ],
+    "category": "Labs and people",
+    "categorySlug": "labs",
+    "id": 223
+  },
+  {
+    "name": "Holden lab",
+    "description": "Séamus Holden. Advanced microscopy and image analysis to understand living organisms. Newcastle University, UK.",
+    "links": [
+      {
+        "label": "Homepage",
+        "url": "https://blogs.ncl.ac.uk/holdenlab/"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/HoldenLab"
+      }
+    ],
+    "category": "Labs and people",
+    "categorySlug": "labs",
+    "id": 224
+  },
+  {
+    "name": "Manley lab",
+    "description": "Suliana Manley. Laboratory of Experimental Biophysics. EPFL, CH.",
+    "links": [
+      {
+        "label": "Homepage",
+        "url": "https://www.epfl.ch/labs/leb/"
+      },
+      {
+        "label": "Software",
+        "url": "https://www.epfl.ch/labs/leb/software/"
+      }
+    ],
+    "category": "Labs and people",
+    "categorySlug": "labs",
+    "id": 225
+  },
+  {
+    "name": "Microscopy Innovation Lab",
+    "description": "Kevin Dean. Department of Cell Biology. UT Southwestern Medical Center.",
+    "links": [
+      {
+        "label": "Homepage",
+        "url": "https://www.utsouthwestern.edu/research/core-facilities/microscopy-innovation/about.html"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/AdvancedImagingUTSW"
+      }
+    ],
+    "category": "Labs and people",
+    "categorySlug": "labs",
+    "id": 226
+  },
+  {
+    "name": "NeuroCyto Lab",
+    "description": "Christophe Leterrier. NeuroCyto: the neuronal cytoskeleton in physiology and disease. INP, CNRS-Aix Marseille University, France.",
+    "links": [
+      {
+        "label": "Homepage",
+        "url": "https://www.neurocytolab.org/"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/cleterrier/"
+      }
+    ],
+    "category": "Labs and people",
+    "categorySlug": "labs",
+    "id": 227
+  },
+  {
+    "name": "Prakash lab",
+    "description": "Manu Prakash. Curiosity-driven science. Stanford, USA.",
+    "links": [
+      {
+        "label": "Homepage",
+        "url": "https://web.stanford.edu/group/prakash-lab/cgi-bin/labsite/"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/PrakashLab"
+      }
+    ],
+    "category": "Labs and people",
+    "categorySlug": "labs",
+    "id": 228
+  },
+  {
+    "name": "QI2 lab",
+    "description": "Douglas Shepherd. Quantitative Imaging and Inference Laboratory. Arizona State University in Tempe, USA.",
+    "links": [
+      {
+        "label": "Homepage",
+        "url": "https://shepherdlaboratory.org"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/qi2lab"
+      }
+    ],
+    "category": "Labs and people",
+    "categorySlug": "labs",
+    "id": 229
+  },
+  {
+    "name": "Ries lab",
+    "description": "Jonas Ries. Super-resolution microscopy for structural cell biology. Development of techniques to visualize the structure and dynamics of molecular machines in cells on the nanoscale. Main biological target: clathrin-mediated endocytosis. EMBL Heidelberg, Germany.",
+    "links": [
+      {
+        "label": "Homepage",
+        "url": "https://rieslab.de"
+      },
+      {
+        "label": "Software",
+        "url": "https://rieslab.de#software"
+      },
+      {
+        "label": "Resources",
+        "url": "https://rieslab.de/#resources"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/ries-lab"
+      }
+    ],
+    "category": "Labs and people",
+    "categorySlug": "labs",
+    "id": 230
+  },
+  {
+    "name": "Royer lab",
+    "description": "Loic A. Royer. Advanced microscopy, bioimage informatics. CZ Biohub San Francisco, USA.",
+    "links": [
+      {
+        "label": "Homepage",
+        "url": "https://www.royerlab.org/"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/royerlab"
+      }
+    ],
+    "category": "Labs and people",
+    "categorySlug": "labs",
+    "id": 231
+  },
+  {
+    "name": "Sieben lab",
+    "description": "Christian Sieben. Helmholtz Centre for Infection Research, Braunschweig, Germany.",
+    "links": [
+      {
+        "label": "Homepage",
+        "url": "https://nanoinfection.org/contact"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/christian-7"
+      }
+    ],
+    "category": "Labs and people",
+    "categorySlug": "labs",
+    "id": 232
+  },
+  {
+    "name": "Testa lab",
+    "description": "Ilaria Testa. Advanced optical bioimaging at Scilifelab and KTH, Solna, Sweden.",
+    "links": [
+      {
+        "label": "Homepage",
+        "url": "http://www.testalab.org"
+      },
+      {
+        "label": "Tools",
+        "url": "http://www.testalab.org/tools.php"
+      }
+    ],
+    "category": "Labs and people",
+    "categorySlug": "labs",
+    "id": 233
+  },
+  {
+    "name": "Tutkus lab",
+    "description": "Marijonas Tutkus. Advanced fluorescence microscopy imaging and hardware/software development at Vilnius University, Lithuania.",
+    "links": [
+      {
+        "label": "Homepage",
+        "url": "https://tutkuslab.github.io/"
+      },
+      {
+        "label": "Tools",
+        "url": "https://github.com/samhitech/microEye"
+      }
+    ],
+    "category": "Labs and people",
+    "categorySlug": "labs",
+    "id": 234
+  },
+  {
+    "name": "Vicidomini lab",
+    "description": "Giuseppe Vicidomini. (STED) microscopy, spectroscopy, SPAD Arrays, image analysis. Center for Human Technology, Istituto Italiano di Tecnologia.",
+    "links": [
+      {
+        "label": "Homepage",
+        "url": "https://vicidominilab.github.io"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/VicidominiLab"
+      }
+    ],
+    "category": "Labs and people",
+    "categorySlug": "labs",
+    "id": 235
+  },
+  {
+    "name": "Wählby lab",
+    "description": "Carolina Wählby. Quantitative microscopy group. Uppsala University, Uppsala, Sweden.",
+    "links": [
+      {
+        "label": "Homepage",
+        "url": "http://user.it.uu.se/~cli05194/index.html"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/wahlby-lab"
+      }
+    ],
+    "category": "Labs and people",
+    "categorySlug": "labs",
+    "id": 236
+  },
+  {
+    "name": "Waller lab",
+    "description": "Laura Waller. Computational imaging lab. UC Berkeley, USA.",
+    "links": [
+      {
+        "label": "Homepage",
+        "url": "https://www.laurawaller.com/"
+      },
+      {
+        "label": "Optics-Fun",
+        "url": "https://www.laurawaller.com/optics-fun/"
+      },
+      {
+        "label": "Open Source",
+        "url": "https://www.laurawaller.com/opensource/"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/Waller-Lab"
+      }
+    ],
+    "category": "Labs and people",
+    "categorySlug": "labs",
+    "id": 237
+  },
+  {
+    "name": "Wenzel lab",
+    "description": "Tobias Wenzel. Method development team: microfluidics and bioimgaing with Open Hardware automation for cellular interactions resesarch. UC Chile, Chile.",
+    "links": [
+      {
+        "label": "Homepage",
+        "url": "https://wenzel-lab.github.io"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/MakerTobey"
+      }
+    ],
+    "category": "Labs and people",
+    "categorySlug": "labs",
+    "id": 238
+  },
+  {
+    "name": "York lab",
+    "description": "Andrew G. York. Calico. Microscopy techniques. USA.",
+    "links": [
+      {
+        "label": "Homepage",
+        "url": "https://andrewgyork.github.io/"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/AndrewGYork"
+      }
+    ],
+    "category": "Labs and people",
+    "categorySlug": "labs",
+    "id": 239
+  },
+  {
+    "name": "Zhao lab",
+    "description": "Weisong Zhao. Building advanced optical microscopy for biomedical applications, as well as developing smart algorithms across modalities including optical microscopy, acoustic/photoacoustic imaging, and cryo-EM/ET. Harbin Institute of Technology (HIT). USA.",
+    "links": [
+      {
+        "label": "Homepage",
+        "url": "https://weisongzhao.github.io/"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/WeisongZhao"
+      }
+    ],
+    "category": "Labs and people",
+    "categorySlug": "labs",
+    "id": 240
+  },
+  {
+    "name": "Fusion360",
+    "description": "Cost: €415-1.120/year; Academic License: available; Open-source?: NO; Supported OS: Mac, Windows; Native file format: .f3d; Supports STEP file: YES4; Supports STL file: YES",
+    "links": [],
+    "attributes": {
+      "Cost": "€415-1.120/year",
+      "Academic License": "available",
+      "Open-source?": "NO",
+      "Supported OS": "Mac, Windows",
+      "Native file format": ".f3d",
+      "Supports STEP file": "YES4",
+      "Supports STL file": "YES"
+    },
+    "category": "CAD tools",
+    "categorySlug": "cad-tools",
+    "id": 241
+  },
+  {
+    "name": "Autodesk Inventor",
+    "description": "Cost: €2839/year; Academic License: available; Open-source?: NO; Supported OS: Windows; Native file format: .ipt, .iam; Supports STEP file: YES; Supports STL file: YES",
+    "links": [],
+    "attributes": {
+      "Cost": "€2839/year",
+      "Academic License": "available",
+      "Open-source?": "NO",
+      "Supported OS": "Windows",
+      "Native file format": ".ipt, .iam",
+      "Supports STEP file": "YES",
+      "Supports STL file": "YES"
+    },
+    "category": "CAD tools",
+    "categorySlug": "cad-tools",
+    "id": 242
+  },
+  {
+    "name": "AutoCAD",
+    "description": "Cost: €1950/year; Academic License: available; Open-source?: NO; Supported OS: Windows; Native file format: .dwg; Supports STEP file: YES; Supports STL file: YES",
+    "links": [],
+    "attributes": {
+      "Cost": "€1950/year",
+      "Academic License": "available",
+      "Open-source?": "NO",
+      "Supported OS": "Windows",
+      "Native file format": ".dwg",
+      "Supports STEP file": "YES",
+      "Supports STL file": "YES"
+    },
+    "category": "CAD tools",
+    "categorySlug": "cad-tools",
+    "id": 243
+  },
+  {
+    "name": "Solidworks",
+    "description": "Cost: Quote required; Academic License: Quote required; Open-source?: NO; Supported OS: Windows; Native file format: .sldprt; Supports STEP file: YES; Supports STL file: YES",
+    "links": [],
+    "attributes": {
+      "Cost": "Quote required",
+      "Academic License": "Quote required",
+      "Open-source?": "NO",
+      "Supported OS": "Windows",
+      "Native file format": ".sldprt",
+      "Supports STEP file": "YES",
+      "Supports STL file": "YES"
+    },
+    "category": "CAD tools",
+    "categorySlug": "cad-tools",
+    "id": 244
+  },
+  {
+    "name": "RhinoCAD",
+    "description": "Cost: € 9.953; Academic License: € 1.953; Open-source?: NO; Supported OS: Mac, Windows; Native file format: .3dm; Supports STEP file: YES; Supports STL file: YES",
+    "links": [],
+    "attributes": {
+      "Cost": "€ 9.953",
+      "Academic License": "€ 1.953",
+      "Open-source?": "NO",
+      "Supported OS": "Mac, Windows",
+      "Native file format": ".3dm",
+      "Supports STEP file": "YES",
+      "Supports STL file": "YES"
+    },
+    "category": "CAD tools",
+    "categorySlug": "cad-tools",
+    "id": 245
+  },
+  {
+    "name": "OpenSCAD",
+    "description": "Cost: Free; Academic License: N/A; Open-source?: YES; Supported OS: Mac, Windows, Linux; Native file format: .scad; Supports STEP file: NO; Supports STL file: YES",
+    "links": [],
+    "attributes": {
+      "Cost": "Free",
+      "Academic License": "N/A",
+      "Open-source?": "YES",
+      "Supported OS": "Mac, Windows, Linux",
+      "Native file format": ".scad",
+      "Supports STEP file": "NO",
+      "Supports STL file": "YES"
+    },
+    "category": "CAD tools",
+    "categorySlug": "cad-tools",
+    "id": 246
+  },
+  {
+    "name": "FreeCAD",
+    "description": "Cost: Free; Academic License: N/A; Open-source?: YES; Supported OS: Mac, Windows, Linux; Native file format: .FCStd; Supports STEP file: YES; Supports STL file: YES",
+    "links": [],
+    "attributes": {
+      "Cost": "Free",
+      "Academic License": "N/A",
+      "Open-source?": "YES",
+      "Supported OS": "Mac, Windows, Linux",
+      "Native file format": ".FCStd",
+      "Supports STEP file": "YES",
+      "Supports STL file": "YES"
+    },
+    "category": "CAD tools",
+    "categorySlug": "cad-tools",
+    "id": 247
+  },
+  {
+    "name": "Blender",
+    "description": "Cost: Free; Academic License: N/A; Open-source?: YES; Supported OS: Mac, Windows , Linux; Native file format: .blend; Supports STEP file: NO; Supports STL file: YES",
+    "links": [],
+    "attributes": {
+      "Cost": "Free",
+      "Academic License": "N/A",
+      "Open-source?": "YES",
+      "Supported OS": "Mac, Windows , Linux",
+      "Native file format": ".blend",
+      "Supports STEP file": "NO",
+      "Supports STL file": "YES"
+    },
+    "category": "CAD tools",
+    "categorySlug": "cad-tools",
+    "id": 248
+  },
+  {
+    "name": "Tinkercad",
+    "description": "Cost: Free; Academic License: N/A; Open-source?: NO; Supported OS: online; Native file format: .obj; Supports STEP file: NO; Supports STL file: YES",
+    "links": [],
+    "attributes": {
+      "Cost": "Free",
+      "Academic License": "N/A",
+      "Open-source?": "NO",
+      "Supported OS": "online",
+      "Native file format": ".obj",
+      "Supports STEP file": "NO",
+      "Supports STL file": "YES"
+    },
+    "category": "CAD tools",
+    "categorySlug": "cad-tools",
+    "id": 249
+  },
+  {
+    "name": "OnShape",
+    "description": "Cost: Public projects (free) unique: online collaboration and version merging, €1.500 (Standard), €2.100 (Pro) per year; Academic License: available; Open-source?: NO; Supported OS: online; Native file format: -; Supports STEP file: YES; Supports STL file: YES",
+    "links": [],
+    "attributes": {
+      "Cost": "Public projects (free) unique: online collaboration and version merging, €1.500 (Standard), €2.100 (Pro) per year",
+      "Academic License": "available",
+      "Open-source?": "NO",
+      "Supported OS": "online",
+      "Native file format": "-",
+      "Supports STEP file": "YES",
+      "Supports STL file": "YES"
+    },
+    "category": "CAD tools",
+    "categorySlug": "cad-tools",
+    "id": 250
+  },
+  {
+    "name": "SketchUp",
+    "description": "Cost: €150-600/year; Academic License: €55€/year; Open-source?: NO; Supported OS: online/offline, Windows, Mac; Native file format: .skp; Supports STEP file: YES; Supports STL file: YES",
+    "links": [],
+    "attributes": {
+      "Cost": "€150-600/year",
+      "Academic License": "€55€/year",
+      "Open-source?": "NO",
+      "Supported OS": "online/offline, Windows, Mac",
+      "Native file format": ".skp",
+      "Supports STEP file": "YES",
+      "Supports STL file": "YES"
+    },
+    "category": "CAD tools",
+    "categorySlug": "cad-tools",
+    "id": 251
+  },
+  {
+    "name": "Zenodo",
+    "description": "Purpose: Long-term archiving of scientific data.; STL Previews: NO; Automation: NO; Link: Zenodo",
+    "links": [],
+    "attributes": {
+      "Purpose": "Long-term archiving of scientific data.",
+      "STL Previews": "NO",
+      "Automation": "NO",
+      "Link": "Zenodo"
+    },
+    "category": "CAD tools",
+    "categorySlug": "cad-tools",
+    "id": 252
+  },
+  {
+    "name": "Thinigverse",
+    "description": "Purpose: Commercial platform to share 3D printing/laser-cutting designs. Relatively stable.; STL Previews: YES; Automation: NO; Link: Thingiverse",
+    "links": [],
+    "attributes": {
+      "Purpose": "Commercial platform to share 3D printing/laser-cutting designs. Relatively stable.",
+      "STL Previews": "YES",
+      "Automation": "NO",
+      "Link": "Thingiverse"
+    },
+    "category": "CAD tools",
+    "categorySlug": "cad-tools",
+    "id": 253
+  },
+  {
+    "name": "Fusion360",
+    "description": "Purpose: Commercial cloud that stores editable and shareable files for Autodesk Fusion360 (STLs mostly). Subject to change of license terms at any time.; STL Previews: YES; Automation: NO; Link: Fusion360",
+    "links": [],
+    "attributes": {
+      "Purpose": "Commercial cloud that stores editable and shareable files for Autodesk Fusion360 (STLs mostly). Subject to change of license terms at any time.",
+      "STL Previews": "YES",
+      "Automation": "NO",
+      "Link": "Fusion360"
+    },
+    "category": "CAD tools",
+    "categorySlug": "cad-tools",
+    "id": 254
+  },
+  {
+    "name": "GrabCAD",
+    "description": "Purpose: Community for sharing whole CAD assemblies, tutorials and knowledge; STL Previews: YES; Automation: NO; Link: GrabCAD",
+    "links": [],
+    "attributes": {
+      "Purpose": "Community for sharing whole CAD assemblies, tutorials and knowledge",
+      "STL Previews": "YES",
+      "Automation": "NO",
+      "Link": "GrabCAD"
+    },
+    "category": "CAD tools",
+    "categorySlug": "cad-tools",
+    "id": 255
+  },
+  {
+    "name": "Yeggi",
+    "description": "Purpose: Search engine for multiple 3D model databases; STL Previews: YES; Automation: NO; Link: YEGGI",
+    "links": [],
+    "attributes": {
+      "Purpose": "Search engine for multiple 3D model databases",
+      "STL Previews": "YES",
+      "Automation": "NO",
+      "Link": "YEGGI"
+    },
+    "category": "CAD tools",
+    "categorySlug": "cad-tools",
+    "id": 256
+  },
+  {
+    "name": "GitLab",
+    "description": "Purpose: Version controlled platform to host various files with inbuilt rendering tool for STL; STL Previews: YES; Automation: YES; Link: GitLab",
+    "links": [],
+    "attributes": {
+      "Purpose": "Version controlled platform to host various files with inbuilt rendering tool for STL",
+      "STL Previews": "YES",
+      "Automation": "YES",
+      "Link": "GitLab"
+    },
+    "category": "CAD tools",
+    "categorySlug": "cad-tools",
+    "id": 257
+  },
+  {
+    "name": "GitHub",
+    "description": "Purpose: Version controlled platform to host various files with inbuilt rendering tool for STL; STL Previews: YES; Automation: YES; Link: GitHub",
+    "links": [],
+    "attributes": {
+      "Purpose": "Version controlled platform to host various files with inbuilt rendering tool for STL",
+      "STL Previews": "YES",
+      "Automation": "YES",
+      "Link": "GitHub"
+    },
+    "category": "CAD tools",
+    "categorySlug": "cad-tools",
+    "id": 258
+  },
+  {
+    "name": "NIH 3D printing database",
+    "description": "Purpose: Supporting medical workers with 3D printing equipment; STL Previews: YES; Automation: NO; Link: NIH Database",
+    "links": [],
+    "attributes": {
+      "Purpose": "Supporting medical workers with 3D printing equipment",
+      "STL Previews": "YES",
+      "Automation": "NO",
+      "Link": "NIH Database"
+    },
+    "category": "CAD tools",
+    "categorySlug": "cad-tools",
+    "id": 259
+  },
+  {
+    "name": "Printables",
+    "description": "Purpose: Database for various 3D printed models from Prusa; STL Previews: YES; Automation: NO; Link: https://www.printables.com/",
+    "links": [],
+    "attributes": {
+      "Purpose": "Database for various 3D printed models from Prusa",
+      "STL Previews": "YES",
+      "Automation": "NO",
+      "Link": "https://www.printables.com/"
+    },
+    "category": "CAD tools",
+    "categorySlug": "cad-tools",
+    "id": 260
+  },
+  {
+    "name": "Ondsel lens",
+    "description": "Purpose: Database of public (editable) FreeCAD models, with STL/STEP export.; STL Previews: YES; Automation: NO; Link: https://lens.ondsel.com/public-models",
+    "links": [],
+    "attributes": {
+      "Purpose": "Database of public (editable) FreeCAD models, with STL/STEP export.",
+      "STL Previews": "YES",
+      "Automation": "NO",
+      "Link": "https://lens.ondsel.com/public-models"
+    },
+    "category": "CAD tools",
+    "categorySlug": "cad-tools",
+    "id": 261
+  },
+  {
+    "name": "OnShape",
+    "description": "Purpose: Public online CAD models, with STL/STEP export.; STL Previews: YES; Automation: NO; Link: Public projects browser",
+    "links": [],
+    "attributes": {
+      "Purpose": "Public online CAD models, with STL/STEP export.",
+      "STL Previews": "YES",
+      "Automation": "NO",
+      "Link": "Public projects browser"
+    },
+    "category": "CAD tools",
+    "categorySlug": "cad-tools",
+    "id": 262
+  }
+]
