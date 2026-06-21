@@ -34,7 +34,7 @@
 |**Janelia Research Campus Tools and Innovations** | Collection of helpful tools, data and resources that can be created in the lab. | [Website](https://www.janelia.org/open-science/tools-and-innovations) |
 |**K2 TIRF** | Open-source simultaneous triple-color TIRF microscope for live-cell and single-molecule imaging. Ganzinger Lab. | [Niederauer2022](https://www.biorxiv.org/content/10.1101/2022.12.19.521031v2), [GitHub](https://ganzingerlab.github.io/K2TIRF/K2TIRF/component_table.html)
 |**Laser Engine**  |Blueprints for a low-cost laser engine for wide-field and localization microscopy. Ries lab. |[Schröder2020](https://www.osapublishing.org/boe/fulltext.cfm?uri=boe-11-2-609&id=425622), [GitHub](https://github.com/ries-lab/LaserEngine)|
-|**LEGOLish** |LEGO(R)-based Light sheet microscopy.  |[Website](http://legolish.org/)  
+|**LEGOLish** |LEGO(R)-based Light sheet microscopy.  | [Website (offline)](https://legolish.org/)  
 |**LEMOLish** |LEGO(R)-based Light sheet microscopy of cleared samples. |[Website](https://lemolish.mystrikingly.com/)
 |**LifeHack** |An open-source, modular microscope for live & fixed cell single-molecule imaging. Holden lab. |[GitHub](https://holdenlab.github.io/LifeHackWebsite/)
 |**liteTIRF** |Super-resolution microscopy for 20k Euros. Jungmann lab. |[Auer2018](https://doi.org/10.1002%2Fcphc.201800630), [Weblink](http://litetirf.jungmannlab.org/)
@@ -47,7 +47,7 @@
 |**MEMS-SIM** | SIM microscope using 3-axis MEMS mirrors for £9k. |[Tinning2022](https://doi.org/10.1364/BOE.475811), [GitHub](https://github.com/RalfBauerUoS/MEMS-SIM)|
 |**MesoSPIM** |Advanced large-scale light sheet system. |[Voigt2019](https://doi.org/10.1038/s41592-019-0554-0), [Website](https://mesospim.org/)|
 |**Microbrew**| Small microscope to visualize yeast cell growth for beer brewing purposes |[GitHub](https://gitlab.com/nanocastro/microbrew/-/blob/master/Early_prototypes/Prototipos.md)
-|**Microscopi**| Democratising “Microscopi”: a 3D printed automated XYZT fluorescence imaging system for teaching, outreach and fieldwork |[Wincott2020](https://www.biorxiv.org/content/10.1101/2020.05.21.108894v1) |[Website](https://micronoxford.com/microscopi-3d-printed-1),
+|**Microscopi**| Democratising “Microscopi”: a 3D printed automated XYZT fluorescence imaging system for teaching, outreach and fieldwork |[Wincott2022](https://doi.org/10.12688/wellcomeopenres.16536.2), [Components and Assembly](https://zenodo.org/records/3701603) |
 |**MicroscoPY** |Lego and 3D printed Raspberry Pi-based microscope. |[GitHub](https://github.com/IBM/MicroscoPy) |
 |**microFPGA** |MicroFPGA: an affordable field programmable gate array platform for microscope control. Ries lab. |[Deschamps2022](https://doi.org/10.1101/2022.06.07.495178), [GitHub.io](https://mufpga.github.io/), [GitHub](https://github.com/mufpga)   |
 |**miCube** |Monolithic single-molecule localization microscope. Hohlbein lab. |[Martens2019](https://doi.org/10.1038/s41467-019-11514-0), [GitHub.io](https://hohlbeinlab.github.io/miCube/index.html)   |
@@ -65,7 +65,7 @@
 |**OpenFlexure Field Dissection Microscope** | A microscope for looking at objects that are a few mm across, such as bees. | [Website](https://openflexure.gitlab.io/openflexure-field-dissection-microscope/), [GitLab](https://gitlab.com/openflexure/openflexure-field-dissection-microscope/)
 |**OpenFlexure Flat-Top Microscope** |A laser-cut flat-top microscope for imaging larger items such as 96-well plates, flexure focussing mechanism. Bowman lab. | [Website](https://rwb27.gitlab.io/openflexure-flat-top-microscope/), [GitLab](https://gitlab.com/rwb27/openflexure-flat-top-microscope/)
 |**openFrame** | Modular, low-cost, open-hardware microscopy platform that can be configured or adapted to most light microscopy techniques. |[Lightley2023](https://doi.org/10.1111/jmi.13219), [GitHub](https://github.com/ImperialCollegeLondon/openFrame)
-|**Open Ocular**|Open-Source 3D printable eyepiece adapter for the cellphone. |[Website](https://www.openocular.com/), [Thingiverse](https://www.openocular.com/) |
+|**Open Ocular**|Open-Source 3D printable eyepiece adapter for the cellphone. |[Website](https://www.thingiverse.com/OpenOcular/designs) |
 |**open OPT** |Design and implementation of a custom built optical projection tomography system. |[Wong2013](https://doi.org/10.1371/journal.pone.0073491)
 |**openRAMAN** |Low Cost, High Performances, 100% Open Source Raman Spectrometer |[Website](http://www.open-raman.org/)
 |**OpenSPIM** |An Open Access platform for applying and enhancing selective plane illumination microscopy. |[Pitrone2013](https://doi.org/10.1038/nmeth.2507), [Website/Wiki](https://openspim.org/)
@@ -73,12 +73,12 @@
 |**OPTiM**  |Optical projection tomography integrated microscope using open-source hardware and software. |[Watson2017](https://doi.org/10.1371/journal.pone.0180309)|
 |**OptiJ** |Optical projection tomography with Fiji. |[Ramirez2019](https://www.nature.com/articles/s41598-019-52065-0)
 |**OPenT** |Optical micro tomography. Martins lab. | [Felix2016](https://doi.org/10.1016/j.mod.2016.03.001)
-|**pDPC** | Open-source implementation of polarisation-resolved single-shot differential phase contrast microscopy (pDPC) on a modular openFrame-based microscope. French lab. |[Liu2025](https://doi.org/10.1016/j.ohx.2024.e00622) |[Zenodo](https://zenodo.org/records/14536403)
-|**pgFocus** |pgFocus is an open source and open hardware, for noncommercial use, focus stabilization device developed by Karl Bellvé.  |[Wiki](http://big.umassmed.edu/wiki/index.php/PgFocus)
-|**Picroscope** | Development of a low-cost system for simultaneous longitudinal biological imaging. |[Victoria2021](https://doi.org/10.1038/s42003-021-02779-7) |[Github](https://github.com/braingeneers/picroscope-supplement)
+|**pDPC** | Open-source implementation of polarisation-resolved single-shot differential phase contrast microscopy (pDPC) on a modular openFrame-based microscope. French lab. |[Liu2025](https://doi.org/10.1016/j.ohx.2024.e00622), [Zenodo](https://zenodo.org/records/14536403) |
+|**pgFocus** |pgFocus is an open source and open hardware, for noncommercial use, focus stabilization device developed by Karl Bellvé.  |[Bellve2014](https://doi.org/10.1016/j.bpj.2013.11.3354), [Wiki (offline)](http://big.umassmed.edu/wiki/index.php/PgFocus)
+|**Picroscope** | Development of a low-cost system for simultaneous longitudinal biological imaging. |[Victoria2021](https://doi.org/10.1038/s42003-021-02779-7), [Github](https://github.com/braingeneers/picroscope-supplement)
 |**PlanktonScope** | Sea and plankton imaging for citizen science. Prakash lab. |[Pollina2020](https://www.biorxiv.org/content/10.1101/2020.04.23.056978v1), [Website](https://www.planktoscope.org/) |
 |**Pi-based FPM** |Low-cost, sub-micron resolution, wide-field computational microscopy using opensource hardware. Waller lab and Konda lab. |[Aidukas2019](https://www.nature.com/articles/s41598-019-43845-9)|
-|**PiFocus** |Astigmatism-based active focus stabilisation with universal objective lens compatibility, extended operating range and nanometer precision. |[Rahmani2024](https://doi.org/10.1364/OE.520845) |[GitHub](https://github.com/PonjavicLab/PiFocus), [Zenodo](https://zenodo.org/records/10726263)|
+|**PiFocus** |Astigmatism-based active focus stabilisation with universal objective lens compatibility, extended operating range and nanometer precision. |[Rahmani2024](https://doi.org/10.1364/OE.520845), [GitHub](https://github.com/PonjavicLab/PiFocus), [Zenodo](https://zenodo.org/records/10726263) |
 |**PUMA** |Modular, option to add SLM, heads up display etc.  |[GitHub](https://github.com/TadPath/PUMA/tree/v0.1), [Tadrous2021](https://onlinelibrary.wiley.com/doi/10.1111/jmi.13043)
 |**Raspi-based Fluorescence Microscope** |Facile assembly of an affordable miniature multicolor fluorescence microscope made of 3D-printed parts enables detection of single cells. | [Tristan-Landin2019](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0215114)|
 |**RiesPieces** | Repository of different microscope parts from the Ries lab, including a filter wheel, a flip mount, a linear stage, a magnetic sample holder, and solutions for illumination and focus locking. | [GitHub](https://github.com/ries-lab/RiesPieces/tree/master/Microscopy) |

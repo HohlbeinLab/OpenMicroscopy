@@ -16,10 +16,12 @@
 
 Also, please have a look at the extensive list on [Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_computer-aided_design_software)  
 
+## Open-microscopy CAD Repositories
+
 |     Repository    |     Purpose    |  STL Previews | Automation | Link |
 |---|---|---|---|---|
-| **Zenodo** |     Long-term archiving of scientific data.    | NO | NO | [Zenodo](Zenodo.org)  |
-| **Thinigverse** |     Commercial platform to share 3D printing/laser-cutting designs. Relatively stable. | YES | NO | [Thingiverse](thingiverse.com) |
+| **Zenodo** |     Long-term archiving of scientific data.    | NO | NO | [Zenodo](https://zenodo.org)  |
+| **Thingiverse** |     Commercial platform to share 3D printing/laser-cutting designs. Relatively stable. | YES | NO | [Thingiverse](https://www.thingiverse.com) |
 | **Fusion360**    |     Commercial cloud that stores editable and shareable files for Autodesk   Fusion360 (STLs mostly). Subject to change of license terms at any time. | YES | NO | [Fusion360](https://www.autodesk.com/products/fusion-360/overview) |
 | **GrabCAD** |     Community for sharing whole CAD assemblies, tutorials and knowledge    | YES | NO | [GrabCAD](https://grabcad.com/) |
 | **Yeggi** |     Search engine for multiple 3D model databases    | YES | NO | [YEGGI](https://www.yeggi.com/) |
@@ -28,4 +30,4 @@ Also, please have a look at the extensive list on [Wikipedia](https://en.wikiped
 | **NIH 3D printing   database**    |     Supporting medical workers with 3D printing equipment    | YES | NO | [NIH Database](https://3dprint.nih.gov/) |
 | **Printables**| Database for various 3D printed models from Prusa | YES | NO | [https://www.printables.com/](https://www.printables.com/)|
 | **Ondsel lens**| Database of public (editable) FreeCAD models, with STL/STEP export. | YES | NO | [https://lens.ondsel.com/public-models](https://lens.ondsel.com/public-models)|
-| **OnShape**| Public online CAD models, with STL/STEP export. | YES | NO | [Public projects browser](https://cad.onshape.com/documents?nodeId=3&resourceType=filter)
+| **OnShape**| Public online CAD models, with STL/STEP export. | YES | NO | [Public projects browser](https://cad.onshape.com/documents?nodeId=3&resourceType=filter) |

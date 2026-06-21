@@ -1,7 +1,7 @@
 | <div style="width:150px">Project</div>  | <div style="width:400px">Description</div> | <div style="width:150px">Resources</div> |
 | :---| :--- | :---
 | **Alfred Sikking's Microscopy Knowledge Database** | Repository for knowledge around microscopy optics. |[Website](https://amsikking.github.io/microscope_objectives/?s=09) |
-**Awesome Biological Image Analysis** | A curated list of software, tools and other resources for biological image analysis. |[Website](https://github.com/hallvaaw/awesome-biological-image-analysis#readme) |
+| **Awesome Biological Image Analysis** | A curated list of software, tools and other resources for biological image analysis. |[Website](https://github.com/hallvaaw/awesome-biological-image-analysis#readme) |
 | **AWS open data**  | Large open data sharing.| [Website](https://aws.amazon.com/opendata/?wwps-cards.sort-by=item.additionalFields.sortDate&wwps-cards.sort-order=desc) |
 | **BossDB** | Volumetric database for 3D/4D neuroscience data. | [Website](https://bossdb.org/) |
 | **Broad Institute BioImage collection** | Annotated biologial images for testing and validation. | [Website](https://bbbc.broadinstitute.org/) |
@@ -9,12 +9,12 @@
 | **EBI BioImage Archive** | A BioImage archive developed in collaboration with Euro-BioIMaging and Elixir. | [Website](https://www.ebi.ac.uk/bioimage-archive/submit/)|
 | **EBI EMPIAR**  | Electron microscopy Public Image Archive. | [Website](https://www.ebi.ac.uk/empiar/) |
 | **Figshare** | Cloud solutions for publishers.  | [Website](https://figshare.com/) |
-| **FocalPlane** |  Microscopy community site hosted by the Journal of Cell Science (JCS) and encompassing all fields in the biological sciences related to microscopy.  | [Website](https://focalplane.biologists.com/) [Twitter](https://twitter.com/focalplane_jcs/)
+| **FocalPlane** |  Microscopy community site hosted by the Journal of Cell Science (JCS) and encompassing all fields in the biological sciences related to microscopy.  | [Website](https://focalplane.biologists.com/) [Twitter](https://twitter.com/focalplane_jcs/) |
 | **GBIF**  | Recommed by PLOS, Springer Nature providing Free and open access to biodiversity data.  | [Website](https://www.gbif.org/) |
 | **GitHub** | Repository for code, development platform. |[Website](https://github.com/) |
 | **GitLab** | Repository for code, development platform. |[Website](https://about.gitlab.com/) |
 | **Image Data Resource (IDR)** | A public repository of image datasets from published scientific studies, where the community can submit, search and access high-quality bio-image data. |[Website](https://idr.openmicroscopy.org/) |
-| **Objective Lens Introduction**  | All the facts about objective lenses in one page | [Website]([https://openorganelle.janelia.org/](https://amsikking.github.io/microscope_objectives/) |
+| **Objective Lens Introduction**  | All the facts about objective lenses in one page | [Website](https://amsikking.github.io/microscope_objectives/) |
 | **OpenOrganelle**  | Janelia's cells and tissues archive. | [Website](https://openorganelle.janelia.org/) |
 | **Open Science Framework (OSF)**  | Repository to share research data, code and documentation; gives DOI and supports embargo periods, etc.; Integrations include GitHub. | [Website](https://osf.io) |
 | **Open Source Hardware Channel (PLoS One)**  | Currated List for Open Hardware projects in science (Tom Baden et al.). | [PLoS One](https://journals.plos.org/plosone/browse/open_source_hardware) |
