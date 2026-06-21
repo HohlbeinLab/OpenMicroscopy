@@ -11,7 +11,7 @@
 | **CARE** |Denoising that enables low-photon dose imaging using neural networks. | [Weigert2018](https://doi.org/10.1038/s41592-018-0216-7). [GitHub](https://github.com/CSBDeep/CSBDeep)
 | **Clij** | GPU-accelerated image processing.|[Haase2020](https://www.nature.com/articles/s41592-019-0650-1) [GitHub](https://clij.github.io/)
 | **Cellpose** | Cell segmentation.  |[Stringer2021](https://doi.org/10.1038/s41592-020-01018-x), [GitHub](https://github.com/MouseLand/cellpose)
-| **CellProfiler** | Image Processing for high-throughput imaging. Carpenter lab. Version 3.0.| [Website](https://cellprofiler.org/) | [McQuin2018](https://doi.org/10.1371/journal.pbio.2005970)
+| **CellProfiler** | Image Processing for high-throughput imaging. Carpenter lab. Version 3.0.| [Website](https://cellprofiler.org/), [McQuin2018](https://doi.org/10.1371/journal.pbio.2005970) |
 | **Cluster analysis for SMLM data** | Software packages for cluster identification and analysis by Owen lab | [Rubin-Delanchy2015](https://doi.org/10.1038/nmeth.3612)
 | **ColiCoords** | Python-based software for creating a coordinate system in segmented rod-shaped cells for the alignment and aggregation of many cells. | [Smit2019](https://doi.org/10.1371/journal.pone.0217524), [GitHub](https://github.com/Jhsmit/ColiCoords)
 | **CSBdeep** | Deep Learning platform for ImageJ/Fiji| [Website](https://csbdeep.bioimagecomputing.com/)
@@ -28,7 +28,7 @@
 | **FRET community software list** | A collection of software for the analysis of single-molecule FRET experiments of all kinds. | [Website](https://www.fret.community/software/)
 | **GlobalBioIm** | A unifying Matlab framework for the development of reconstruction algorithms in computational imaging. | [Website](https://biomedical-imaging-group.github.io/GlobalBioIm/), [Soubies2019](https://iopscience.iop.org/article/10.1088/1361-6420/ab2ae9), [GitHub](https://github.com/Biomedical-Imaging-Group/GlobalBioIm)
 | **ilastik** | Pixel and object classification using machine learning.  |[Berg2019](https://doi.org/10.1038/s41592-019-0582-9), [Website](https://www.ilastik.org/), [GitHub](https://github.com/ilastik/ilastik)
-| **ImJoy** | Browser- and plugin-based image processing and machine learning. Lundberg lab and Zimmer lab. | [Ouyang2019](https://doi.org/10.1038/s41592-019-0627-0), [Website](http://imjjoy.io/)
+| **ImJoy** | Browser- and plugin-based image processing and machine learning. Lundberg lab and Zimmer lab. | [Ouyang2019](https://doi.org/10.1038/s41592-019-0627-0), [Website](https://imjoy.io/)
 | **ImSwitch**  | Python-based microscopy control software, Plug-and-Play. Testa lab.| [CasasMoreno2021](https://doi.org/10.21105/joss.03394), [GitHub](https://github.com/kasasxav/ImSwitch)
 | **Inverse Modelling** | All kinds of software projects that perform inverse modelling, deconvolution, lightfield microscopy, optical wave simulation, etc.; Code in Python, Matlab. Waller lab. |[GitHub](https://github.com/Waller-Lab)
 | **Labthings** | Internet-of-Things-based Hardware control (e.g. Microcontrolers) | [GitHub](https://github.com/labthings/python-labthings)|
@@ -37,7 +37,7 @@
 | **LocMoFit** | LocMoFit is a framework to fit SMLM data with geometric models. It comes as a plugin of SMAP (see below). Ries Lab. | [Wu2021](https://www.biorxiv.org/lookup/doi/10.1101/2021.08.30.456756), [GitHub](https://github.com/jries/SMAP)
 | **MDEmic** | A metadata annotation tool to facilitate management of FAIR image data in the bioimaging community. |[Kunis2021](https://doi.org/10.1038/s41592-021-01288-z), [GitHub](https://github.com/ome/omero-insight)|
 | **microEye** | A python toolkit for data acquisition within one graphical user interface and accessing tiff images and perform localization analysis. It also allows for visualizing the filtering-localization process WYSIWYG. | [GitHub](https://github.com/samhitech/microEye)|
-| **micromanager** | Microscope-Control Software with a large user and hardware plugin community |[Edelstein2010]( https://doi.org/10.1002/0471142727.mb1420s92), [Website](https://micro-manager.org/)
+| **micromanager** | Microscope-Control Software with a large user and hardware plugin community |[Edelstein2010](https://doi.org/10.1002/0471142727.mb1420s92), [Website](https://micro-manager.org/)
 | **mcSIM** | Code for designing, analyzing, and carrying out multicolor structured illumination microscopy experiments. Additional tools for digital micromirror device SIM (DMD-SIM), including DMD simulation code, DMD pattern generation, SIM reconstruction and instrument control. (Python and Java) |[Brown2021](https://doi.org/10.1364/BOE.422703), [GitHub](https://github.com/QI2lab/mcSIM)
 | **Multi-view deconvolution** | Real-time multi-view deconvolution for lightsheet microscopy. Huisken lab. | [Schmid2015](https://doi.org/10.1093/bioinformatics/btv387) |
 | **NanoImagingPack** | Various functions to simulate optical imaging in microscopy; 3D, Polarization, Wave propagation, etc. Python|[GitLab](https://gitlab.com/bionanoimaging/nanoimagingpack)
@@ -48,7 +48,7 @@
 | **Omega** | Omega — harnessing the power of large language models for bioimage analysis | [Royer2024](https://doi.org/10.1038/s41592-024-02310-w), [GitHub](https://github.com/royerlab/napari-chatgpt)
 | **OpenFlexure Server** | Internet-of-things based microscopy control (Raspberry Pi) | [Website](http://openflexure.org/), [GitLab](https://gitlab.com/openflexure/openflexure-microscope-server) |
 | **Open Microscopy Environment** | Open Microscopy Environment, OME) is a consortium of universities, research labs, industry and developers producing open-source software and format standards for microscopy data. | [Website](https://www.openmicroscopy.org/) |
-| **snouty-OPM** | Control and analysis code for OPM using a solid immersion tertiary objective (aka Mr. Snouty). (Python and Java) | [Sapoznik2020] (https://elifesciences.org/articles/57681) | [GitHub](https://github.com/QI2lab/OPM) |
+| **snouty-OPM** | Control and analysis code for OPM using a solid immersion tertiary objective (aka Mr. Snouty). (Python and Java) | [Sapoznik2020](https://elifesciences.org/articles/57681), [GitHub](https://github.com/QI2lab/OPM) |
 | **PAM** | PIE analysis in MATLAB - Analysis software for point or image fluorescence experiments using pulsed-interleaved excitation. Single-molecule FRET, FCS, ICS, PhasorFLIM. | [Schrimpf2018](https://doi.org/10.1016/j.bpj.2018.02.035), [Website](https://gitlab.com/PAM-PIE/PAM)
 | **PERPL** | Structure-based modelling of microscopy data |[Curd2021](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.0c03332), [BitBucket](https://bitbucket.org/apcurd/perpl-python3/src/master/)
 | **Picasso** | Python-based analysis software for single-molecule localisation microscopy. Jungmann lab. |[SchnitzbauerStrauss2017](https://doi.org/10.1038/nprot.2017.024), [GitHub](https://github.com/jungmannlab/picasso)
