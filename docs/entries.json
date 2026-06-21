@@ -3417,15 +3417,11 @@
   },
   {
     "name": "Hohlbein lab",
-    "description": "Johannes Hohlbein. Single-molecule stuff. Wageningen University & Research, the Netherlands.",
+    "description": "Johannes Hohlbein. Single-molecule stuff. BTU Cottbus-Senftenberg, Germany & Wageningen University & Research, the Netherlands.",
     "links": [
       {
         "label": "Homepage",
-        "url": "https://jhohlbein.com/"
-      },
-      {
-        "label": "Open Science",
-        "url": "https://jhohlbein.com/openscience/"
+        "url": "https://www.b-tu.de/en/fg-biosensorik/page"
       },
       {
         "label": "GitHub",
