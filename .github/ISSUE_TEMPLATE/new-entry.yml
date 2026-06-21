@@ -1,0 +1,44 @@
+name: Suggest a new entry
+description: Propose a new open-microscopy resource for the index.
+title: "New entry: "
+labels: ["new-entry"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for contributing! Fill in the fields below and a maintainer will review your suggestion.
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      placeholder: e.g. OpenFlexure Microscope
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Software
+        - Hardware
+        - Repositories (data & protocols)
+        - Labs and people
+        - CAD tools
+        - Forums / learning resources
+        - Other / not sure
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      placeholder: One or two sentences on what it is.
+    validations:
+      required: true
+  - type: input
+    id: links
+    attributes:
+      label: Link(s)
+      placeholder: "https://…  (paper DOI, GitHub, website — comma-separate several)"
+    validations:
+      required: false

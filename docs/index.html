@@ -6,7 +6,6 @@
 <title>Open Microscopy — Resource Index</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/7.0.0/fuse.min.js"></script>
 <style>
   :root{
     --ink:#1b2421;
@@ -32,12 +31,12 @@
   /* ---------- header ---------- */
   header{
     border-bottom:1px solid var(--line);
-    padding:2.25rem 1.5rem 1.5rem;
+    padding:2.25rem 0 1.5rem;
     background:
-      radial-gradient(circle at 18px 18px, var(--accent) 0 2px, transparent 2.2px) 0 0/36px 36px,
+      radial-gradient(circle at 18px 18px, #d3d0c5 0 2px, transparent 2.2px) 0 0/36px 36px,
       var(--paper);
   }
-  .header-inner{max-width:1080px;margin:0 auto;}
+  .header-inner{max-width:1080px;margin:0 auto;padding:0 1.5rem;}
   .eyebrow{
     font-family:var(--mono);
     font-size:.72rem;
@@ -62,6 +61,21 @@
     font-size:.98rem;
   }
   header p.sub a{color:var(--accent-strong);font-weight:600;text-decoration:none;border-bottom:1px solid var(--accent);}
+  .header-cta{margin:.9rem 0 0;}
+  .header-cta a{
+    display:inline-block;
+    font-family:var(--mono);
+    font-size:.82rem;
+    letter-spacing:.02em;
+    color:#fff;
+    background:var(--accent-strong);
+    border:1px solid var(--accent-strong);
+    padding:.45rem .8rem;
+    border-radius:6px;
+    text-decoration:none;
+    transition:background .15s, border-color .15s;
+  }
+  .header-cta a:hover{background:var(--accent);border-color:var(--accent);}
 
   /* ---------- controls ---------- */
   .controls{
@@ -143,9 +157,8 @@
   }
   .card:hover{border-color:var(--accent);}
   .card-cat{
-    position:absolute;
-    top:.85rem;
-    right:1rem;
+    display:inline-block;
+    align-self:flex-start;
     font-family:var(--mono);
     font-size:.65rem;
     text-transform:uppercase;
@@ -154,11 +167,11 @@
     background:var(--accent-soft);
     padding:.15rem .45rem;
     border-radius:4px;
+    margin:0 0 .55rem;
   }
   .card h3{
     margin:0 0 .4rem;
     font-size:1.02rem;
-    padding-right:5.5rem;
     font-weight:600;
   }
   .card p{
@@ -206,6 +219,61 @@
     border-radius:2px;
   }
 
+  /* ---------- suggest form ---------- */
+  .suggest{
+    max-width:1080px;
+    margin:0 auto;
+    padding:0 1.5rem 2rem;
+  }
+  .suggest-inner{
+    background:var(--paper-raised);
+    border:1px solid var(--line);
+    border-radius:8px;
+    padding:1.3rem 1.4rem;
+  }
+  .suggest h2{margin:0 0 .3rem;font-size:1.15rem;font-weight:700;}
+  .suggest p.hint{margin:0 0 1.1rem;font-size:.86rem;color:#52584f;}
+  .suggest form{display:grid;gap:.8rem;}
+  .suggest label{
+    display:flex;
+    flex-direction:column;
+    gap:.3rem;
+    font-family:var(--mono);
+    font-size:.72rem;
+    letter-spacing:.05em;
+    text-transform:uppercase;
+    color:#5b6058;
+  }
+  .suggest input,.suggest select,.suggest textarea{
+    font-family:var(--sans);
+    font-size:.95rem;
+    text-transform:none;
+    letter-spacing:normal;
+    color:var(--ink);
+    padding:.6rem .7rem;
+    border:1px solid var(--line);
+    border-radius:6px;
+    background:var(--paper);
+  }
+  .suggest textarea{min-height:4.5rem;resize:vertical;}
+  .suggest input:focus,.suggest select:focus,.suggest textarea:focus{
+    outline:none;border-color:var(--accent);box-shadow:0 0 0 3px var(--accent-soft);
+  }
+  .suggest button{
+    justify-self:start;
+    font-family:var(--mono);
+    font-size:.82rem;
+    letter-spacing:.03em;
+    padding:.6rem 1.1rem;
+    border:1px solid var(--accent-strong);
+    border-radius:6px;
+    background:var(--accent-strong);
+    color:#fff;
+    cursor:pointer;
+    transition:background .15s, border-color .15s;
+  }
+  .suggest button:hover{background:var(--accent);border-color:var(--accent);}
+
   footer{
     border-top:1px solid var(--line);
     padding:1.6rem 1.5rem 3rem;
@@ -234,7 +302,8 @@
     <div class="eyebrow"><span class="dot"></span>HohlbeinLab / OpenMicroscopy — prototype index</div>
     <h1>Open Microscopy resources</h1>
     <p class="sub">A searchable index of open-source software, hardware, repositories, labs, and learning
-      resources for microscopy. Source data lives in <a href="https://github.com/HohlbeinLab/OpenMicroscopy" target="_blank" rel="noopener">the GitHub repo</a> — contribute there, or via the form on this site.</p>
+      resources for microscopy. Source data lives in <a href="https://github.com/HohlbeinLab/OpenMicroscopy" target="_blank" rel="noopener">the GitHub repo</a> — contribute there, or via <a href="#suggest">the form on this site</a>.</p>
+    <p class="header-cta"><a href="#suggest">Suggest a new entry →</a></p>
   </div>
 </header>
 
@@ -251,16 +320,39 @@
   <div class="empty-state" id="empty" style="display:none;">No matching entries. Try a different term or clear filters.</div>
 </main>
 
+<section class="suggest" id="suggest">
+  <div class="suggest-inner">
+    <h2>Suggest an entry</h2>
+    <p class="hint">Fill this in and we'll open a pre-filled GitHub issue for you to review and submit. A free GitHub account is required.</p>
+    <form id="suggest-form">
+      <label>Name
+        <input name="name" type="text" required placeholder="e.g. OpenFlexure Microscope">
+      </label>
+      <label>Category
+        <select name="category" id="suggest-cat" required>
+          <option value="">Choose…</option>
+        </select>
+      </label>
+      <label>Description
+        <textarea name="description" required placeholder="One or two sentences on what it is."></textarea>
+      </label>
+      <label>Link(s)
+        <input name="links" type="text" placeholder="https://…  (paper DOI, GitHub, website — comma-separate several)">
+      </label>
+      <button type="submit">Open GitHub issue →</button>
+    </form>
+  </div>
+</section>
+
 <footer>
   <div class="inner">
     <p>Prototype build · data parsed from the project's markdown source · 263 entries</p>
-    <p><a href="https://github.com/HohlbeinLab/OpenMicroscopy/pulls" target="_blank" rel="noopener">Suggest an addition on GitHub →</a></p>
+    <p><a href="#suggest">Suggest an addition →</a></p>
   </div>
 </footer>
 
 <script>
 let DATA = [];
-let fuse = null;
 let activeCategory = null;
 
 const grid = document.getElementById('grid');
@@ -287,7 +379,12 @@ function render(){
   let results = DATA;
 
   if(query){
-    results = fuse.search(query).map(r => r.item);
+    // AND: an entry must contain every space-separated token (case-insensitive substring)
+    const tokens = query.toLowerCase().split(/\s+/).filter(Boolean);
+    results = DATA.filter(e => {
+      const hay = `${e.name} ${e.description} ${e.category}`.toLowerCase();
+      return tokens.every(t => hay.includes(t));
+    });
   }
   if(activeCategory){
     results = results.filter(e => e.categorySlug === activeCategory);
@@ -312,8 +409,8 @@ function render(){
     }
 
     card.innerHTML = `
-      <span class="card-cat">${escapeHtml(e.category)}</span>
       <h3>${highlight(e.name, query)}</h3>
+      <span class="card-cat">${escapeHtml(e.category)}</span>
       <p>${highlight(e.description, query)}</p>
       ${linksHtml ? `<div class="links">${linksHtml}</div>` : ''}
       ${attrsHtml}
@@ -357,14 +454,55 @@ function buildPills(){
 async function init(){
   const res = await fetch('entries.json');
   DATA = await res.json();
-  fuse = new Fuse(DATA, {
-    keys: ['name', 'description', 'category'],
-    threshold: 0.32,
-    ignoreLocation: true,
-  });
   buildPills();
+  buildSuggestCategories();
   render();
 }
+
+const REPO = 'HohlbeinLab/OpenMicroscopy';
+
+function buildSuggestCategories(){
+  const sel = document.getElementById('suggest-cat');
+  const seen = new Set();
+  for(const e of DATA){
+    if(e.category && !seen.has(e.category)){
+      seen.add(e.category);
+      const opt = document.createElement('option');
+      opt.value = e.category;
+      opt.textContent = e.category;
+      sel.appendChild(opt);
+    }
+  }
+  const other = document.createElement('option');
+  other.value = 'Other / not sure';
+  other.textContent = 'Other / not sure';
+  sel.appendChild(other);
+}
+
+document.getElementById('suggest-form').addEventListener('submit', (ev) => {
+  ev.preventDefault();
+  const data = new FormData(ev.target);
+  const name = (data.get('name') || '').trim();
+  const category = data.get('category') || '';
+  const description = (data.get('description') || '').trim();
+  const links = (data.get('links') || '').trim();
+
+  const title = `New entry: ${name}`;
+  const body = [
+    `**Name:** ${name}`,
+    `**Category:** ${category}`,
+    `**Description:** ${description}`,
+    links ? `**Link(s):** ${links}` : '',
+    '',
+    '_Submitted via the suggestion form on the resource site._',
+  ].filter(Boolean).join('\n');
+
+  const url = `https://github.com/${REPO}/issues/new`
+    + `?title=${encodeURIComponent(title)}`
+    + `&body=${encodeURIComponent(body)}`
+    + `&labels=new-entry`;
+  window.open(url, '_blank', 'noopener');
+});
 
 searchEl.addEventListener('input', render);
 init();
