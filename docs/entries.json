@@ -155,6 +155,10 @@
       {
         "label": "Website",
         "url": "https://cellprofiler.org/"
+      },
+      {
+        "label": "McQuin2018",
+        "url": "https://doi.org/10.1371/journal.pbio.2005970"
       }
     ],
     "category": "Software",
@@ -435,7 +439,7 @@
       },
       {
         "label": "Website",
-        "url": "http://imjjoy.io/"
+        "url": "https://imjoy.io/"
       }
     ],
     "category": "Software",
@@ -736,7 +740,16 @@
   {
     "name": "snouty-OPM",
     "description": "Control and analysis code for OPM using a solid immersion tertiary objective (aka Mr. Snouty). (Python and Java)",
-    "links": [],
+    "links": [
+      {
+        "label": "Sapoznik2020",
+        "url": "https://elifesciences.org/articles/57681"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/QI2lab/OPM"
+      }
+    ],
     "category": "Software",
     "categorySlug": "software",
     "id": 46
@@ -1605,8 +1618,8 @@
     "description": "LEGO(R)-based Light sheet microscopy.",
     "links": [
       {
-        "label": "Website",
-        "url": "http://legolish.org/"
+        "label": "Website (offline)",
+        "url": "https://legolish.org/"
       }
     ],
     "category": "Hardware",
@@ -1794,8 +1807,12 @@
     "description": "Democratising “Microscopi”: a 3D printed automated XYZT fluorescence imaging system for teaching, outreach and fieldwork",
     "links": [
       {
-        "label": "Wincott2020",
-        "url": "https://www.biorxiv.org/content/10.1101/2020.05.21.108894v1"
+        "label": "Wincott2022",
+        "url": "https://doi.org/10.12688/wellcomeopenres.16536.2"
+      },
+      {
+        "label": "Components and Assembly",
+        "url": "https://zenodo.org/records/3701603"
       }
     ],
     "category": "Hardware",
@@ -2113,11 +2130,7 @@
     "links": [
       {
         "label": "Website",
-        "url": "https://www.openocular.com/"
-      },
-      {
-        "label": "Thingiverse",
-        "url": "https://www.openocular.com/"
+        "url": "https://www.thingiverse.com/OpenOcular/designs"
       }
     ],
     "category": "Hardware",
@@ -2226,6 +2239,10 @@
       {
         "label": "Liu2025",
         "url": "https://doi.org/10.1016/j.ohx.2024.e00622"
+      },
+      {
+        "label": "Zenodo",
+        "url": "https://zenodo.org/records/14536403"
       }
     ],
     "category": "Hardware",
@@ -2237,7 +2254,11 @@
     "description": "pgFocus is an open source and open hardware, for noncommercial use, focus stabilization device developed by Karl Bellvé.",
     "links": [
       {
-        "label": "Wiki",
+        "label": "Bellve2014",
+        "url": "https://doi.org/10.1016/j.bpj.2013.11.3354"
+      },
+      {
+        "label": "Wiki (offline)",
         "url": "http://big.umassmed.edu/wiki/index.php/PgFocus"
       }
     ],
@@ -2252,6 +2273,10 @@
       {
         "label": "Victoria2021",
         "url": "https://doi.org/10.1038/s42003-021-02779-7"
+      },
+      {
+        "label": "Github",
+        "url": "https://github.com/braingeneers/picroscope-supplement"
       }
     ],
     "category": "Hardware",
@@ -2295,6 +2320,14 @@
       {
         "label": "Rahmani2024",
         "url": "https://doi.org/10.1364/OE.520845"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/PonjavicLab/PiFocus"
+      },
+      {
+        "label": "Zenodo",
+        "url": "https://zenodo.org/records/10726263"
       }
     ],
     "category": "Hardware",
@@ -2792,7 +2825,7 @@
     "description": "All the facts about objective lenses in one page",
     "links": [
       {
-        "label": "https://openorganelle.janelia.org/",
+        "label": "Website",
         "url": "https://amsikking.github.io/microscope_objectives/"
       }
     ],
@@ -2910,7 +2943,7 @@
     "links": [
       {
         "label": "Website",
-        "url": "https://www.ebi.ac.uk/empiar/"
+        "url": "https://www.coursera.org/"
       }
     ],
     "category": "Forums, learning resources & databases",
@@ -2992,7 +3025,7 @@
     "links": [
       {
         "label": "Website",
-        "url": "https://gerbi-gmb.de/about-us"
+        "url": "https://gerbi-gmb.de/"
       }
     ],
     "category": "Forums, learning resources & databases",
@@ -3026,19 +3059,6 @@
     "id": 198
   },
   {
-    "name": "ImagingONEWORLD",
-    "description": "Weekly microscopy talks.",
-    "links": [
-      {
-        "label": "Website",
-        "url": "https://www.rms.org.uk/network-collaborate/imaging-oneworld-series.html"
-      }
-    ],
-    "category": "Forums, learning resources & databases",
-    "categorySlug": "forums",
-    "id": 199
-  },
-  {
     "name": "image.sc",
     "description": "Forum dedicated to imaging in the broadest sense.",
     "links": [
@@ -3049,7 +3069,7 @@
     ],
     "category": "Forums, learning resources & databases",
     "categorySlug": "forums",
-    "id": 200
+    "id": 199
   },
   {
     "name": "Marine Biological Laboratory (MBL)",
@@ -3062,7 +3082,7 @@
     ],
     "category": "Forums, learning resources & databases",
     "categorySlug": "forums",
-    "id": 201
+    "id": 200
   },
   {
     "name": "Microlist",
@@ -3075,7 +3095,7 @@
     ],
     "category": "Forums, learning resources & databases",
     "categorySlug": "forums",
-    "id": 202
+    "id": 201
   },
   {
     "name": "MyScope training",
@@ -3083,12 +3103,12 @@
     "links": [
       {
         "label": "Website",
-        "url": "https://www.ebi.ac.uk/bioimage-archive/submit/"
+        "url": "https://myscope.training/"
       }
     ],
     "category": "Forums, learning resources & databases",
     "categorySlug": "forums",
-    "id": 203
+    "id": 202
   },
   {
     "name": "Nikon MicroscopyU",
@@ -3101,7 +3121,7 @@
     ],
     "category": "Forums, learning resources & databases",
     "categorySlug": "forums",
-    "id": 204
+    "id": 203
   },
   {
     "name": "Olympus microscopy",
@@ -3114,7 +3134,7 @@
     ],
     "category": "Forums, learning resources & databases",
     "categorySlug": "forums",
-    "id": 205
+    "id": 204
   },
   {
     "name": "Open Neuroscience",
@@ -3127,7 +3147,7 @@
     ],
     "category": "Forums, learning resources & databases",
     "categorySlug": "forums",
-    "id": 206
+    "id": 205
   },
   {
     "name": "OpenFlexure Forum",
@@ -3140,7 +3160,7 @@
     ],
     "category": "Forums, learning resources & databases",
     "categorySlug": "forums",
-    "id": 207
+    "id": 206
   },
   {
     "name": "Women in Microscopy",
@@ -3153,7 +3173,7 @@
     ],
     "category": "Forums, learning resources & databases",
     "categorySlug": "forums",
-    "id": 208
+    "id": 207
   },
   {
     "name": "Zeiss microscopy",
@@ -3166,7 +3186,7 @@
     ],
     "category": "Forums, learning resources & databases",
     "categorySlug": "forums",
-    "id": 209
+    "id": 208
   },
   {
     "name": "BiA-PoL",
@@ -3174,7 +3194,7 @@
     "links": [
       {
         "label": "Homepage",
-        "url": "https://physics-of-life.tu-dresden.de/bia"
+        "url": "https://haesleinhuepf.github.io/"
       },
       {
         "label": "Blog",
@@ -3195,7 +3215,7 @@
     ],
     "category": "Labs and people",
     "categorySlug": "labs",
-    "id": 210
+    "id": 209
   },
   {
     "name": "Bio Foundaries",
@@ -3208,7 +3228,7 @@
     ],
     "category": "Labs and people",
     "categorySlug": "labs",
-    "id": 211
+    "id": 210
   },
   {
     "name": "Carpenter-Singh lab",
@@ -3219,13 +3239,13 @@
         "url": "https://carpenter-singh-lab.broadinstitute.org"
       },
       {
-        "label": "Open science",
-        "url": "https://carpenter-singh-lab.broadinstitute.org/community-organizingopen-science"
+        "label": "Software and Code",
+        "url": "https://carpenter-singh-lab.broadinstitute.org/software_and_code"
       }
     ],
     "category": "Labs and people",
     "categorySlug": "labs",
-    "id": 212
+    "id": 211
   },
   {
     "name": "Danuser lab",
@@ -3242,6 +3262,23 @@
       {
         "label": "GitHub",
         "url": "https://github.com/DanuserLab"
+      }
+    ],
+    "category": "Labs and people",
+    "categorySlug": "labs",
+    "id": 212
+  },
+  {
+    "name": "Dean lab",
+    "description": "Kevin Dean. Department of Cell Biology. UT Southwestern Medical Center.",
+    "links": [
+      {
+        "label": "Homepage",
+        "url": "https://www.dean-lab.org/"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/TheDeanLab/"
       }
     ],
     "category": "Labs and people",
@@ -3270,7 +3307,7 @@
       },
       {
         "label": "FLIMJ",
-        "url": "https://github.com/flimlib/flimj"
+        "url": "https://github.com/flimlib/flimj-ui"
       },
       {
         "label": "PyImageJ",
@@ -3439,11 +3476,7 @@
     "links": [
       {
         "label": "Homepage",
-        "url": "https://henriqueslab.github.io/"
-      },
-      {
-        "label": "Resources",
-        "url": "https://henriqueslab.github.io/resources/"
+        "url": "https://henriqueslab.org/"
       },
       {
         "label": "GitHub",
@@ -3460,7 +3493,7 @@
     "links": [
       {
         "label": "Homepage",
-        "url": "https://blogs.ncl.ac.uk/holdenlab/"
+        "url": "https://holdenlab.github.io/"
       },
       {
         "label": "GitHub",
@@ -3489,23 +3522,6 @@
     "id": 225
   },
   {
-    "name": "Microscopy Innovation Lab",
-    "description": "Kevin Dean. Department of Cell Biology. UT Southwestern Medical Center.",
-    "links": [
-      {
-        "label": "Homepage",
-        "url": "https://www.utsouthwestern.edu/research/core-facilities/microscopy-innovation/about.html"
-      },
-      {
-        "label": "GitHub",
-        "url": "https://github.com/AdvancedImagingUTSW"
-      }
-    ],
-    "category": "Labs and people",
-    "categorySlug": "labs",
-    "id": 226
-  },
-  {
     "name": "NeuroCyto Lab",
     "description": "Christophe Leterrier. NeuroCyto: the neuronal cytoskeleton in physiology and disease. INP, CNRS-Aix Marseille University, France.",
     "links": [
@@ -3520,7 +3536,7 @@
     ],
     "category": "Labs and people",
     "categorySlug": "labs",
-    "id": 227
+    "id": 226
   },
   {
     "name": "Prakash lab",
@@ -3528,7 +3544,7 @@
     "links": [
       {
         "label": "Homepage",
-        "url": "https://web.stanford.edu/group/prakash-lab/cgi-bin/labsite/"
+        "url": "https://prakashlab.stanford.edu/"
       },
       {
         "label": "GitHub",
@@ -3537,7 +3553,7 @@
     ],
     "category": "Labs and people",
     "categorySlug": "labs",
-    "id": 228
+    "id": 227
   },
   {
     "name": "QI2 lab",
@@ -3554,7 +3570,7 @@
     ],
     "category": "Labs and people",
     "categorySlug": "labs",
-    "id": 229
+    "id": 228
   },
   {
     "name": "Ries lab",
@@ -3579,7 +3595,7 @@
     ],
     "category": "Labs and people",
     "categorySlug": "labs",
-    "id": 230
+    "id": 229
   },
   {
     "name": "Royer lab",
@@ -3596,7 +3612,7 @@
     ],
     "category": "Labs and people",
     "categorySlug": "labs",
-    "id": 231
+    "id": 230
   },
   {
     "name": "Sieben lab",
@@ -3613,7 +3629,7 @@
     ],
     "category": "Labs and people",
     "categorySlug": "labs",
-    "id": 232
+    "id": 231
   },
   {
     "name": "Testa lab",
@@ -3621,16 +3637,16 @@
     "links": [
       {
         "label": "Homepage",
-        "url": "http://www.testalab.org"
+        "url": "https://www.testalab.org"
       },
       {
         "label": "Tools",
-        "url": "http://www.testalab.org/tools.php"
+        "url": "https://www.testalab.org/tools.php"
       }
     ],
     "category": "Labs and people",
     "categorySlug": "labs",
-    "id": 233
+    "id": 232
   },
   {
     "name": "Tutkus lab",
@@ -3647,7 +3663,7 @@
     ],
     "category": "Labs and people",
     "categorySlug": "labs",
-    "id": 234
+    "id": 233
   },
   {
     "name": "Vicidomini lab",
@@ -3664,7 +3680,7 @@
     ],
     "category": "Labs and people",
     "categorySlug": "labs",
-    "id": 235
+    "id": 234
   },
   {
     "name": "Wählby lab",
@@ -3681,7 +3697,7 @@
     ],
     "category": "Labs and people",
     "categorySlug": "labs",
-    "id": 236
+    "id": 235
   },
   {
     "name": "Waller lab",
@@ -3706,7 +3722,7 @@
     ],
     "category": "Labs and people",
     "categorySlug": "labs",
-    "id": 237
+    "id": 236
   },
   {
     "name": "Wenzel lab",
@@ -3723,7 +3739,7 @@
     ],
     "category": "Labs and people",
     "categorySlug": "labs",
-    "id": 238
+    "id": 237
   },
   {
     "name": "York lab",
@@ -3740,7 +3756,7 @@
     ],
     "category": "Labs and people",
     "categorySlug": "labs",
-    "id": 239
+    "id": 238
   },
   {
     "name": "Zhao lab",
@@ -3757,7 +3773,7 @@
     ],
     "category": "Labs and people",
     "categorySlug": "labs",
-    "id": 240
+    "id": 239
   },
   {
     "name": "Fusion360",
@@ -3774,7 +3790,7 @@
     },
     "category": "CAD tools",
     "categorySlug": "cad-tools",
-    "id": 241
+    "id": 240
   },
   {
     "name": "Autodesk Inventor",
@@ -3791,7 +3807,7 @@
     },
     "category": "CAD tools",
     "categorySlug": "cad-tools",
-    "id": 242
+    "id": 241
   },
   {
     "name": "AutoCAD",
@@ -3808,7 +3824,7 @@
     },
     "category": "CAD tools",
     "categorySlug": "cad-tools",
-    "id": 243
+    "id": 242
   },
   {
     "name": "Solidworks",
@@ -3825,7 +3841,7 @@
     },
     "category": "CAD tools",
     "categorySlug": "cad-tools",
-    "id": 244
+    "id": 243
   },
   {
     "name": "RhinoCAD",
@@ -3842,7 +3858,7 @@
     },
     "category": "CAD tools",
     "categorySlug": "cad-tools",
-    "id": 245
+    "id": 244
   },
   {
     "name": "OpenSCAD",
@@ -3859,7 +3875,7 @@
     },
     "category": "CAD tools",
     "categorySlug": "cad-tools",
-    "id": 246
+    "id": 245
   },
   {
     "name": "FreeCAD",
@@ -3876,7 +3892,7 @@
     },
     "category": "CAD tools",
     "categorySlug": "cad-tools",
-    "id": 247
+    "id": 246
   },
   {
     "name": "Blender",
@@ -3893,7 +3909,7 @@
     },
     "category": "CAD tools",
     "categorySlug": "cad-tools",
-    "id": 248
+    "id": 247
   },
   {
     "name": "Tinkercad",
@@ -3910,7 +3926,7 @@
     },
     "category": "CAD tools",
     "categorySlug": "cad-tools",
-    "id": 249
+    "id": 248
   },
   {
     "name": "OnShape",
@@ -3927,7 +3943,7 @@
     },
     "category": "CAD tools",
     "categorySlug": "cad-tools",
-    "id": 250
+    "id": 249
   },
   {
     "name": "SketchUp",
@@ -3944,7 +3960,7 @@
     },
     "category": "CAD tools",
     "categorySlug": "cad-tools",
-    "id": 251
+    "id": 250
   },
   {
     "name": "Zenodo",
@@ -3958,10 +3974,10 @@
     },
     "category": "CAD tools",
     "categorySlug": "cad-tools",
-    "id": 252
+    "id": 251
   },
   {
-    "name": "Thinigverse",
+    "name": "Thingiverse",
     "description": "Purpose: Commercial platform to share 3D printing/laser-cutting designs. Relatively stable.; STL Previews: YES; Automation: NO; Link: Thingiverse",
     "links": [],
     "attributes": {
@@ -3972,7 +3988,7 @@
     },
     "category": "CAD tools",
     "categorySlug": "cad-tools",
-    "id": 253
+    "id": 252
   },
   {
     "name": "Fusion360",
@@ -3986,7 +4002,7 @@
     },
     "category": "CAD tools",
     "categorySlug": "cad-tools",
-    "id": 254
+    "id": 253
   },
   {
     "name": "GrabCAD",
@@ -4000,7 +4016,7 @@
     },
     "category": "CAD tools",
     "categorySlug": "cad-tools",
-    "id": 255
+    "id": 254
   },
   {
     "name": "Yeggi",
@@ -4014,7 +4030,7 @@
     },
     "category": "CAD tools",
     "categorySlug": "cad-tools",
-    "id": 256
+    "id": 255
   },
   {
     "name": "GitLab",
@@ -4028,7 +4044,7 @@
     },
     "category": "CAD tools",
     "categorySlug": "cad-tools",
-    "id": 257
+    "id": 256
   },
   {
     "name": "GitHub",
@@ -4042,7 +4058,7 @@
     },
     "category": "CAD tools",
     "categorySlug": "cad-tools",
-    "id": 258
+    "id": 257
   },
   {
     "name": "NIH 3D printing database",
@@ -4056,7 +4072,7 @@
     },
     "category": "CAD tools",
     "categorySlug": "cad-tools",
-    "id": 259
+    "id": 258
   },
   {
     "name": "Printables",
@@ -4070,7 +4086,7 @@
     },
     "category": "CAD tools",
     "categorySlug": "cad-tools",
-    "id": 260
+    "id": 259
   },
   {
     "name": "Ondsel lens",
@@ -4084,7 +4100,7 @@
     },
     "category": "CAD tools",
     "categorySlug": "cad-tools",
-    "id": 261
+    "id": 260
   },
   {
     "name": "OnShape",
@@ -4098,6 +4114,6 @@
     },
     "category": "CAD tools",
     "categorySlug": "cad-tools",
-    "id": 262
+    "id": 261
   }
 ]
