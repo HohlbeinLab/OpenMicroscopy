@@ -51,6 +51,40 @@
     "id": 2
   },
   {
+    "name": "BigDataViewer",
+    "description": "Visualization and processing of large, multi-terabyte image datasets; a foundational viewer across the Fiji/ImgLib2 ecosystem.",
+    "links": [
+      {
+        "label": "Pietzsch2015",
+        "url": "https://doi.org/10.1038/nmeth.3392"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/bigdataviewer/bigdataviewer-core"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 3
+  },
+  {
+    "name": "BigStitcher",
+    "description": "Reconstruction and stitching of high-resolution, multi-tile light-sheet and cleared/expanded sample datasets.",
+    "links": [
+      {
+        "label": "Hörl2019",
+        "url": "https://doi.org/10.1038/s41592-019-0501-0"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/JaneliaSciComp/BigStitcher"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 4
+  },
+  {
     "name": "Biobeam",
     "description": "Biobeam—Multiplexed wave-optical simulations of light-sheet microscopy (Python)",
     "links": [
@@ -65,7 +99,7 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 3
+    "id": 5
   },
   {
     "name": "Bio Image Book",
@@ -78,7 +112,7 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 4
+    "id": 6
   },
   {
     "name": "Bright-Eyes MCS",
@@ -95,7 +129,24 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 5
+    "id": 7
+  },
+  {
+    "name": "CaImAn",
+    "description": "Scalable toolbox for calcium-imaging analysis: motion correction, source extraction, spike deconvolution.",
+    "links": [
+      {
+        "label": "Giovannucci2019",
+        "url": "https://doi.org/10.7554/eLife.38173"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/flatironinstitute/CaImAn"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 8
   },
   {
     "name": "CARE",
@@ -112,7 +163,7 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 6
+    "id": 9
   },
   {
     "name": "Clij",
@@ -129,7 +180,7 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 7
+    "id": 10
   },
   {
     "name": "Cellpose",
@@ -146,7 +197,7 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 8
+    "id": 11
   },
   {
     "name": "CellProfiler",
@@ -163,7 +214,7 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 9
+    "id": 12
   },
   {
     "name": "Cluster analysis for SMLM data",
@@ -176,7 +227,7 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 10
+    "id": 13
   },
   {
     "name": "ColiCoords",
@@ -193,7 +244,7 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 11
+    "id": 14
   },
   {
     "name": "CSBdeep",
@@ -206,7 +257,7 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 12
+    "id": 15
   },
   {
     "name": "DECODE",
@@ -223,7 +274,7 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 13
+    "id": 16
   },
   {
     "name": "Deconvolution and multiview",
@@ -240,7 +291,24 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 14
+    "id": 17
+  },
+  {
+    "name": "DeepCell / Mesmer",
+    "description": "Deep-learning library for single-cell and whole-cell segmentation of tissue images. Van Valen lab.",
+    "links": [
+      {
+        "label": "Greenwald2022",
+        "url": "https://doi.org/10.1038/s41587-021-01094-0"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/vanvalenlab/deepcell-tf"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 18
   },
   {
     "name": "Deepthought",
@@ -257,7 +325,7 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 15
+    "id": 19
   },
   {
     "name": "DL4MicEverywhere",
@@ -274,7 +342,7 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 16
+    "id": 20
   },
   {
     "name": "Eigenpsf-extractor",
@@ -287,7 +355,7 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 17
+    "id": 21
   },
   {
     "name": "EMU",
@@ -304,7 +372,7 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 18
+    "id": 22
   },
   {
     "name": "fairSIM",
@@ -325,7 +393,7 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 19
+    "id": 23
   },
   {
     "name": "Fiji",
@@ -342,7 +410,7 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 20
+    "id": 24
   },
   {
     "name": "FlexSIM",
@@ -359,7 +427,7 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 21
+    "id": 25
   },
   {
     "name": "FluorescenceTools",
@@ -372,7 +440,7 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 22
+    "id": 26
   },
   {
     "name": "FRET community software list",
@@ -385,7 +453,7 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 23
+    "id": 27
   },
   {
     "name": "GlobalBioIm",
@@ -406,7 +474,7 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 24
+    "id": 28
   },
   {
     "name": "ilastik",
@@ -427,7 +495,7 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 25
+    "id": 29
   },
   {
     "name": "ImJoy",
@@ -444,7 +512,7 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 26
+    "id": 30
   },
   {
     "name": "ImSwitch",
@@ -461,7 +529,7 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 27
+    "id": 31
   },
   {
     "name": "Inverse Modelling",
@@ -474,7 +542,7 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 28
+    "id": 32
   },
   {
     "name": "Labthings",
@@ -487,7 +555,7 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 29
+    "id": 33
   },
   {
     "name": "LIVECell",
@@ -500,7 +568,7 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 30
+    "id": 34
   },
   {
     "name": "localize-psf",
@@ -513,7 +581,7 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 31
+    "id": 35
   },
   {
     "name": "LocMoFit",
@@ -530,7 +598,7 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 32
+    "id": 36
   },
   {
     "name": "MDEmic",
@@ -547,7 +615,24 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 33
+    "id": 37
+  },
+  {
+    "name": "micro-sam",
+    "description": "Segment Anything adapted for microscopy: interactive and automatic segmentation and tracking across modalities.",
+    "links": [
+      {
+        "label": "Archit2025",
+        "url": "https://doi.org/10.1038/s41592-024-02580-4"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/computational-cell-analytics/micro-sam"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 38
   },
   {
     "name": "microEye",
@@ -560,7 +645,7 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 34
+    "id": 39
   },
   {
     "name": "micromanager",
@@ -577,7 +662,7 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 35
+    "id": 40
   },
   {
     "name": "mcSIM",
@@ -594,7 +679,24 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 36
+    "id": 41
+  },
+  {
+    "name": "MorphoLibJ",
+    "description": "Integrated library and ImageJ/Fiji plugins for mathematical morphology — filtering, segmentation, measurements.",
+    "links": [
+      {
+        "label": "Legland2016",
+        "url": "https://doi.org/10.1093/bioinformatics/btw413"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/ijpb/MorphoLibJ"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 42
   },
   {
     "name": "Multi-view deconvolution",
@@ -607,7 +709,7 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 37
+    "id": 43
   },
   {
     "name": "NanoImagingPack",
@@ -620,7 +722,7 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 38
+    "id": 44
   },
   {
     "name": "NanoJ-SQUIRREL",
@@ -637,7 +739,7 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 39
+    "id": 45
   },
   {
     "name": "Napari",
@@ -654,7 +756,7 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 40
+    "id": 46
   },
   {
     "name": "Noise2Void",
@@ -671,7 +773,7 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 41
+    "id": 47
   },
   {
     "name": "ODT-LS",
@@ -688,7 +790,7 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 42
+    "id": 48
   },
   {
     "name": "Omega",
@@ -705,7 +807,24 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 43
+    "id": 49
+  },
+  {
+    "name": "Omnipose",
+    "description": "Morphology-independent deep-learning segmentation, robust for elongated and bacterial cells.",
+    "links": [
+      {
+        "label": "Cutler2022",
+        "url": "https://doi.org/10.1038/s41592-022-01639-4"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/kevinjohncutler/omnipose"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 50
   },
   {
     "name": "OpenFlexure Server",
@@ -722,7 +841,7 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 44
+    "id": 51
   },
   {
     "name": "Open Microscopy Environment",
@@ -735,7 +854,7 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 45
+    "id": 52
   },
   {
     "name": "snouty-OPM",
@@ -752,7 +871,7 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 46
+    "id": 53
   },
   {
     "name": "PAM",
@@ -769,7 +888,7 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 47
+    "id": 54
   },
   {
     "name": "PERPL",
@@ -786,7 +905,7 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 48
+    "id": 55
   },
   {
     "name": "Picasso",
@@ -803,7 +922,7 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 49
+    "id": 56
   },
   {
     "name": "Phasor-based SMLM",
@@ -820,7 +939,7 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 50
+    "id": 57
   },
   {
     "name": "pycro-manager",
@@ -837,7 +956,7 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 51
+    "id": 58
   },
   {
     "name": "PyFocus",
@@ -854,7 +973,7 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 52
+    "id": 59
   },
   {
     "name": "PyLabLib",
@@ -867,7 +986,7 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 53
+    "id": 60
   },
   {
     "name": "PYME",
@@ -884,7 +1003,7 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 54
+    "id": 61
   },
   {
     "name": "Python Microscope",
@@ -897,7 +1016,7 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 55
+    "id": 62
   },
   {
     "name": "Mars",
@@ -914,7 +1033,7 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 56
+    "id": 63
   },
   {
     "name": "Microscope-Cockpit",
@@ -931,7 +1050,7 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 57
+    "id": 64
   },
   {
     "name": "navigate",
@@ -948,7 +1067,7 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 58
+    "id": 65
   },
   {
     "name": "Quantitative Phase Imaging Tools",
@@ -965,7 +1084,7 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 59
+    "id": 66
   },
   {
     "name": "QuPath",
@@ -982,7 +1101,7 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 60
+    "id": 67
   },
   {
     "name": "Ray-optics web app",
@@ -995,7 +1114,7 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 61
+    "id": 68
   },
   {
     "name": "SMAP",
@@ -1012,7 +1131,41 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 62
+    "id": 69
+  },
+  {
+    "name": "SNT",
+    "description": "Fiji toolbox for reconstruction, quantification, and visualization of neuronal anatomy.",
+    "links": [
+      {
+        "label": "Arshadi2021",
+        "url": "https://doi.org/10.1038/s41592-021-01105-7"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/morphonets/SNT"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 70
+  },
+  {
+    "name": "Spotiflow",
+    "description": "Accurate, robust deep-learning spot detection for fluorescence microscopy (FISH, single molecules). Weigert lab.",
+    "links": [
+      {
+        "label": "DominguezMantes2025",
+        "url": "https://doi.org/10.1038/s41592-025-02662-x"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/weigertlab/spotiflow"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 71
   },
   {
     "name": "StarDist",
@@ -1029,7 +1182,24 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 63
+    "id": 72
+  },
+  {
+    "name": "suite2p",
+    "description": "Pipeline for two-photon calcium imaging: registration, cell detection, and signal extraction. MouseLand.",
+    "links": [
+      {
+        "label": "Pachitariu2016",
+        "url": "https://doi.org/10.1101/061507"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/MouseLand/suite2p"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 73
   },
   {
     "name": "ThunderSTORM",
@@ -1046,7 +1216,28 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 64
+    "id": 74
+  },
+  {
+    "name": "TrackMate",
+    "description": "Widely used Fiji platform for single-particle tracking, with pluggable detectors/segmentation and trackers.",
+    "links": [
+      {
+        "label": "Tinevez2017",
+        "url": "https://doi.org/10.1016/j.ymeth.2016.09.016"
+      },
+      {
+        "label": "Ershov2022",
+        "url": "https://doi.org/10.1038/s41592-022-01507-1"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/trackmate-sc/TrackMate"
+      }
+    ],
+    "category": "Software",
+    "categorySlug": "software",
+    "id": 75
   },
   {
     "name": "Various",
@@ -1059,7 +1250,7 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 65
+    "id": 76
   },
   {
     "name": "Wave Blocks",
@@ -1072,7 +1263,7 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 66
+    "id": 77
   },
   {
     "name": "ZeroCostDL4Mic",
@@ -1089,7 +1280,7 @@
     ],
     "category": "Software",
     "categorySlug": "software",
-    "id": 67
+    "id": 78
   },
   {
     "name": "Free and open-source automated 3-D micro…",
@@ -1106,7 +1297,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 68
+    "id": 79
   },
   {
     "name": "3DSMLM",
@@ -1123,7 +1314,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 69
+    "id": 80
   },
   {
     "name": "AttoBright",
@@ -1140,7 +1331,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 70
+    "id": 81
   },
   {
     "name": "Autocollimator",
@@ -1153,7 +1344,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 71
+    "id": 82
   },
   {
     "name": "Beamerscope",
@@ -1170,7 +1361,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 72
+    "id": 83
   },
   {
     "name": "Brick-MIC",
@@ -1191,7 +1382,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 73
+    "id": 84
   },
   {
     "name": "Bright-Eyes TTM",
@@ -1208,7 +1399,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 74
+    "id": 85
   },
   {
     "name": "cellSTORM",
@@ -1225,7 +1416,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 75
+    "id": 86
   },
   {
     "name": "cellSTORM II",
@@ -1242,7 +1433,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 76
+    "id": 87
   },
   {
     "name": "Crossbill",
@@ -1259,7 +1450,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 77
+    "id": 88
   },
   {
     "name": "cryoscope",
@@ -1276,7 +1467,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 78
+    "id": 89
   },
   {
     "name": "DVD Laser Scanner Microscope",
@@ -1289,7 +1480,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 79
+    "id": 90
   },
   {
     "name": "descSPIM",
@@ -1306,7 +1497,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 80
+    "id": 91
   },
   {
     "name": "DIY Camera Test Bench",
@@ -1319,7 +1510,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 81
+    "id": 92
   },
   {
     "name": "DIY SDCM",
@@ -1332,7 +1523,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 82
+    "id": 93
   },
   {
     "name": "eduWOSM",
@@ -1349,7 +1540,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 83
+    "id": 94
   },
   {
     "name": "easySTORM",
@@ -1362,7 +1553,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 84
+    "id": 95
   },
   {
     "name": "eduSPIM",
@@ -1375,7 +1566,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 85
+    "id": 96
   },
   {
     "name": "EnderScope",
@@ -1392,7 +1583,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 86
+    "id": 97
   },
   {
     "name": "Entomoscope",
@@ -1409,7 +1600,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 87
+    "id": 98
   },
   {
     "name": "ESPressoscope",
@@ -1426,7 +1617,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 88
+    "id": 99
   },
   {
     "name": "fairSIM",
@@ -1443,7 +1634,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 89
+    "id": 100
   },
   {
     "name": "Filters for microscopy",
@@ -1460,7 +1651,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 90
+    "id": 101
   },
   {
     "name": "Fluorescent Imaging System",
@@ -1473,7 +1664,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 91
+    "id": 102
   },
   {
     "name": "FlyPi",
@@ -1486,7 +1677,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 92
+    "id": 103
   },
   {
     "name": "Foldscope",
@@ -1503,7 +1694,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 93
+    "id": 104
   },
   {
     "name": "Hackteria Microscopy",
@@ -1516,7 +1707,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 94
+    "id": 105
   },
   {
     "name": "HIT SIM",
@@ -1529,7 +1720,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 95
+    "id": 106
   },
   {
     "name": "High-throughput cell biology",
@@ -1546,7 +1737,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 96
+    "id": 107
   },
   {
     "name": "Incubation box",
@@ -1559,7 +1750,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 97
+    "id": 108
   },
   {
     "name": "Incubot",
@@ -1572,7 +1763,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 98
+    "id": 109
   },
   {
     "name": "Incustream",
@@ -1585,7 +1776,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 99
+    "id": 110
   },
   {
     "name": "Janelia Research Campus Tools and Innovations",
@@ -1598,7 +1789,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 100
+    "id": 111
   },
   {
     "name": "K2 TIRF",
@@ -1615,7 +1806,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 101
+    "id": 112
   },
   {
     "name": "Laser Engine",
@@ -1632,7 +1823,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 102
+    "id": 113
   },
   {
     "name": "LEGOLish",
@@ -1645,7 +1836,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 103
+    "id": 114
   },
   {
     "name": "LEMOLish",
@@ -1658,7 +1849,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 104
+    "id": 115
   },
   {
     "name": "LifeHack",
@@ -1671,7 +1862,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 105
+    "id": 116
   },
   {
     "name": "liteTIRF",
@@ -1688,7 +1879,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 106
+    "id": 117
   },
   {
     "name": "LITOS",
@@ -1705,7 +1896,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 107
+    "id": 118
   },
   {
     "name": "LSFM",
@@ -1718,7 +1909,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 108
+    "id": 119
   },
   {
     "name": "Luduscope",
@@ -1731,7 +1922,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 109
+    "id": 120
   },
   {
     "name": "MatchboxScope",
@@ -1744,7 +1935,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 110
+    "id": 121
   },
   {
     "name": "mcSIM",
@@ -1761,7 +1952,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 111
+    "id": 122
   },
   {
     "name": "M4All",
@@ -1774,7 +1965,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 112
+    "id": 123
   },
   {
     "name": "MEMS-SIM",
@@ -1791,7 +1982,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 113
+    "id": 124
   },
   {
     "name": "MesoSPIM",
@@ -1808,7 +1999,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 114
+    "id": 125
   },
   {
     "name": "Microbrew",
@@ -1821,7 +2012,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 115
+    "id": 126
   },
   {
     "name": "Microscopi",
@@ -1838,7 +2029,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 116
+    "id": 127
   },
   {
     "name": "MicroscoPY",
@@ -1851,7 +2042,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 117
+    "id": 128
   },
   {
     "name": "microFPGA",
@@ -1872,7 +2063,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 118
+    "id": 129
   },
   {
     "name": "miCube",
@@ -1889,7 +2080,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 119
+    "id": 130
   },
   {
     "name": "miEye",
@@ -1910,7 +2101,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 120
+    "id": 131
   },
   {
     "name": "Miniscope",
@@ -1931,7 +2122,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 121
+    "id": 132
   },
   {
     "name": "miniSPIM",
@@ -1944,7 +2135,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 122
+    "id": 133
   },
   {
     "name": "µCube",
@@ -1961,7 +2152,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 123
+    "id": 134
   },
   {
     "name": "NanoJ-fluidics",
@@ -1978,7 +2169,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 124
+    "id": 135
   },
   {
     "name": "NicoLase",
@@ -1995,7 +2186,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 125
+    "id": 136
   },
   {
     "name": "Octopi",
@@ -2012,7 +2203,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 126
+    "id": 137
   },
   {
     "name": "OLU",
@@ -2029,7 +2220,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 127
+    "id": 138
   },
   {
     "name": "OpenFlexure Microscope",
@@ -2050,7 +2241,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 128
+    "id": 139
   },
   {
     "name": "OpenFlexure Block Stage",
@@ -2071,7 +2262,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 129
+    "id": 140
   },
   {
     "name": "OpenFlexure Delta Stage",
@@ -2092,7 +2283,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 130
+    "id": 141
   },
   {
     "name": "OpenFlexure Field Dissection Microscope",
@@ -2109,7 +2300,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 131
+    "id": 142
   },
   {
     "name": "OpenFlexure Flat-Top Microscope",
@@ -2126,7 +2317,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 132
+    "id": 143
   },
   {
     "name": "openFrame",
@@ -2143,7 +2334,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 133
+    "id": 144
   },
   {
     "name": "Open Ocular",
@@ -2156,7 +2347,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 134
+    "id": 145
   },
   {
     "name": "open OPT",
@@ -2169,7 +2360,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 135
+    "id": 146
   },
   {
     "name": "openRAMAN",
@@ -2182,7 +2373,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 136
+    "id": 147
   },
   {
     "name": "OpenSPIM",
@@ -2199,7 +2390,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 137
+    "id": 148
   },
   {
     "name": "openSpin",
@@ -2212,7 +2403,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 138
+    "id": 149
   },
   {
     "name": "OPTiM",
@@ -2225,7 +2416,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 139
+    "id": 150
   },
   {
     "name": "OptiJ",
@@ -2238,7 +2429,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 140
+    "id": 151
   },
   {
     "name": "OPenT",
@@ -2251,7 +2442,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 141
+    "id": 152
   },
   {
     "name": "pDPC",
@@ -2268,7 +2459,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 142
+    "id": 153
   },
   {
     "name": "pgFocus",
@@ -2285,7 +2476,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 143
+    "id": 154
   },
   {
     "name": "Picroscope",
@@ -2302,7 +2493,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 144
+    "id": 155
   },
   {
     "name": "PlanktonScope",
@@ -2319,7 +2510,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 145
+    "id": 156
   },
   {
     "name": "Pi-based FPM",
@@ -2332,7 +2523,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 146
+    "id": 157
   },
   {
     "name": "PiFocus",
@@ -2353,7 +2544,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 147
+    "id": 158
   },
   {
     "name": "PUMA",
@@ -2370,7 +2561,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 148
+    "id": 159
   },
   {
     "name": "Raspi-based Fluorescence Microscope",
@@ -2383,7 +2574,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 149
+    "id": 160
   },
   {
     "name": "RiesPieces",
@@ -2396,7 +2587,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 150
+    "id": 161
   },
   {
     "name": "Red2PMic",
@@ -2409,7 +2600,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 151
+    "id": 162
   },
   {
     "name": "Sample preparation for light-sheet microscopy",
@@ -2422,7 +2613,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 152
+    "id": 163
   },
   {
     "name": "ShinyaBlades",
@@ -2435,7 +2626,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 153
+    "id": 164
   },
   {
     "name": "Smartphone Fluorescence Spectroscopy",
@@ -2448,7 +2639,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 154
+    "id": 165
   },
   {
     "name": "STORM",
@@ -2461,7 +2652,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 155
+    "id": 166
   },
   {
     "name": "Strobe microfluidics stage",
@@ -2474,7 +2665,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 156
+    "id": 167
   },
   {
     "name": "smfBox",
@@ -2491,7 +2682,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 157
+    "id": 168
   },
   {
     "name": "Squid",
@@ -2508,7 +2699,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 158
+    "id": 169
   },
   {
     "name": "Syringe pumps",
@@ -2525,7 +2716,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 159
+    "id": 170
   },
   {
     "name": "TWINKLE",
@@ -2542,7 +2733,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 160
+    "id": 171
   },
   {
     "name": "Two-Photon",
@@ -2555,7 +2746,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 161
+    "id": 172
   },
   {
     "name": "UC2 [You.See.Too.]",
@@ -2572,7 +2763,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 162
+    "id": 173
   },
   {
     "name": "UC2-Hi2",
@@ -2589,7 +2780,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 163
+    "id": 174
   },
   {
     "name": "UCsim2",
@@ -2606,7 +2797,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 164
+    "id": 175
   },
   {
     "name": "UC2-STORM-Fluorescence",
@@ -2623,7 +2814,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 165
+    "id": 176
   },
   {
     "name": "WOSM",
@@ -2636,7 +2827,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 166
+    "id": 177
   },
   {
     "name": "Open Blink",
@@ -2653,7 +2844,7 @@
     ],
     "category": "Hardware",
     "categorySlug": "hardware",
-    "id": 167
+    "id": 178
   },
   {
     "name": "Alfred Sikking's Microscopy Knowledge Database",
@@ -2666,7 +2857,7 @@
     ],
     "category": "Repositories for data and protocols",
     "categorySlug": "repositories",
-    "id": 168
+    "id": 179
   },
   {
     "name": "Awesome Biological Image Analysis",
@@ -2679,7 +2870,7 @@
     ],
     "category": "Repositories for data and protocols",
     "categorySlug": "repositories",
-    "id": 169
+    "id": 180
   },
   {
     "name": "AWS open data",
@@ -2692,7 +2883,7 @@
     ],
     "category": "Repositories for data and protocols",
     "categorySlug": "repositories",
-    "id": 170
+    "id": 181
   },
   {
     "name": "BossDB",
@@ -2705,7 +2896,7 @@
     ],
     "category": "Repositories for data and protocols",
     "categorySlug": "repositories",
-    "id": 171
+    "id": 182
   },
   {
     "name": "Broad Institute BioImage collection",
@@ -2718,7 +2909,7 @@
     ],
     "category": "Repositories for data and protocols",
     "categorySlug": "repositories",
-    "id": 172
+    "id": 183
   },
   {
     "name": "DYRAD",
@@ -2731,7 +2922,7 @@
     ],
     "category": "Repositories for data and protocols",
     "categorySlug": "repositories",
-    "id": 173
+    "id": 184
   },
   {
     "name": "EBI BioImage Archive",
@@ -2744,7 +2935,7 @@
     ],
     "category": "Repositories for data and protocols",
     "categorySlug": "repositories",
-    "id": 174
+    "id": 185
   },
   {
     "name": "EBI EMPIAR",
@@ -2757,7 +2948,7 @@
     ],
     "category": "Repositories for data and protocols",
     "categorySlug": "repositories",
-    "id": 175
+    "id": 186
   },
   {
     "name": "Figshare",
@@ -2770,7 +2961,7 @@
     ],
     "category": "Repositories for data and protocols",
     "categorySlug": "repositories",
-    "id": 176
+    "id": 187
   },
   {
     "name": "FocalPlane",
@@ -2787,7 +2978,7 @@
     ],
     "category": "Repositories for data and protocols",
     "categorySlug": "repositories",
-    "id": 177
+    "id": 188
   },
   {
     "name": "GBIF",
@@ -2800,7 +2991,7 @@
     ],
     "category": "Repositories for data and protocols",
     "categorySlug": "repositories",
-    "id": 178
+    "id": 189
   },
   {
     "name": "GitHub",
@@ -2813,7 +3004,7 @@
     ],
     "category": "Repositories for data and protocols",
     "categorySlug": "repositories",
-    "id": 179
+    "id": 190
   },
   {
     "name": "GitLab",
@@ -2826,7 +3017,7 @@
     ],
     "category": "Repositories for data and protocols",
     "categorySlug": "repositories",
-    "id": 180
+    "id": 191
   },
   {
     "name": "Image Data Resource (IDR)",
@@ -2839,7 +3030,7 @@
     ],
     "category": "Repositories for data and protocols",
     "categorySlug": "repositories",
-    "id": 181
+    "id": 192
   },
   {
     "name": "Objective Lens Introduction",
@@ -2852,7 +3043,7 @@
     ],
     "category": "Repositories for data and protocols",
     "categorySlug": "repositories",
-    "id": 182
+    "id": 193
   },
   {
     "name": "OpenOrganelle",
@@ -2865,7 +3056,7 @@
     ],
     "category": "Repositories for data and protocols",
     "categorySlug": "repositories",
-    "id": 183
+    "id": 194
   },
   {
     "name": "Open Science Framework (OSF)",
@@ -2878,7 +3069,7 @@
     ],
     "category": "Repositories for data and protocols",
     "categorySlug": "repositories",
-    "id": 184
+    "id": 195
   },
   {
     "name": "Open Source Hardware Channel (PLoS One)",
@@ -2891,7 +3082,7 @@
     ],
     "category": "Repositories for data and protocols",
     "categorySlug": "repositories",
-    "id": 185
+    "id": 196
   },
   {
     "name": "Protocols.io",
@@ -2904,7 +3095,7 @@
     ],
     "category": "Repositories for data and protocols",
     "categorySlug": "repositories",
-    "id": 186
+    "id": 197
   },
   {
     "name": "Wikimedia Commons",
@@ -2917,7 +3108,7 @@
     ],
     "category": "Repositories for data and protocols",
     "categorySlug": "repositories",
-    "id": 187
+    "id": 198
   },
   {
     "name": "Zenodo",
@@ -2930,7 +3121,7 @@
     ],
     "category": "Repositories for data and protocols",
     "categorySlug": "repositories",
-    "id": 188
+    "id": 199
   },
   {
     "name": "bioimagebook",
@@ -2943,7 +3134,7 @@
     ],
     "category": "Forums, learning resources & databases",
     "categorySlug": "forums",
-    "id": 189
+    "id": 200
   },
   {
     "name": "Confocal-microscopy-list",
@@ -2956,7 +3147,7 @@
     ],
     "category": "Forums, learning resources & databases",
     "categorySlug": "forums",
-    "id": 190
+    "id": 201
   },
   {
     "name": "Coursera",
@@ -2969,7 +3160,7 @@
     ],
     "category": "Forums, learning resources & databases",
     "categorySlug": "forums",
-    "id": 191
+    "id": 202
   },
   {
     "name": "DELFT Open Hardware Database",
@@ -2982,7 +3173,7 @@
     ],
     "category": "Forums, learning resources & databases",
     "categorySlug": "forums",
-    "id": 192
+    "id": 203
   },
   {
     "name": "EMBO",
@@ -2995,7 +3186,7 @@
     ],
     "category": "Forums, learning resources & databases",
     "categorySlug": "forums",
-    "id": 193
+    "id": 204
   },
   {
     "name": "Euro-Bioimaging",
@@ -3008,7 +3199,7 @@
     ],
     "category": "Forums, learning resources & databases",
     "categorySlug": "forums",
-    "id": 194
+    "id": 205
   },
   {
     "name": "FPbase",
@@ -3025,7 +3216,7 @@
     ],
     "category": "Forums, learning resources & databases",
     "categorySlug": "forums",
-    "id": 195
+    "id": 206
   },
   {
     "name": "France-Bioimaging",
@@ -3038,7 +3229,7 @@
     ],
     "category": "Forums, learning resources & databases",
     "categorySlug": "forums",
-    "id": 196
+    "id": 207
   },
   {
     "name": "German-BioImaging",
@@ -3051,7 +3242,7 @@
     ],
     "category": "Forums, learning resources & databases",
     "categorySlug": "forums",
-    "id": 197
+    "id": 208
   },
   {
     "name": "Global BioImaging Training Resource",
@@ -3064,7 +3255,7 @@
     ],
     "category": "Forums, learning resources & databases",
     "categorySlug": "forums",
-    "id": 198
+    "id": 209
   },
   {
     "name": "iBiology",
@@ -3077,7 +3268,7 @@
     ],
     "category": "Forums, learning resources & databases",
     "categorySlug": "forums",
-    "id": 199
+    "id": 210
   },
   {
     "name": "image.sc",
@@ -3090,7 +3281,7 @@
     ],
     "category": "Forums, learning resources & databases",
     "categorySlug": "forums",
-    "id": 200
+    "id": 211
   },
   {
     "name": "Marine Biological Laboratory (MBL)",
@@ -3103,7 +3294,7 @@
     ],
     "category": "Forums, learning resources & databases",
     "categorySlug": "forums",
-    "id": 201
+    "id": 212
   },
   {
     "name": "Microlist",
@@ -3116,7 +3307,7 @@
     ],
     "category": "Forums, learning resources & databases",
     "categorySlug": "forums",
-    "id": 202
+    "id": 213
   },
   {
     "name": "MyScope training",
@@ -3129,7 +3320,7 @@
     ],
     "category": "Forums, learning resources & databases",
     "categorySlug": "forums",
-    "id": 203
+    "id": 214
   },
   {
     "name": "Nikon MicroscopyU",
@@ -3142,7 +3333,7 @@
     ],
     "category": "Forums, learning resources & databases",
     "categorySlug": "forums",
-    "id": 204
+    "id": 215
   },
   {
     "name": "Olympus microscopy",
@@ -3155,7 +3346,7 @@
     ],
     "category": "Forums, learning resources & databases",
     "categorySlug": "forums",
-    "id": 205
+    "id": 216
   },
   {
     "name": "Open Neuroscience",
@@ -3168,7 +3359,7 @@
     ],
     "category": "Forums, learning resources & databases",
     "categorySlug": "forums",
-    "id": 206
+    "id": 217
   },
   {
     "name": "OpenFlexure Forum",
@@ -3181,7 +3372,7 @@
     ],
     "category": "Forums, learning resources & databases",
     "categorySlug": "forums",
-    "id": 207
+    "id": 218
   },
   {
     "name": "Women in Microscopy",
@@ -3194,7 +3385,7 @@
     ],
     "category": "Forums, learning resources & databases",
     "categorySlug": "forums",
-    "id": 208
+    "id": 219
   },
   {
     "name": "Zeiss microscopy",
@@ -3207,7 +3398,7 @@
     ],
     "category": "Forums, learning resources & databases",
     "categorySlug": "forums",
-    "id": 209
+    "id": 220
   },
   {
     "name": "BiA-PoL",
@@ -3236,7 +3427,7 @@
     ],
     "category": "Labs and people",
     "categorySlug": "labs",
-    "id": 210
+    "id": 221
   },
   {
     "name": "Bio Foundaries",
@@ -3249,7 +3440,7 @@
     ],
     "category": "Labs and people",
     "categorySlug": "labs",
-    "id": 211
+    "id": 222
   },
   {
     "name": "Carpenter-Singh lab",
@@ -3266,7 +3457,41 @@
     ],
     "category": "Labs and people",
     "categorySlug": "labs",
-    "id": 212
+    "id": 223
+  },
+  {
+    "name": "Cimini lab",
+    "description": "Beth Cimini. Bioimage analysis methods and training; co-develops CellProfiler and the Center for Open Bioimage Analysis (COBA). Broad Institute, Cambridge, USA.",
+    "links": [
+      {
+        "label": "Homepage",
+        "url": "https://cimini-lab.broadinstitute.org/"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/bethac07"
+      }
+    ],
+    "category": "Labs and people",
+    "categorySlug": "labs",
+    "id": 224
+  },
+  {
+    "name": "Culley lab",
+    "description": "Siân Culley. Quantitative and super-resolution microscopy with open analysis tools (NanoJ-SQUIRREL). King's College London, UK.",
+    "links": [
+      {
+        "label": "Homepage",
+        "url": "https://www.kcl.ac.uk/people/sian-culley"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/CulleyLab"
+      }
+    ],
+    "category": "Labs and people",
+    "categorySlug": "labs",
+    "id": 225
   },
   {
     "name": "Danuser lab",
@@ -3287,7 +3512,7 @@
     ],
     "category": "Labs and people",
     "categorySlug": "labs",
-    "id": 213
+    "id": 226
   },
   {
     "name": "Dean lab",
@@ -3304,7 +3529,7 @@
     ],
     "category": "Labs and people",
     "categorySlug": "labs",
-    "id": 214
+    "id": 227
   },
   {
     "name": "Eliceiri Lab (LOCI)",
@@ -3345,7 +3570,7 @@
     ],
     "category": "Labs and people",
     "categorySlug": "labs",
-    "id": 215
+    "id": 228
   },
   {
     "name": "Enderlein lab",
@@ -3366,7 +3591,7 @@
     ],
     "category": "Labs and people",
     "categorySlug": "labs",
-    "id": 216
+    "id": 229
   },
   {
     "name": "Endesfelder lab",
@@ -3379,7 +3604,7 @@
     ],
     "category": "Labs and people",
     "categorySlug": "labs",
-    "id": 217
+    "id": 230
   },
   {
     "name": "Ganzinger lab",
@@ -3400,7 +3625,7 @@
     ],
     "category": "Labs and people",
     "categorySlug": "labs",
-    "id": 218
+    "id": 231
   },
   {
     "name": "Grecco lab",
@@ -3413,7 +3638,24 @@
     ],
     "category": "Labs and people",
     "categorySlug": "labs",
-    "id": 219
+    "id": 232
+  },
+  {
+    "name": "Grussmayer lab",
+    "description": "Kristin Grußmayer. Quantitative and super-resolution fluorescence microscopy (SOFI, multiplexed and light-sheet imaging). TU Delft, the Netherlands.",
+    "links": [
+      {
+        "label": "Homepage",
+        "url": "https://grussmayerlab.github.io/"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/GrussmayerLab"
+      }
+    ],
+    "category": "Labs and people",
+    "categorySlug": "labs",
+    "id": 233
   },
   {
     "name": "Haselhoff lab",
@@ -3434,7 +3676,7 @@
     ],
     "category": "Labs and people",
     "categorySlug": "labs",
-    "id": 220
+    "id": 234
   },
   {
     "name": "Hohlbein lab",
@@ -3451,7 +3693,7 @@
     ],
     "category": "Labs and people",
     "categorySlug": "labs",
-    "id": 221
+    "id": 235
   },
   {
     "name": "Heilemann lab",
@@ -3468,7 +3710,7 @@
     ],
     "category": "Labs and people",
     "categorySlug": "labs",
-    "id": 222
+    "id": 236
   },
   {
     "name": "Heintzmann lab",
@@ -3485,7 +3727,7 @@
     ],
     "category": "Labs and people",
     "categorySlug": "labs",
-    "id": 223
+    "id": 237
   },
   {
     "name": "Henriques lab",
@@ -3502,7 +3744,7 @@
     ],
     "category": "Labs and people",
     "categorySlug": "labs",
-    "id": 224
+    "id": 238
   },
   {
     "name": "Holden lab",
@@ -3519,7 +3761,58 @@
     ],
     "category": "Labs and people",
     "categorySlug": "labs",
-    "id": 225
+    "id": 239
+  },
+  {
+    "name": "Jacquemet lab",
+    "description": "Guillaume Jacquemet. Cell migration and cancer cell invasion studied with live microscopy and open analysis tools. Åbo Akademi University, Turku, Finland.",
+    "links": [
+      {
+        "label": "Homepage",
+        "url": "https://cellmig.org/"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/CellMigrationLab"
+      }
+    ],
+    "category": "Labs and people",
+    "categorySlug": "labs",
+    "id": 240
+  },
+  {
+    "name": "Jug lab",
+    "description": "Florian Jug. Machine learning for bioimage analysis — self-supervised denoising and segmentation. Human Technopole, Milan, Italy.",
+    "links": [
+      {
+        "label": "Homepage",
+        "url": "https://juglab.github.io/"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/juglab"
+      }
+    ],
+    "category": "Labs and people",
+    "categorySlug": "labs",
+    "id": 241
+  },
+  {
+    "name": "Kreshuk lab",
+    "description": "Anna Kreshuk. Machine learning for bioimage analysis; leads development of ilastik. EMBL Heidelberg, Germany.",
+    "links": [
+      {
+        "label": "Homepage",
+        "url": "https://www.embl.org/groups/kreshuk/"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/ilastik"
+      }
+    ],
+    "category": "Labs and people",
+    "categorySlug": "labs",
+    "id": 242
   },
   {
     "name": "Manley lab",
@@ -3536,7 +3829,7 @@
     ],
     "category": "Labs and people",
     "categorySlug": "labs",
-    "id": 226
+    "id": 243
   },
   {
     "name": "NeuroCyto Lab",
@@ -3553,7 +3846,7 @@
     ],
     "category": "Labs and people",
     "categorySlug": "labs",
-    "id": 227
+    "id": 244
   },
   {
     "name": "Prakash lab",
@@ -3570,7 +3863,20 @@
     ],
     "category": "Labs and people",
     "categorySlug": "labs",
-    "id": 228
+    "id": 245
+  },
+  {
+    "name": "Preibisch lab",
+    "description": "Stephan Preibisch. Image registration, stitching and reconstruction for light-sheet and large-scale microscopy (BigStitcher, Multiview, Mastodon). HHMI Janelia, USA.",
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/PreibischLab"
+      }
+    ],
+    "category": "Labs and people",
+    "categorySlug": "labs",
+    "id": 246
   },
   {
     "name": "QI2 lab",
@@ -3587,7 +3893,20 @@
     ],
     "category": "Labs and people",
     "categorySlug": "labs",
-    "id": 229
+    "id": 247
+  },
+  {
+    "name": "Radenovic lab",
+    "description": "Aleksandra Radenovic. Laboratory of Nanoscale Biology (LBEN): single-molecule biophysics, nanopore sensing, and super-resolution imaging with 2D materials. EPFL, Lausanne, Switzerland.",
+    "links": [
+      {
+        "label": "Homepage",
+        "url": "https://www.epfl.ch/labs/lben/"
+      }
+    ],
+    "category": "Labs and people",
+    "categorySlug": "labs",
+    "id": 248
   },
   {
     "name": "Ries lab",
@@ -3612,7 +3931,7 @@
     ],
     "category": "Labs and people",
     "categorySlug": "labs",
-    "id": 230
+    "id": 249
   },
   {
     "name": "Royer lab",
@@ -3629,7 +3948,24 @@
     ],
     "category": "Labs and people",
     "categorySlug": "labs",
-    "id": 231
+    "id": 250
+  },
+  {
+    "name": "Saalfeld lab",
+    "description": "Stephan Saalfeld. Scalable image processing and reconstruction for connectomics and large light-microscopy data (N5/Zarr, BigDataViewer). Janelia Research Campus, USA.",
+    "links": [
+      {
+        "label": "Homepage",
+        "url": "https://www.janelia.org/lab/saalfeld-lab"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/saalfeldlab"
+      }
+    ],
+    "category": "Labs and people",
+    "categorySlug": "labs",
+    "id": 251
   },
   {
     "name": "Sieben lab",
@@ -3646,7 +3982,24 @@
     ],
     "category": "Labs and people",
     "categorySlug": "labs",
-    "id": 232
+    "id": 252
+  },
+  {
+    "name": "Stringer & Pachitariu labs",
+    "description": "Carsen Stringer & Marius Pachitariu. Machine-learning tools for large-scale cellular and neural imaging (Cellpose, suite2p, facemap). Janelia Research Campus, USA.",
+    "links": [
+      {
+        "label": "Homepage",
+        "url": "https://www.janelia.org/lab/stringer-lab"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/MouseLand"
+      }
+    ],
+    "category": "Labs and people",
+    "categorySlug": "labs",
+    "id": 253
   },
   {
     "name": "Testa lab",
@@ -3663,7 +4016,7 @@
     ],
     "category": "Labs and people",
     "categorySlug": "labs",
-    "id": 233
+    "id": 254
   },
   {
     "name": "Tutkus lab",
@@ -3680,7 +4033,7 @@
     ],
     "category": "Labs and people",
     "categorySlug": "labs",
-    "id": 234
+    "id": 255
   },
   {
     "name": "Vicidomini lab",
@@ -3697,7 +4050,7 @@
     ],
     "category": "Labs and people",
     "categorySlug": "labs",
-    "id": 235
+    "id": 256
   },
   {
     "name": "Wählby lab",
@@ -3714,7 +4067,7 @@
     ],
     "category": "Labs and people",
     "categorySlug": "labs",
-    "id": 236
+    "id": 257
   },
   {
     "name": "Waller lab",
@@ -3739,7 +4092,24 @@
     ],
     "category": "Labs and people",
     "categorySlug": "labs",
-    "id": 237
+    "id": 258
+  },
+  {
+    "name": "Weigert lab",
+    "description": "Martin Weigert. Computational imaging and deep learning for microscopy (StarDist, CARE, Spotiflow). TU Dresden, Germany.",
+    "links": [
+      {
+        "label": "Homepage",
+        "url": "https://weigertlab.org/"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/weigertlab"
+      }
+    ],
+    "category": "Labs and people",
+    "categorySlug": "labs",
+    "id": 259
   },
   {
     "name": "Wenzel lab",
@@ -3756,7 +4126,7 @@
     ],
     "category": "Labs and people",
     "categorySlug": "labs",
-    "id": 238
+    "id": 260
   },
   {
     "name": "York lab",
@@ -3773,7 +4143,7 @@
     ],
     "category": "Labs and people",
     "categorySlug": "labs",
-    "id": 239
+    "id": 261
   },
   {
     "name": "Zhao lab",
@@ -3790,7 +4160,7 @@
     ],
     "category": "Labs and people",
     "categorySlug": "labs",
-    "id": 240
+    "id": 262
   },
   {
     "name": "Fusion360",
@@ -3807,7 +4177,7 @@
     },
     "category": "CAD tools",
     "categorySlug": "cad-tools",
-    "id": 241
+    "id": 263
   },
   {
     "name": "Autodesk Inventor",
@@ -3824,7 +4194,7 @@
     },
     "category": "CAD tools",
     "categorySlug": "cad-tools",
-    "id": 242
+    "id": 264
   },
   {
     "name": "AutoCAD",
@@ -3841,7 +4211,7 @@
     },
     "category": "CAD tools",
     "categorySlug": "cad-tools",
-    "id": 243
+    "id": 265
   },
   {
     "name": "Solidworks",
@@ -3858,7 +4228,7 @@
     },
     "category": "CAD tools",
     "categorySlug": "cad-tools",
-    "id": 244
+    "id": 266
   },
   {
     "name": "RhinoCAD",
@@ -3875,7 +4245,7 @@
     },
     "category": "CAD tools",
     "categorySlug": "cad-tools",
-    "id": 245
+    "id": 267
   },
   {
     "name": "OpenSCAD",
@@ -3892,7 +4262,7 @@
     },
     "category": "CAD tools",
     "categorySlug": "cad-tools",
-    "id": 246
+    "id": 268
   },
   {
     "name": "FreeCAD",
@@ -3909,7 +4279,7 @@
     },
     "category": "CAD tools",
     "categorySlug": "cad-tools",
-    "id": 247
+    "id": 269
   },
   {
     "name": "Blender",
@@ -3926,7 +4296,7 @@
     },
     "category": "CAD tools",
     "categorySlug": "cad-tools",
-    "id": 248
+    "id": 270
   },
   {
     "name": "Tinkercad",
@@ -3943,7 +4313,7 @@
     },
     "category": "CAD tools",
     "categorySlug": "cad-tools",
-    "id": 249
+    "id": 271
   },
   {
     "name": "OnShape",
@@ -3960,7 +4330,7 @@
     },
     "category": "CAD tools",
     "categorySlug": "cad-tools",
-    "id": 250
+    "id": 272
   },
   {
     "name": "SketchUp",
@@ -3977,7 +4347,7 @@
     },
     "category": "CAD tools",
     "categorySlug": "cad-tools",
-    "id": 251
+    "id": 273
   },
   {
     "name": "Zenodo",
@@ -3991,7 +4361,7 @@
     },
     "category": "CAD tools",
     "categorySlug": "cad-tools",
-    "id": 252
+    "id": 274
   },
   {
     "name": "Thingiverse",
@@ -4005,7 +4375,7 @@
     },
     "category": "CAD tools",
     "categorySlug": "cad-tools",
-    "id": 253
+    "id": 275
   },
   {
     "name": "Fusion360",
@@ -4019,7 +4389,7 @@
     },
     "category": "CAD tools",
     "categorySlug": "cad-tools",
-    "id": 254
+    "id": 276
   },
   {
     "name": "GrabCAD",
@@ -4033,7 +4403,7 @@
     },
     "category": "CAD tools",
     "categorySlug": "cad-tools",
-    "id": 255
+    "id": 277
   },
   {
     "name": "Yeggi",
@@ -4047,7 +4417,7 @@
     },
     "category": "CAD tools",
     "categorySlug": "cad-tools",
-    "id": 256
+    "id": 278
   },
   {
     "name": "GitLab",
@@ -4061,7 +4431,7 @@
     },
     "category": "CAD tools",
     "categorySlug": "cad-tools",
-    "id": 257
+    "id": 279
   },
   {
     "name": "GitHub",
@@ -4075,7 +4445,7 @@
     },
     "category": "CAD tools",
     "categorySlug": "cad-tools",
-    "id": 258
+    "id": 280
   },
   {
     "name": "NIH 3D printing database",
@@ -4089,7 +4459,7 @@
     },
     "category": "CAD tools",
     "categorySlug": "cad-tools",
-    "id": 259
+    "id": 281
   },
   {
     "name": "Printables",
@@ -4103,7 +4473,7 @@
     },
     "category": "CAD tools",
     "categorySlug": "cad-tools",
-    "id": 260
+    "id": 282
   },
   {
     "name": "Ondsel lens",
@@ -4117,7 +4487,7 @@
     },
     "category": "CAD tools",
     "categorySlug": "cad-tools",
-    "id": 261
+    "id": 283
   },
   {
     "name": "OnShape",
@@ -4131,6 +4501,6 @@
     },
     "category": "CAD tools",
     "categorySlug": "cad-tools",
-    "id": 262
+    "id": 284
   }
 ]
